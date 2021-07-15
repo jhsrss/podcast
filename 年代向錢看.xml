@@ -1,1 +1,45 @@
 
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+	<title>年代向錢看</title>
+	<link>https://jhsrss.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://jhsrss.github.io/podcast/feed.xml" rel="self" type="application/rss+xml"/>
+	<copyright>年代向錢看</copyright>
+	<itunes:subtitle>Talk News</itunes:subtitle>
+	<itunes:author>年代向錢看</itunes:author>
+	<itunes:summary>
+	年代向錢看 YouTube 節目
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	- 年代向錢看 YouTube 節目
+	</description>
+	<itunes:owner>
+	<itunes:name>年代向錢看</itunes:name>
+	<itunes:email>nobody@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://archive.org/download/money-forward/MoneyForward.jpg"/>
+	<itunes:category text="Education">
+		<itunes:category text="Self-Improvement"/>
+	</itunes:category>
+	<itunes:category text="Health &amp; Fitness">
+		<itunes:category text="Mental Health"/>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210714 年代向錢看 Part 1 獨！日本贈第三批疫苗！國產疫苗對抗變種病毒保護力大降？！高端澄清！疫苗大國博弈！美國跟進！中國操作疫苗議題兩難？</title>
+<itunes:subtitle>20210714 年代向錢看 Part 1 獨！日本贈第三批疫苗！國產疫苗對抗變種病毒保護力大降？！高端澄清！疫苗大國博弈！美國跟進！中國操作疫苗議題兩難？subtitle </itunes:subtitle>
+<itunes:summary> 20210714 年代向錢看 Part 1 summary </itunes:summary>
+<description> 20210714 年代向錢看 Part 1 description </description>
+<enclosure url="https://archive.org/download/20210714_20210715/20210714%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201%20%E7%8D%A8%EF%BC%81%E6%97%A5%E6%9C%AC%E8%B4%88%E7%AC%AC%E4%B8%89%E6%89%B9%E7%96%AB%E8%8B%97%EF%BC%81%E5%9C%8B%E7%94%A2%E7%96%AB%E8%8B%97%E5%B0%8D%E6%8A%97%E8%AE%8A%E7%A8%AE%E7%97%85%E6%AF%92%E4%BF%9D%E8%AD%B7%E5%8A%9B%E5%A4%A7%E9%99%8D%EF%BC%9F%EF%BC%81%E9%AB%98%E7%AB%AF%E6%BE%84%E6%B8%85%EF%BC%81%E7%96%AB%E8%8B%97%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%EF%BC%81%E7%BE%8E%E5%9C%8B%E8%B7%9F%E9%80%B2%EF%BC%81%E4%B8%AD%E5%9C%8B%E6%93%8D%E4%BD%9C%E7%96%AB%E8%8B%97%E8%AD%B0%E9%A1%8C%E5%85%A9%E9%9B%A3%EF%BC%9F.mp3" length='20070409' type='audio/mpeg'/>
+<itunes:duration>48:53</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210714_20210715/20210714%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201%20%E7%8D%A8%EF%BC%81%E6%97%A5%E6%9C%AC%E8%B4%88%E7%AC%AC%E4%B8%89%E6%89%B9%E7%96%AB%E8%8B%97%EF%BC%81%E5%9C%8B%E7%94%A2%E7%96%AB%E8%8B%97%E5%B0%8D%E6%8A%97%E8%AE%8A%E7%A8%AE%E7%97%85%E6%AF%92%E4%BF%9D%E8%AD%B7%E5%8A%9B%E5%A4%A7%E9%99%8D%EF%BC%9F%EF%BC%81%E9%AB%98%E7%AB%AF%E6%BE%84%E6%B8%85%EF%BC%81%E7%96%AB%E8%8B%97%E5%A4%A7%E5%9C%8B%E5%8D%9A%E5%BC%88%EF%BC%81%E7%BE%8E%E5%9C%8B%E8%B7%9F%E9%80%B2%EF%BC%81%E4%B8%AD%E5%9C%8B%E6%93%8D%E4%BD%9C%E7%96%AB%E8%8B%97%E8%AD%B0%E9%A1%8C%E5%85%A9%E9%9B%A3%EF%BC%9F.mp3</guid>
+<pubDate>2021/07/14</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+</channel>
+</rss>
