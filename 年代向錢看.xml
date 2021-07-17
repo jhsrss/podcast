@@ -42,5 +42,34 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210716 年代向錢看 Part 1 title</title>
+<itunes:subtitle>年代向錢看 Part 1 subtitle </itunes:subtitle>
+<itunes:summary> 年代向錢看 Part 1 summary </itunes:summary>
+<description> 獨！台灣疫苗多方角力！鴻海、台積電採購BNT卡卡？國產疫苗多方角力！美中大國博弈！英特爾收購格羅方德！挑戰台積電？ </description>
+<enclosure url="https://archive.org/download/20210716-part-1_202107/20210716%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='20219894' type='audio/mpeg'/>
+<itunes:duration>48:53</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210716-part-1_202107/20210716%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/07/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210716 年代向錢看 Part 2 title</title>
+<itunes:subtitle>年代向錢看 Part 2 subtitle </itunes:subtitle>
+<itunes:summary> 年代向錢看 Part 2 summary </itunes:summary>
+<description> 獨！美德認定中國是競爭對手？！布林肯呼籲避免中國濫用AI？美軍機直飛中國！25架F-22前進西太平洋！美軍再秀大象漫步？ </description>
+<enclosure url="https://archive.org/download/20210716-part-2/20210716%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19138356' type='audio/mpeg'/>
+<itunes:duration>45:47</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210716-part-2/20210716%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/07/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
