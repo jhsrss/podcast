@@ -40,5 +40,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210713 鄭知道了 完整版 title</title>
+<itunes:subtitle>鄭知道了 完整版 subtitle </itunes:subtitle>
+<itunes:summary> 鄭知道了 完整版 summary </itunes:summary>
+<description> 賣的比送出去的還多 中國藉疫苗外交大賺災難財絕不放過任何做生意機會 力阻台灣採購BNT疫苗背後全為布局復必泰│呂惠敏 </description>
+<enclosure url="https://archive.org/download/20210716_20210717/20210716%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86%20%E5%AE%8C%E6%95%B4%E7%89%88.mp3" length='37938914' type='audio/mpeg'/>
+<itunes:duration>01:39:27</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210716_20210717/20210716%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86%20%E5%AE%8C%E6%95%B4%E7%89%88.mp3</guid>
+<pubDate>2021/07/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+		
 </channel>
 </rss>
