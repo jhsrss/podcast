@@ -3,7 +3,7 @@
 	<title>鄧惠文-心內話</title>
 	<link>https://jhsrss.github.io/</link>
 	<language>en-us</language>
-	<atom:link href="https://jhsrss.github.io/podcast/突發琪想.xml" rel="self" type="application/rss+xml"/>
+	<atom:link href="https://jhsrss.github.io/podcast/鄧惠文心內話.xml" rel="self" type="application/rss+xml"/>
 	<copyright>鄧惠文-心內話</copyright>
 	<itunes:subtitle>Talk News</itunes:subtitle>
 	<itunes:author>鄧惠文</itunes:author>
@@ -33,7 +33,8 @@
 <itunes:author>鄧惠文</itunes:author>
 <title>唐鳳與鄧惠文的深度對談</title>
 <itunes:subtitle>唐鳳與鄧惠文的深度對談 subtitle </itunes:subtitle>
-<itunes:summary> 唐鳳與鄧惠文的深度對談 </description>
+<itunes:summary> 唐鳳與鄧惠文的深度對談 summary </itunes:summary>
+<description> 唐鳳與鄧惠文的深度對談 </description>
 <enclosure url="https://archive.org/download/20201217_202107/20201217%20%E5%94%90%E9%B3%B3%E8%88%87%E9%84%A7%E6%83%A0%E6%96%87%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%B0%8D%E8%AB%87-%E5%AD%97%E5%B9%95%E5%AE%8C%E6%95%B4%E7%89%88.mp3" length='24576579' type='audio/mpeg'/>
 <itunes:duration>54:44</itunes:duration>
 <guid isPermaLink="false">https://archive.org/download/20201217_202107/20201217%20%E5%94%90%E9%B3%B3%E8%88%87%E9%84%A7%E6%83%A0%E6%96%87%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%B0%8D%E8%AB%87-%E5%AD%97%E5%B9%95%E5%AE%8C%E6%95%B4%E7%89%88.mp3</guid>
@@ -46,7 +47,7 @@
 <itunes:author>鄧惠文</itunes:author>
 <title>20210525 鄭弘儀 專訪 鄧惠文</title>
 <itunes:subtitle>20210525 鄭弘儀 專訪 鄧惠文 subtitle </itunes:subtitle>
-<itunes:summary> 20210525 鄭弘儀 專訪 鄧惠文 </description>
+<itunes:summary> 20210525 鄭弘儀 專訪 鄧惠文 summary </itunes:summary> <description> 20210525 鄭弘儀 專訪 鄧惠文 </description>
 <enclosure url="https://archive.org/download/20210525_202107/20210525%20%E9%84%AD%E5%BC%98%E5%84%80%20%E5%B0%88%E8%A8%AA%20%E9%84%A7%E6%83%A0%E6%96%87.mp3" length='21566151' type='audio/mpeg'/>
 <itunes:duration>55:20</itunes:duration>
 <guid isPermaLink="false">https://archive.org/download/20210525_202107/20210525%20%E9%84%AD%E5%BC%98%E5%84%80%20%E5%B0%88%E8%A8%AA%20%E9%84%A7%E6%83%A0%E6%96%87.mp3</guid>
