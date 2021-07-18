@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+	<title>鄧惠文-心內話</title>
+	<link>https://jhsrss.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://jhsrss.github.io/podcast/突發琪想.xml" rel="self" type="application/rss+xml"/>
+	<copyright>鄧惠文-心內話</copyright>
+	<itunes:subtitle>Talk News</itunes:subtitle>
+	<itunes:author>鄧惠文</itunes:author>
+	<itunes:summary>
+	鄧惠文-心內話 YouTube 節目
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	- 鄧惠文-心內話 YouTube 節目
+	</description>
+	<itunes:owner>
+	<itunes:name>鄧惠文-心內話</itunes:name>
+	<itunes:email>nobody@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://archive.org/download/img_20210718_20210718/%E9%84%A7%E6%83%A0%E6%96%87-%E5%BF%83%E5%85%A7%E8%A9%B1%20Img.jpg"/>
+	<itunes:category text="News">
+		<itunes:category text="News"/>
+	</itunes:category>
+	<itunes:category text="News">
+		<itunes:category text="News"/>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄧惠文</itunes:author>
+<title>唐鳳與鄧惠文的深度對談</title>
+<itunes:subtitle>唐鳳與鄧惠文的深度對談 subtitle </itunes:subtitle>
+<itunes:summary> 唐鳳與鄧惠文的深度對談 </description>
+<enclosure url="https://archive.org/download/20201217_202107/20201217%20%E5%94%90%E9%B3%B3%E8%88%87%E9%84%A7%E6%83%A0%E6%96%87%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%B0%8D%E8%AB%87-%E5%AD%97%E5%B9%95%E5%AE%8C%E6%95%B4%E7%89%88.mp3" length='24576579' type='audio/mpeg'/>
+<itunes:duration>54:44</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20201217_202107/20201217%20%E5%94%90%E9%B3%B3%E8%88%87%E9%84%A7%E6%83%A0%E6%96%87%E7%9A%84%E6%B7%B1%E5%BA%A6%E5%B0%8D%E8%AB%87-%E5%AD%97%E5%B9%95%E5%AE%8C%E6%95%B4%E7%89%88.mp3</guid>
+<pubDate>2020/12/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄧惠文</itunes:author>
+<title>20210525 鄭弘儀 專訪 鄧惠文</title>
+<itunes:subtitle>20210525 鄭弘儀 專訪 鄧惠文 subtitle </itunes:subtitle>
+<itunes:summary> 20210525 鄭弘儀 專訪 鄧惠文 </description>
+<enclosure url="https://archive.org/download/20210525_202107/20210525%20%E9%84%AD%E5%BC%98%E5%84%80%20%E5%B0%88%E8%A8%AA%20%E9%84%A7%E6%83%A0%E6%96%87.mp3" length='21566151' type='audio/mpeg'/>
+<itunes:duration>55:20</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210525_202107/20210525%20%E9%84%AD%E5%BC%98%E5%84%80%20%E5%B0%88%E8%A8%AA%20%E9%84%A7%E6%83%A0%E6%96%87.mp3</guid>
+<pubDate>2021/05/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+	
+</channel>
+</rss>
