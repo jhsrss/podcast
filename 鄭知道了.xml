@@ -53,6 +53,22 @@
 <pubDate>2021/07/16</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
-		
+
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210717 周末鄭知道了</title>
+<itunes:subtitle>周末鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 周末鄭知道了 summary </itunes:summary>
+<description> 全世界最特別的實驗品 楊志良等不及聯亞解盲甘願冒風險混打AZ疫苗 國民黨批陳建仁打特權安慰劑糗遭受試者打臉｜許貴雅 </description>
+<enclosure url="https://archive.org/download/20210717_20210718/20210717%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38735024' type='audio/mpeg'/>
+<itunes:duration>01:40:58</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210717_20210718/20210717%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/07/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+	
 </channel>
 </rss>

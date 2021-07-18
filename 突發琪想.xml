@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+	<title>突發琪想</title>
+	<link>https://jhsrss.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://jhsrss.github.io/podcast/突發琪想.xml" rel="self" type="application/rss+xml"/>
+	<copyright>突發琪想</copyright>
+	<itunes:subtitle>Talk News</itunes:subtitle>
+	<itunes:author>突發琪想</itunes:author>
+	<itunes:summary>
+	突發琪想 YouTube 節目
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	- 突發琪想 YouTube 節目
+	</description>
+	<itunes:owner>
+	<itunes:name>突發琪想</itunes:name>
+	<itunes:email>nobody@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://archive.org/download/img_20210717/%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3%20Img.jpg"/>
+	<itunes:category text="News">
+		<itunes:category text="News"/>
+	</itunes:category>
+	<itunes:category text="News">
+		<itunes:category text="News"/>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210716 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary> 突發琪想 summary </itunes:summary>
+<description> 北市疫情又是兩位數！柯P派「忍者龜」找病毒能清零？ 狂！「護身軍刀」出竅！美攜11國大軍演！中國腿軟了？ </description>
+<enclosure url="https://archive.org/download/20210716_20210718/20210716%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40527023' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210716_20210718/20210716%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/07/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+		
+</channel>
+</rss>
