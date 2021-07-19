@@ -86,6 +86,20 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄧惠文</itunes:author>
+<title>大人的 Small Talk EP 152</title>
+<itunes:subtitle>大人的 Small Talk EP 152 subtitle </itunes:subtitle>
+<itunes:summary> 大人的 Small Talk EP 152 summary </itunes:summary>
+<description> 父母關係的矛盾 - 我會焦慮，因為我不想看你變老的樣子｜精神科醫師 鄧惠文 專訪 </description>
+<enclosure url="https://archive.org/download/20210519-small-talk-ep-152/20210519%20%E5%A4%A7%E4%BA%BA%E7%9A%84Small%20Talk%20EP152.mp3" length='24973927' type='audio/mpeg'/>
+<itunes:duration>01:01:03</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210519-small-talk-ep-152/20210519%20%E5%A4%A7%E4%BA%BA%E7%9A%84Small%20Talk%20EP152.mp3</guid>
+<pubDate>2021/05/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
