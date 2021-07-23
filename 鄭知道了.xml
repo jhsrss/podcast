@@ -84,5 +84,20 @@
 </item>
 
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210721 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 鄭知道了 summary </itunes:summary>
+<description> 千年一遇大水患！鄭州暴雨倒灌地鐵水淹成人胸口釀12死 民眾嘆恐是最後一則訊息 疑紅色警戒通知太慢？央視竟讚應對有樣｜鄭弘儀 </description>
+<enclosure url="https://archive.org/download/20210721_20210723/20210721%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='36497674' type='audio/mpeg'/>
+<itunes:duration>01:36:27</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210721_20210723/20210721%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/07/21</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>

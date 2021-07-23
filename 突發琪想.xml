@@ -41,6 +41,20 @@
 <pubDate>2021/07/16</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
-		
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210722 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary> 突發琪想 summary </itunes:summary>
+<description> 過河拆橋？柯P竟說王必勝救援北農沒貢獻？被批不厚道？ 鄭州洪災悲劇！官媒「看不見」？甩鍋「美軍輸台氣象武器」？ </description>
+<enclosure url="https://archive.org/download/20210722_20210723_0243/20210722%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40555148' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210722_20210723_0243/20210722%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/07/22</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
