@@ -70,6 +70,35 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210723 年代向錢看 Part 1 title</title>
+<itunes:subtitle>年代向錢看 Part 1 subtitle </itunes:subtitle>
+<itunes:summary> 年代向錢看 Part 1 summary </itunes:summary>
+<description> 20210723 年代向錢看 Part 1 獨！三級警戒降二級！行政院拍板7／27降級！隱形傳播鏈沒有斷？高端疫苗良率偏低？東奧前夕「產經」全版感謝日本疫苗！台積電壓盤、傳產抗賣壓！ </description>
+<enclosure url="https://archive.org/download/20210723-part-1/20210723%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='20371655' type='audio/mpeg'/>
+<itunes:duration>48:52</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210723-part-1/20210723%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/07/23</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210723 年代向錢看 Part 2 title</title>
+<itunes:subtitle>年代向錢看 Part 2 subtitle </itunes:subtitle>
+<itunes:summary> 年代向錢看 Part 2 summary </itunes:summary>
+<description> 20210723 年代向錢看 Part 2 獨！對中國太軟弱！華爾街日報重批拜登講很硬做很少？拜登嗆他相信21世紀由寡頭決定？紅色資本入侵台灣半導體命脈？共軍2027具犯台能力？！台海關鍵時刻？
+ </description>
+<enclosure url="https://archive.org/download/20210723-part-1/20210723%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19979360' type='audio/mpeg'/>
+<itunes:duration>47:22</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210723-part-1/20210723%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/07/23</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
