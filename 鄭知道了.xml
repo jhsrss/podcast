@@ -126,6 +126,33 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>周末鄭知道了</itunes:author>
+<title>20210724 周末鄭知道了</title>
+<itunes:subtitle>周末鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 20210724 周末鄭知道了 summary </itunes:summary>
+<description> 20210724 周末鄭知道了 完整版 日本主播一句台灣讓中國崩潰！騰訊急切換轉播畫面連中國隊進場都錯過 鄭州京廣路隧道遇大洪水成墳場 習近平訪西藏挨轟連作秀都懶｜許貴雅  </description>
+<enclosure url="https://archive.org/download/20210724_20210726/20210724%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37930174' type='audio/mpeg'/>
+<itunes:duration>01:38:06</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210724_20210726/20210724%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/07/24</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>周末鄭知道了</itunes:author>
+<title>20210725 周末鄭知道了</title>
+<itunes:subtitle>周末鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 20210725 周末鄭知道了 summary </itunes:summary>
+<description> 20210725 周末版鄭知道了 完整版 不管小粉紅崩潰就是要正名 東奧開幕日本主播一句台灣中國氣炸 習近平不甩河南暴雨淹城飛奔西藏 災情又搞蓋牌現陰謀｜許貴雅  </description>
+<enclosure url="https://archive.org/download/20210725_20210726/20210725%20%E5%91%A8%E6%9C%AB%E7%89%88%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37437290' type='audio/mpeg'/>
+<itunes:duration>01:37:50</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210725_20210726/20210725%20%E5%91%A8%E6%9C%AB%E7%89%88%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/07/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
