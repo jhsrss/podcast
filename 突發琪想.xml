@@ -70,5 +70,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210726 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary> 20210726 突發琪想 東奧現「台灣正名」氛圍！小粉紅崩潰外！不開心的還有國民黨？  河南洪災官方忙歌頌？習卻赴西藏談「廁所革命」？另有軍事目的？ summary </itunes:summary>
+<description> 20210726 突發琪想 東奧現「台灣正名」氛圍！小粉紅崩潰外！不開心的還有國民黨？  河南洪災官方忙歌頌？習卻赴西藏談「廁所革命」？另有軍事目的？ </description>
+<enclosure url="https://archive.org/download/20210726_20210726_1750/20210726%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40309080' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210726_20210726_1750/20210726%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/07/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
