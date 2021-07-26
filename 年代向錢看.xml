@@ -99,6 +99,36 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210726 年代向錢看 Part 1 title</title>
+<itunes:subtitle>年代向錢看 Part 1 subtitle </itunes:subtitle>
+<itunes:summary> 20210726 年代向錢看 Part 1 獨！降級確定！727降至二級警戒！二級警戒隱憂 雙北隱形傳播鏈難控？東奧進場中華台北NHK直接喊台灣！環時氣噗噗批搞中國？台股開高走低！ summary </itunes:summary>
+<description> 20210726 年代向錢看 Part 1 獨！降級確定！727降至二級警戒！二級警戒隱憂 雙北隱形傳播鏈難控？東奧進場中華台北NHK直接喊台灣！環時氣噗噗批搞中國？台股開高走低！
+ </description>
+<enclosure url="https://archive.org/download/20210726-part-1/20210726%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='20391638' type='audio/mpeg'/>
+<itunes:duration>48:52</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210726-part-1/20210726%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/07/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210726 年代向錢看 Part 2 title</title>
+<itunes:subtitle>年代向錢看 Part 2 subtitle </itunes:subtitle>
+<itunes:summary> 20210726 年代向錢看 Part 2 獨！史達林主義重現！中國正射殺美投資者？！北京對補教業出手！中概股崩跌！富比士示警 台中港成共軍首要目標？！英國出現B_1_621變異株！擴散26國？！ summary </itunes:summary>
+<description> 20210726 年代向錢看 Part 2 獨！史達林主義重現！中國正射殺美投資者？！北京對補教業出手！中概股崩跌！富比士示警 台中港成共軍首要目標？！英國出現B_1_621變異株！擴散26國？！
+ </description>
+<enclosure url="https://archive.org/download/20210726-part-1/20210726%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19817738' type='audio/mpeg'/>
+<itunes:duration>46:56</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210726-part-1/20210726%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/07/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

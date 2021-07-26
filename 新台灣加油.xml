@@ -41,6 +41,21 @@
 <pubDate>2021/07/16</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
-		
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210726 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary> 20210726 新台灣加油 就是要讓全世界看見台灣 一場奧運驚見台灣國際地位的轉變 中國再怎麼撒幣施壓也沒用 戰狼外交四處樹敵 輸了比賽還牽拖｜廖筱君 summary </itunes:summary>
+<description> 20210726 新台灣加油 就是要讓全世界看見台灣 一場奧運驚見台灣國際地位的轉變 中國再怎麼撒幣施壓也沒用 戰狼外交四處樹敵 輸了比賽還牽拖｜廖筱君 </description>
+<enclosure url="https://archive.org/download/20210726_20210726_1657/20210726%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='35659123' type='audio/mpeg'/>
+<itunes:duration>01:33:07</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210726_20210726_1657/20210726%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/07/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>

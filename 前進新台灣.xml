@@ -84,5 +84,21 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210726 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary> 20210726 前進新台灣 不只日本NHK驚喜喊台灣 美也挺台抗中 國民黨人在台灣心與小粉紅在一塊江啟臣拋不是搞正名的時候 幫中國出聲│黃倩萍 summary </itunes:summary>
+<description> 20210726 前進新台灣 不只日本NHK驚喜喊台灣 美也挺台抗中 國民黨人在台灣心與小粉紅在一塊江啟臣拋不是搞正名的時候 幫中國出聲│黃倩萍 </description>
+<enclosure url="https://archive.org/download/20210726_20210726_1650/20210726%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='38510347' type='audio/mpeg'/>
+<itunes:duration>01:31:43</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210726_20210726_1650/20210726%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/07/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
