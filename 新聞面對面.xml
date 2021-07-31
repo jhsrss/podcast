@@ -107,8 +107,22 @@
 <description> 20210726 新聞面對面 《新！三級警戒最後一日 本土10、零死亡！疫情穩了？》 </description>
 <enclosure url="https://archive.org/download/20210726_20210726_1708/20210726%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39648050' type='audio/mpeg'/>
 <itunes:duration>01:37:10</itunes:duration>
-<guid isPermaLink="false">https://archive.org/download/20210726_20210726_1708/20210726%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp33</guid>
+<guid isPermaLink="false">https://archive.org/download/20210726_20210726_1708/20210726%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
 <pubDate>2021/07/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>20210730 新聞面對面</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary> 20210730 新聞面對面 疫苗涵蓋率31.86！全台逾782萬人次接種！子彈快打光？ summary </itunes:summary>
+<description> 20210730 新聞面對面 疫苗涵蓋率31.86！全台逾782萬人次接種！子彈快打光？ </description>
+<enclosure url="https://archive.org/download/20210730_20210731_0553/20210730%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='38568186' type='audio/mpeg'/>
+<itunes:duration>01:37:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210730_20210731_0553/20210730%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2021/07/30</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 

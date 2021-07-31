@@ -129,6 +129,36 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210730 年代向錢看 Part 1 title</title>
+<itunes:subtitle>年代向錢看 Part 1 subtitle </itunes:subtitle>
+<itunes:summary> 20210730 年代向錢看 Part 1 獨！抗中同盟！美日台抗中統一戰線！DELTA肆虐全球！國產疫苗捲政治爭端？疫情惡夢挫經濟！晶片短缺風險恐延續明年！台積電有機會？ summary </itunes:summary>
+<description> 20210730 年代向錢看 Part 1 獨！抗中同盟！美日台抗中統一戰線！DELTA肆虐全球！國產疫苗捲政治爭端？疫情惡夢挫經濟！晶片短缺風險恐延續明年！台積電有機會？
+ </description>
+<enclosure url="https://archive.org/download/20210730-part-1/20210730%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='19715265' type='audio/mpeg'/>
+<itunes:duration>47:51</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210730-part-1/20210730%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/07/30</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210730 年代向錢看 Part 2 title</title>
+<itunes:subtitle>年代向錢看 Part 2 subtitle </itunes:subtitle>
+<itunes:summary> 20210730 年代向錢看 Part 2 獨！防重演去年疫情！範圍遍及各行各業？！美中大門不會關上？河南水災恐是人禍？！美國收緊監管！解讀關鍵財報！輝瑞、莫德納疫苗推手！ summary </itunes:summary>
+<description> 20210730 年代向錢看 Part 2 獨！防重演去年疫情！範圍遍及各行各業？！美中大門不會關上？河南水災恐是人禍？！美國收緊監管！解讀關鍵財報！輝瑞、莫德納疫苗推手！
+ </description>
+<enclosure url="https://archive.org/download/20210730-part-1/20210730%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19724903' type='audio/mpeg'/>
+<itunes:duration>48:20</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210730-part-1/20210730%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/07/30</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

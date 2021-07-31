@@ -154,5 +154,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210729 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 20210729 鄭知道了 完整版 天才少年林昀儒把球王樊振東逼入絕境 這個小傢伙讓對岸直呼趕緊收復台日體操新星橋本大輝逆轉勝奪金牌 小粉紅抓狂噁心舉動曝｜鄭弘儀 summary </itunes:summary>
+<description> 20210729 鄭知道了 完整版 天才少年林昀儒把球王樊振東逼入絕境 這個小傢伙讓對岸直呼趕緊收復台日體操新星橋本大輝逆轉勝奪金牌 小粉紅抓狂噁心舉動曝｜鄭弘儀  </description>
+<enclosure url="https://archive.org/download/20210729_20210730/20210729%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='34404393' type='audio/mpeg'/>
+<itunes:duration>01:30:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210729_20210730/20210729%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/07/29</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
