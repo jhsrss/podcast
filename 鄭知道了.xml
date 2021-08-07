@@ -212,5 +212,22 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210806 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 20210806 鄭知道了 完整版 從周子瑜事件到小S 習近平被逼到牆角 東奧過於政治化將民族自豪扭曲成仇外主義 中國官媒怒批小粉紅亂扣台獨藏派系內鬥│呂惠敏
+ summary </itunes:summary>
+<description> 20210806 鄭知道了 完整版 從周子瑜事件到小S 習近平被逼到牆角 東奧過於政治化將民族自豪扭曲成仇外主義 中國官媒怒批小粉紅亂扣台獨藏派系內鬥│呂惠敏
+  </description>
+<enclosure url="https://archive.org/download/20210806_20210807_0702/20210806%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37529587' type='audio/mpeg'/>
+<itunes:duration>01:38:27</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210806_20210807_0702/20210806%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>

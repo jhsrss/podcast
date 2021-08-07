@@ -159,6 +159,36 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210806 年代向錢看 Part 1 title</title>
+<itunes:subtitle>年代向錢看 Part 1 subtitle </itunes:subtitle>
+<itunes:summary> 20210806 年代向錢看 Part 1 獨！上有戰狼下有小粉紅！中國官媒痛批小粉紅 亂扣台獨、妨害統一！東奧成新戰場！中國學者示警 恐影響北京冬奧？台股收跌76點！失守17600點大關 summary </itunes:summary>
+<description> 20210806 年代向錢看 Part 1 獨！上有戰狼下有小粉紅！中國官媒痛批小粉紅 亂扣台獨、妨害統一！東奧成新戰場！中國學者示警 恐影響北京冬奧？台股收跌76點！失守17600點大關
+ </description>
+<enclosure url="https://archive.org/download/20210806-part-1/20210806%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='19628238' type='audio/mpeg'/>
+<itunes:duration>47:36</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210806-part-1/20210806%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/08/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210806 年代向錢看 Part 2 title</title>
+<itunes:subtitle>年代向錢看 Part 2 subtitle </itunes:subtitle>
+<itunes:summary> 20210806 年代向錢看 Part 2 獨！習近平喊話！中國將供全球20億劑疫苗？！中共黨媒萬字文！列舉美國「七宗罪」？！美印太司令喊話！應實施「綜合威懾」行動？！拜登喊話！2030新車一半是電動車？ summary </itunes:summary>
+<description> 20210806 年代向錢看 Part 2 獨！習近平喊話！中國將供全球20億劑疫苗？！中共黨媒萬字文！列舉美國「七宗罪」？！美印太司令喊話！應實施「綜合威懾」行動？！拜登喊話！2030新車一半是電動車？
+ </description>
+<enclosure url="https://archive.org/download/20210806-part-1/20210806%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='18981854' type='audio/mpeg'/>
+<itunes:duration>46:06</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210806-part-1/20210806%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/08/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

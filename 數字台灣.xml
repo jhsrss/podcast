@@ -66,10 +66,24 @@
 <itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
 <itunes:summary> 數字台灣 HD 366 summary </itunes:summary>
 <description> 20210725 數字台灣HD366 經濟轉骨 關鍵抉擇 專訪經濟部長王美花 謝金河 王美花 </description>
-<enclosure url="hhttps://archive.org/download/20210725-hd-366/20210725%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD366.mp3" length='18013518' type='audio/mpeg'/>
+<enclosure url="https://archive.org/download/20210725-hd-366/20210725%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD366.mp3" length='18013518' type='audio/mpeg'/>
 <itunes:duration>47:01</itunes:duration>
 <guid isPermaLink="false">https://archive.org/download/20210725-hd-366/20210725%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD366.mp3</guid>
 <pubDate>2021/07/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>20210801 數字台灣</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary> 20210801 數字台灣 HD367 東京奧運帶來新契機 謝金河 矢板明夫 陳永峰 summary </itunes:summary>
+<description> 20210801 數字台灣 HD367 東京奧運帶來新契機 謝金河 矢板明夫 陳永峰 </description>
+<enclosure url="https://archive.org/download/20210801-hd-367/20210801%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD367.mp3" length='19448474' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210801-hd-367/20210801%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD367.mp3</guid>
+<pubDate>2021/08/01</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
