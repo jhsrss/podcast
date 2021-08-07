@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+	<channel>
+	<title>財經週末趴/財經週日趴</title>
+	<link>https://jhsrss.github.io/</link>
+	<language>en-us</language>
+	<atom:link href="https://jhsrss.github.io/podcast/財經週末週日趴.xml" rel="self" type="application/rss+xml"/>
+	<copyright>財經週末趴/財經週日趴</copyright>
+	<itunes:subtitle>Talk News</itunes:subtitle>
+	<itunes:author>財經週末趴/財經週日趴</itunes:author>
+	<itunes:summary>
+	財經週末趴/財經週日趴 YouTube 節目
+	</itunes:summary>
+	<itunes:keywords>sounds</itunes:keywords>
+	<description>
+	- 財經週末趴/財經週日趴 YouTube 節目
+	</description>
+	<itunes:owner>
+	<itunes:name>財經週末趴/財經週日趴</itunes:name>
+	<itunes:email>nobody@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:image href="https://archive.org/download/20210807_20210807_0612/%E8%B2%A1%E7%B6%93%E9%80%B1%E6%9C%AB%E8%B6%B4%E8%B2%A1%E7%B6%93%E9%80%B1%E6%97%A5%E8%B6%B4.jpg"/>
+	<itunes:category text="Education">
+		<itunes:category text="News"/>
+	</itunes:category>
+	<itunes:category text="News">
+		<itunes:category text="News"/>
+	</itunes:category>
+	<itunes:explicit>no</itunes:explicit>
+
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>財經週末趴/財經週日趴</itunes:author>
+<title>20210731 財經週末趴</title>
+<itunes:subtitle>財經週末趴 subtitle </itunes:subtitle>
+<itunes:summary> 20210731 財經週末趴 電動車電池將引爆缺貨商機？ summary </itunes:summary>
+<description> 20210731 財經週末趴 電動車電池將引爆缺貨商機？ </description>
+<enclosure url="https://archive.org/download/20210731_202108/20210731%20%E8%B2%A1%E7%B6%93%E9%80%B1%E6%9C%AB%E8%B6%B4.mp3" length='18078018' type='audio/mpeg'/>
+<itunes:duration>47:21</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210731_202108/20210731%20%E8%B2%A1%E7%B6%93%E9%80%B1%E6%9C%AB%E8%B6%B4.mp3</guid>
+<pubDate>2021/07/31</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>財經週末趴/財經週日趴</itunes:author>
+<title>20210801 財經週日趴</title>
+<itunes:subtitle>財經週日趴 subtitle </itunes:subtitle>
+<itunes:summary> 20210801 財經週日趴 航海王沉船小白去哪都被宰？ summary </itunes:summary>
+<description> 20210801 財經週日趴 航海王沉船小白去哪都被宰？ </description>
+<enclosure url="https://archive.org/download/20210801_20210807/20210801%20%E8%B2%A1%E7%B6%93%E9%80%B1%E6%97%A5%E8%B6%B4.mp3" length='18303471' type='audio/mpeg'/>
+<itunes:duration>48:19</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210801_20210807/20210801%20%E8%B2%A1%E7%B6%93%E9%80%B1%E6%97%A5%E8%B6%B4.mp3</guid>
+<pubDate>2021/08/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+	
+</channel>
+</rss>
