@@ -126,5 +126,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>20210809 新聞面對面</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary> 20210809 新聞面對面 全台疫苗庫存亮紅燈？陳時中坦言：現在很告急！有配套？ summary </itunes:summary>
+<description> 20210809 新聞面對面 全台疫苗庫存亮紅燈？陳時中坦言：現在很告急！有配套？ </description>
+<enclosure url="https://archive.org/download/20210809_20210809_2317/20210809%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39323404' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210809_20210809_2317/20210809%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2021/08/09</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

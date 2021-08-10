@@ -140,5 +140,34 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210806 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary> 20210806 突發琪想 柯想提前開放萬華茶室！逆時中背後其實是想甩鍋？  風災！水災！疫情！人民造反有預兆？中南海要對習出手了？ summary </itunes:summary>
+<description> 20210806 突發琪想 柯想提前開放萬華茶室！逆時中背後其實是想甩鍋？  風災！水災！疫情！人民造反有預兆？中南海要對習出手了？ </description>
+<enclosure url="https://archive.org/download/20210806_20210809/20210806%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40596803' type='audio/mpeg'/>
+<itunes:duration>01:37:20</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210806_20210809/20210806%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/08/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210809 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary> 20210809 突發琪想 防堵Delta入侵！但疫苗進入枯水期？接下來台灣怎辦？ 台百年大旱 暴雨成災！學者示警：未來趨勢 乾越乾！濕越濕？！ summary </itunes:summary>
+<description> 20210809 突發琪想 防堵Delta入侵！但疫苗進入枯水期？接下來台灣怎辦？ 台百年大旱 暴雨成災！學者示警：未來趨勢 乾越乾！濕越濕？！ </description>
+<enclosure url="https://archive.org/download/20210809_20210809_2214/20210809%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40190875' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210809_20210809_2214/20210809%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/08/09</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>

@@ -189,6 +189,36 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210809 年代向錢看 Part 1 title</title>
+<itunes:subtitle>年代向錢看 Part 1 subtitle </itunes:subtitle>
+<itunes:summary> 20210809 年代向錢看 Part 1 獨！奧運獎牌是大國面子之爭！加倍奉還？！美中軍事前哨戰！為自由與中國一戰？Delta疫情燒！3700家企業倒閉！台積電拉尾盤！航海王再掀台股新行情？！ summary </itunes:summary>
+<description> 20210809 年代向錢看 Part 1 獨！奧運獎牌是大國面子之爭！加倍奉還？！美中軍事前哨戰！為自由與中國一戰？Delta疫情燒！3700家企業倒閉！台積電拉尾盤！航海王再掀台股新行情？！
+ </description>
+<enclosure url="https://archive.org/download/20210809-part-1/20210809%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='19796691' type='audio/mpeg'/>
+<itunes:duration>48:17</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210809-part-1/20210809%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/08/09</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210809 年代向錢看 Part 2 title</title>
+<itunes:subtitle>年代向錢看 Part 2 subtitle </itunes:subtitle>
+<itunes:summary> 20210809 年代向錢看 Part 2 獨！中國堅持硬碰硬！拜登強勢出擊！避免台灣被包圍！美股創新高！中國監管下重手！未來戰爭！美空軍研發5倍音速客機！ summary </itunes:summary>
+<description> 20210809 年代向錢看 Part 2 獨！中國堅持硬碰硬！拜登強勢出擊！避免台灣被包圍！美股創新高！中國監管下重手！未來戰爭！美空軍研發5倍音速客機！
+ </description>
+<enclosure url="https://archive.org/download/20210809-part-1/20210809%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19185892' type='audio/mpeg'/>
+<itunes:duration>46:24</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210809-part-1/20210809%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/08/09</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

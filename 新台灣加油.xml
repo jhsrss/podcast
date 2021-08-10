@@ -70,6 +70,20 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210809 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary> 20210809 新台灣加油 完整版 連北戴河會議都壓不住 中國疫情慘了！確診延燒31省 16億劑中國疫苗無效？！陳秀熙：若產生大流行將對世界產生重創│廖筱君 summary </itunes:summary>
+<description> 20210809 新台灣加油 完整版 連北戴河會議都壓不住 中國疫情慘了！確診延燒31省 16億劑中國疫苗無效？！陳秀熙：若產生大流行將對世界產生重創│廖筱君 </description>
+<enclosure url="https://archive.org/download/20210809_20210809_2209/20210809%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37408767' type='audio/mpeg'/>
+<itunes:duration>01:38:26</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210809_20210809_2209/20210809%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/09</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
