@@ -84,6 +84,20 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210811 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary> 20210811 新台灣加油 完整版 立陶宛強調相互尊重 勇於挑戰一中原則設立台灣代表處 中召回在地大使 美國挺盟友與台灣發展互惠關係｜廖筱君 summary </itunes:summary>
+<description> 20210811 新台灣加油 完整版 立陶宛強調相互尊重 勇於挑戰一中原則設立台灣代表處 中召回在地大使 美國挺盟友與台灣發展互惠關係｜廖筱君 </description>
+<enclosure url="https://archive.org/download/20210811_20210811_2240/20210811%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37025239' type='audio/mpeg'/>
+<itunes:duration>01:37:57</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210811_20210811_2240/20210811%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/11</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
