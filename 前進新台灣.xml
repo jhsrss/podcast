@@ -155,6 +155,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210813 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary> 20210813 前進新台灣 完整版 這個時間要下架指揮中心 國民黨緊咬中央高端圖利 防疫不力再嗆陳時中下台 李秉穎離開 去年才喊加碼挺國產 今年馬上全翻臉｜許貴雅 summary </itunes:summary>
+<description> 20210813 前進新台灣 完整版 這個時間要下架指揮中心 國民黨緊咬中央高端圖利 防疫不力再嗆陳時中下台 李秉穎離開 去年才喊加碼挺國產 今年馬上全翻臉｜許貴雅 </description>
+<enclosure url="https://archive.org/download/20210813_20210813_2022/20210813%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40823809' type='audio/mpeg'/>
+<itunes:duration>01:37:05</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210813_20210813_2022/20210813%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/08/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>

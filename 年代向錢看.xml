@@ -219,6 +219,35 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210813 年代向錢看 Part 1 title</title>
+<itunes:subtitle>年代向錢看 Part 1 subtitle </itunes:subtitle>
+<itunes:summary> 20210813 年代向錢看 Part 1 獨！強調台海和平安全重要性！美日印澳啟動四方安全對話！日本首相、副首相、防衛相再提台灣安全！秦剛接駐美大使！美中關係如履薄冰？ summary </itunes:summary>
+<description> 20210813 年代向錢看 Part 1 獨！強調台海和平安全重要性！美日印澳啟動四方安全對話！日本首相、副首相、防衛相再提台灣安全！秦剛接駐美大使！美中關係如履薄冰？
+ </description>
+<enclosure url="https://archive.org/download/20210813-part-2/20210813%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='19706958' type='audio/mpeg'/>
+<itunes:duration>47:46</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210813-part-2/20210813%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/08/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210813 年代向錢看 Part 2 title</title>
+<itunes:subtitle>年代向錢看 Part 2 subtitle </itunes:subtitle>
+<itunes:summary> 20210813 年代向錢看 Part 2 獨！北戴河會議結束！ 習恐再續任五年？貝萊德大砍88阿里持股？美海軍濱海作戰艦！分散式殺傷成最強主力！ summary </itunes:summary>
+<description> 20210813 年代向錢看 Part 2 獨！北戴河會議結束！ 習恐再續任五年？貝萊德大砍88阿里持股？美海軍濱海作戰艦！分散式殺傷成最強主力！
+ </description>
+<enclosure url="https://archive.org/download/20210813-part-2/20210813%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19853879' type='audio/mpeg'/>
+<itunes:duration>47:37</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210813-part-2/20210813%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/08/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>

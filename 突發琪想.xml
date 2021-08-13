@@ -182,5 +182,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210813 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary> 20210813 突發琪想 疫情趨緩！藍大控圖利要他下台？又說要下架指揮中心？ 中狼子野心狂秀軍武肌肉！台這些投資人竟成幫兇？！ summary </itunes:summary>
+<description> 20210813 突發琪想 疫情趨緩！藍大控圖利要他下台？又說要下架指揮中心？ 中狼子野心狂秀軍武肌肉！台這些投資人竟成幫兇？！ </description>
+<enclosure url="https://archive.org/download/20210813_20210813_2056/20210813%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40080721' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210813_20210813_2056/20210813%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/08/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

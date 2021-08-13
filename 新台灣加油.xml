@@ -98,6 +98,20 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210812 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary> 20210812 新台灣加油 完整版 立陶宛將成反中最前線？！設立台灣代表處讓中國怒召回大使 德國基民盟主席拉舍特拋大西方政策 歐元區抗中不演了？│廖筱君 summary </itunes:summary>
+<description> 20210812 新台灣加油 完整版 立陶宛將成反中最前線？！設立台灣代表處讓中國怒召回大使 德國基民盟主席拉舍特拋大西方政策 歐元區抗中不演了？│廖筱君 </description>
+<enclosure url="https://archive.org/download/20210812_20210813_2051/20210812%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37208494' type='audio/mpeg'/>
+<itunes:duration>01:38:04</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210812_20210813_2051/20210812%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/12</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

@@ -140,5 +140,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>20210813 新聞面對面</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary> 20210813 新聞面對面 《中駐美大使秦剛整裝再出發！美中台三邊重中之重？》 summary </itunes:summary>
+<description> 20210813 新聞面對面 《中駐美大使秦剛整裝再出發！美中台三邊重中之重？》 </description>
+<enclosure url="https://archive.org/download/20210813_20210813_2101/20210813%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39372975' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210813_20210813_2101/20210813%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2021/08/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
