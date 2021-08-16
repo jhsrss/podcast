@@ -249,5 +249,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210816 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary> 20210816 年代向錢看 Part 1 獨！蔡英文若出席民主峰會！胡錫進嗆動用導彈、轟炸機攻台？美副國務卿與立陶宛通話！美國切香腸戰略 反制中國？！聯亞疫苗EUA審查內幕？！
+Part 2 獨！習近平是最危險敵人！索羅斯預測美中恐引發戰爭？阿富汗成西貢？胡錫進嗆台獨！台灣會被美國拋棄？中國押寶神學士兩周前王毅會面高層！雙方各有承諾？
+summary </itunes:summary>
+<description> 20210816 年代向錢看 Part 1 獨！蔡英文若出席民主峰會！胡錫進嗆動用導彈、轟炸機攻台？美副國務卿與立陶宛通話！美國切香腸戰略 反制中國？！聯亞疫苗EUA審查內幕？！
+Part 2 獨！習近平是最危險敵人！索羅斯預測美中恐引發戰爭？阿富汗成西貢？胡錫進嗆台獨！台灣會被美國拋棄？中國押寶神學士兩周前王毅會面高層！雙方各有承諾？
+ </description>
+<enclosure url="https://archive.org/download/20210816_20210816_2302/20210816_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='39651769' type='audio/mpeg'/>
+<itunes:duration>01:34:59</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210816_20210816_2302/20210816_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/08/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
