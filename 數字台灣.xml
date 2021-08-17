@@ -101,5 +101,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>20210815 數字台灣</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary> 20210815 數字台灣HD369 避開陷阱，小心地雷股！ 謝金河 葉銀華 陳春山 summary </itunes:summary>
+<description> 20210815 數字台灣HD369 避開陷阱，小心地雷股！ 謝金河 葉銀華 陳春山 </description>
+<enclosure url="https://archive.org/download/20210815-hd-369/20210815%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD369.mp3" length='18053149' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210815-hd-369/20210815%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD369.mp3</guid>
+<pubDate>2021/08/15</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

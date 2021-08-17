@@ -169,5 +169,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210816 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary> 20210816 前進新台灣 完整版 就是要引戰駁聲量！柯文哲防疫記者會淪政論秀？被問到疫苗問題竟怪陳其邁太過出頭搞亂預約系統？苗博雅怒批柯P防疫根本不夠用心｜黃倩萍 summary </itunes:summary>
+<description> 20210816 前進新台灣 完整版 就是要引戰駁聲量！柯文哲防疫記者會淪政論秀？被問到疫苗問題竟怪陳其邁太過出頭搞亂預約系統？苗博雅怒批柯P防疫根本不夠用心｜黃倩萍 </description>
+<enclosure url="https://archive.org/download/20210816_20210817/20210816%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40260742' type='audio/mpeg'/>
+<itunes:duration>01:37:ˋ5</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210816_20210817/20210816%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/08/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

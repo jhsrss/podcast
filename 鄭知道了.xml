@@ -324,5 +324,22 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210815 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 20210815 周末鄭知道了 完整版 民主國家結盟力抗戰狼 WHO認中國施壓避談病毒外洩說.譚德塞咬出武漢扛不住了 北戴河會議如期結束 習近平穩坐王位成功連任｜許貴雅
+ summary </itunes:summary>
+<description> 20210815 周末鄭知道了 完整版 民主國家結盟力抗戰狼 WHO認中國施壓避談病毒外洩說.譚德塞咬出武漢扛不住了 北戴河會議如期結束 習近平穩坐王位成功連任｜許貴雅
+  </description>
+<enclosure url="https://archive.org/download/20210815_20210817/20210815%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38082405' type='audio/mpeg'/>
+<itunes:duration>01:39:44</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210815_20210817/20210815%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/15</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>

@@ -112,6 +112,19 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210816 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary> 20210816 新台灣加油 完整版 聯亞EUA未過關鍵何美鄉曝抗原太小佐劑量不夠 中和抗體效價102_3低於AZ的130 爆聯亞持續送批次送審為求│廖筱君 summary </itunes:summary>
+<description> 20210816 新台灣加油 完整版 聯亞EUA未過關鍵何美鄉曝抗原太小佐劑量不夠 中和抗體效價102_3低於AZ的130 爆聯亞持續送批次送審為求│廖筱君 </description>
+<enclosure url="https://archive.org/download/20210816_20210817_0301/20210816%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37524820' type='audio/mpeg'/>
+<itunes:duration>01:38:34</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210816_20210817_0301/20210816%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
