@@ -340,6 +340,21 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210816 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary> 220210816 鄭知道了 完整版 短短九天神學士政權如入無人之境攻陷19城 總統帶現金連夜落跑 軍警不願為政府賣命 塔利班笑臉迎中國 引入帝國墳場 │鄭弘儀
+ summary </itunes:summary>
+<description> 20210816 鄭知道了 完整版 短短九天神學士政權如入無人之境攻陷19城 總統帶現金連夜落跑 軍警不願為政府賣命 塔利班笑臉迎中國 引入帝國墳場 │鄭弘儀
+  </description>
+<enclosure url="https://archive.org/download/20210816_20210818/20210816%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37975851' type='audio/mpeg'/>
+<itunes:duration>01:39:35</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210816_20210818/20210816%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
