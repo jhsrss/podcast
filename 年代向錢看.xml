@@ -287,5 +287,43 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210818 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary> 20210818_年代向錢看_Part_1 獨！今日阿富汗非明日台灣！美學者挺台！台灣更重要1000倍？！共軍突宣布台海西南海空軍演！台股終結連9黑！大漲164點！止跌訊號浮現？
+20210818 年代向錢看 Part 2 獨！阿富汗政治風暴！拜登民調跌7！華盛頓郵報爆 1_5萬美國人還在阿富汗？！美DDG-76、DDG-83驅逐艦！抵達日本橫須賀？
+summary </itunes:summary>
+<description> 20210818_年代向錢看_Part_1 獨！今日阿富汗非明日台灣！美學者挺台！台灣更重要1000倍？！共軍突宣布台海西南海空軍演！台股終結連9黑！大漲164點！止跌訊號浮現？
+20210818 年代向錢看 Part 2 獨！阿富汗政治風暴！拜登民調跌7！華盛頓郵報爆 1_5萬美國人還在阿富汗？！美DDG-76、DDG-83驅逐艦！抵達日本橫須賀？
+ </description>
+<enclosure url="https://archive.org/download/20210818_20210818_2258/20210818_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='39835828' type='audio/mpeg'/>
+<itunes:duration>01:33:45</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210818_20210818_2258/20210818_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/08/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210819 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210819_年代向錢看_Part_1 獨！美軍撤離阿富汗！川普批拜登中國樂了！台灣會有壞事？！共軍鎖定台灣周邊軍演！ FED將削減QE？亞股成重災區？！
+20210819_年代向錢看_Part_2 獨！1_5萬人還在阿富汗！拜登喊話將延長最後撤軍日？習近平拉盟友！急電伊朗、伊拉克總統？美無人載具試射NSM飛彈？
+</itunes:summary>
+<description>
+20210819_年代向錢看_Part_1 獨！美軍撤離阿富汗！川普批拜登中國樂了！台灣會有壞事？！共軍鎖定台灣周邊軍演！ FED將削減QE？亞股成重災區？！
+20210819_年代向錢看_Part_2 獨！1_5萬人還在阿富汗！拜登喊話將延長最後撤軍日？習近平拉盟友！急電伊朗、伊拉克總統？美無人載具試射NSM飛彈？
+ </description>
+<enclosure url="https://archive.org/download/20210819_20210819_2213/20210819_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='38861810' type='audio/mpeg'/>
+<itunes:duration>01:35:17</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210819_20210819_2213/20210819_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/08/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

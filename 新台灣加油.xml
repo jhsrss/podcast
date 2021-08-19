@@ -140,5 +140,40 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210818 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210818 新台灣加油 完整版 神學士勢如破竹揭阿富汗人民不戰而逃 陳破空研判稱此時打入中國唾手可得 批朱立倫為中共張目既是漢奸又是台奸│廖筱君 summary
+</itunes:summary>
+<description>
+20210818 新台灣加油 完整版 神學士勢如破竹揭阿富汗人民不戰而逃 陳破空研判稱此時打入中國唾手可得 批朱立倫為中共張目既是漢奸又是台奸│廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210818_20210818_2254/20210818%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37617699' type='audio/mpeg'/>
+<itunes:duration>01:38:20</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210818_20210818_2254/20210818%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210819 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210819 台灣加油 完整版 共諜案只是單線發展？！張哲平列證人 爆夫人曾收國台辦茅台酒 2024大選侯柯合作成勝選大熱門？！葉元之脫口：不覺得他們互相喜歡│廖筱君 summary
+</itunes:summary>
+<description>
+20210819 台灣加油 完整版 共諜案只是單線發展？！張哲平列證人 爆夫人曾收國台辦茅台酒 2024大選侯柯合作成勝選大熱門？！葉元之脫口：不覺得他們互相喜歡│廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210819_20210819_2222/20210819%20%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37000125' type='audio/mpeg'/>
+<itunes:duration>01:36:43</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210819_20210819_2222/20210819%20%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

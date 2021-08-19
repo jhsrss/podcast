@@ -197,5 +197,38 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210818 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary> 20210818 前進新台灣 完整版 今日阿富汗明日台灣 國民黨狂炒作棄台論遭白宮打臉 國共攻心戰失效 朱立倫稱沒國民黨沒台灣網友一面倒嗆爆｜許貴雅 summary </itunes:summary>
+<description> 20210818 前進新台灣 完整版 今日阿富汗明日台灣 國民黨狂炒作棄台論遭白宮打臉 國共攻心戰失效 朱立倫稱沒國民黨沒台灣網友一面倒嗆爆｜許貴雅 </description>
+<enclosure url="https://archive.org/download/20210818_20210818_2244/20210818%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40583816' type='audio/mpeg'/>
+<itunes:duration>01:37:02</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210818_20210818_2244/20210818%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/08/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210819 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210819 前進新台灣 完整版 國民黨執政縣市防疫螺絲鬆歪歪擋接種 百人宴樣樣來 苗栗國打疫苗還有自己玩法 拒高端要國際認證才給縣民打 ｜許貴雅 summary
+</itunes:summary>
+<description>
+20210819 前進新台灣 完整版 國民黨執政縣市防疫螺絲鬆歪歪擋接種 百人宴樣樣來 苗栗國打疫苗還有自己玩法 拒高端要國際認證才給縣民打 ｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210819_20210819_2218/20210819%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40843759' type='audio/mpeg'/>
+<itunes:duration>01:37:06</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210819_20210819_2218/20210819%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/08/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
