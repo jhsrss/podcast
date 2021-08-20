@@ -224,5 +224,23 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210819 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+220210819 突發琪想 不只炒作 美棄台 ！藍還要台灣人感謝國民黨？推 親美和陸 ？鬥地主？分田產？習近平三提 分配 財富 有錢人慘了？ summary
+</itunes:summary>
+<description>
+20210819 突發琪想 不只炒作 美棄台 ！藍還要台灣人感謝國民黨？推 親美和陸 ？鬥地主？分田產？習近平三提 分配 財富 有錢人慘了？
+</description>
+<enclosure url="https://archive.org/download/20210819_20210820/20210819%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='39385940' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210819_20210820/20210819%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/08/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
