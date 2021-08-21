@@ -325,5 +325,26 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210820 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210820_年代向錢看_Part_1 獨！中國變全球化贏家！川普開嗆！美軍武器將被中俄複製？台日22對話最快本月舉行？中港股重挫！恒生指數崩跌？！
+20210820_年代向錢看_Part_2 獨！台灣不是阿富汗！拜登首度表 若遭入侵美國將回應？郭文貴爆料中共決議將不惜一切攻台？
+</itunes:summary>
+<description>
+20210820_年代向錢看_Part_1 獨！中國變全球化贏家！川普開嗆！美軍武器將被中俄複製？台日22對話最快本月舉行？中港股重挫！恒生指數崩跌？！
+20210820_年代向錢看_Part_2 獨！台灣不是阿富汗！拜登首度表 若遭入侵美國將回應？郭文貴爆料中共決議將不惜一切攻台？
+ </description>
+<enclosure url="https://archive.org/download/20210820_20210821_0919/20210820_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='38713443' type='audio/mpeg'/>
+<itunes:duration>01:33:37</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210820_20210821_0919/20210820_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/08/20</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>

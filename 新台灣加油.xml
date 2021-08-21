@@ -157,6 +157,7 @@
 <pubDate>2021/08/18</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
+
 <item>
 <link>https://jhsrss.github.io/</link>
 <itunes:author>新台灣加油</itunes:author>
@@ -174,6 +175,25 @@
 <pubDate>2021/08/19</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210820 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210820 新台灣加油 完整版 美棄台論滿天飛拜登出面直接打臉中國搞大外宣 將台灣與北約並提專家分析曝拜登戰略走向不模糊了 │廖筱君 summary
+</itunes:summary>
+<description>
+20210820 新台灣加油 完整版 美棄台論滿天飛拜登出面直接打臉中國搞大外宣 將台灣與北約並提專家分析曝拜登戰略走向不模糊了 │廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210820_20210821_0925/20210820%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9%E5%90%9B.mp3" length='37253283' type='audio/mpeg'/>
+<itunes:duration>01:38:19</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210820_20210821_0925/20210820%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9%E5%90%9B.mp3</guid>
+<pubDate>2021/08/20</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

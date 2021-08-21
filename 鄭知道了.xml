@@ -391,6 +391,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210820 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210820 鄭知道了 完整版 拜登稱無內戰 承認台灣為獨立個體 央視專訪塔利班發言人談和平連小粉紅都看不下去 雙方組反美陣線各懷鬼胎藏陰謀│呂惠敏 summary
+</itunes:summary>
+<description>
+20210820 鄭知道了 完整版 拜登稱無內戰 承認台灣為獨立個體 央視專訪塔利班發言人談和平連小粉紅都看不下去 雙方組反美陣線各懷鬼胎藏陰謀│呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20210820_20210821/20210820%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39157726' type='audio/mpeg'/>
+<itunes:duration>01:42:00</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210820_20210821/20210820%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/20</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
