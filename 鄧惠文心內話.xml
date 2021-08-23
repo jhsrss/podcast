@@ -100,6 +100,23 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄧惠文</itunes:author>
+<title>鄧惠文心內話</title>
+<itunes:subtitle>鄧惠文心內話 subtitle </itunes:subtitle>
+<itunes:summary>
+鄧惠文心內話 我的渣男與逆女 今天談育兒經-專訪 劉昭儀 summary
+</itunes:summary>
+<description>
+鄧惠文心內話 我的渣男與逆女 今天談育兒經-專訪 劉昭儀 </description>
+<enclosure url="https://archive.org/download/20210821_20210823_0208/20210821%20%E9%84%A7%E6%83%A0%E6%96%87%E5%BF%83%E5%85%A7%E8%A9%B1.mp3" length='6626527' type='audio/mpeg'/>
+<itunes:duration>00:17:02</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210821_20210823_0208/20210821%20%E9%84%A7%E6%83%A0%E6%96%87%E5%BF%83%E5%85%A7%E8%A9%B1.mp3</guid>
+<pubDate>2021/08/21</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
