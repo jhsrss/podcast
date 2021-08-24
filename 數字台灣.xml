@@ -115,5 +115,22 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>20210822 數字台灣</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210822 數字台灣HD370 台灣數位轉型的機會與挑戰 謝金河 許毓仁 余宛如 summary
+</itunes:summary>
+<description>
+20210822 數字台灣HD370 台灣數位轉型的機會與挑戰 謝金河 許毓仁 余宛如 </description>
+<enclosure url="https://archive.org/download/20210822-hd-370/20210822%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD370.mp3" length='17828758' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210822-hd-370/20210822%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD370.mp3</guid>
+<pubDate>2021/08/22</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
