@@ -445,6 +445,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210823 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210823 鄭知道了 完整版 台灣邊防國安大考驗中國男為學佛划艇闖關金門 非洲豬瘟肉品流向全台 走私害死154隻貓 海關邊境連爆走私 檢疫破口 怎麼堵漏洞│鄭弘儀 summary
+</itunes:summary>
+<description>
+20210823 鄭知道了 完整版 台灣邊防國安大考驗中國男為學佛划艇闖關金門 非洲豬瘟肉品流向全台 走私害死154隻貓 海關邊境連爆走私 檢疫破口 怎麼堵漏洞│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20210823_20210825/20210823%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38334621' type='audio/mpeg'/>
+<itunes:duration>01:40:35</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210823_20210825/20210823%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/23</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

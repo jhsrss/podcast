@@ -194,6 +194,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210824 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210824 新台灣加油 完整版 非洲豬瘟走私肉品突破國境防線！報關行仲賀竟有41次違規 近期偷渡事件頻傳 恐為中國新型滲透方式？！│廖筱君 summary
+</itunes:summary>
+<description>
+20210824 新台灣加油 完整版 非洲豬瘟走私肉品突破國境防線！報關行仲賀竟有41次違規 近期偷渡事件頻傳 恐為中國新型滲透方式？！│廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210824_20210825_0302/20210824%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37051410' type='audio/mpeg'/>
+<itunes:duration>01:37:47</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210824_20210825_0302/20210824%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/24</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

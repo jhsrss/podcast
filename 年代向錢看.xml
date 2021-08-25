@@ -345,6 +345,25 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210824 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210824_年代向錢看_Part_1 獨！賀錦麗會李顯龍！美國回防印太區域！聚焦對抗中國？！拜登抗中更硬？防台灣遭侵犯？！蔡英文表明捍衛家園立場！台股續彈？！重新站回16800點！
+20210824_年代向錢看_Part_2 獨！美中關係破裂？習近平擬視訊出席G20！拜習會破局？美監管出招！SEC要求紐約上市中企！輝瑞疫苗獲FDA全面批准！那指創新高？美建F-35C部隊瞄準中國？！
+</itunes:summary>
+<description>
+20210824_年代向錢看_Part_1 獨！賀錦麗會李顯龍！美國回防印太區域！聚焦對抗中國？！拜登抗中更硬？防台灣遭侵犯？！蔡英文表明捍衛家園立場！台股續彈？！重新站回16800點！
+20210824_年代向錢看_Part_2 獨！美中關係破裂？習近平擬視訊出席G20！拜習會破局？美監管出招！SEC要求紐約上市中企！輝瑞疫苗獲FDA全面批准！那指創新高？美建F-35C部隊瞄準中國？！
+ </description>
+<enclosure url="https://archive.org/download/20210824_20210825/20210824_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='39505071' type='audio/mpeg'/>
+<itunes:duration>01:35:16</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210824_20210825/20210824_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/08/24</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
