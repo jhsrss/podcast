@@ -242,5 +242,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210826 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20210826 突發琪想  趙少康們 戰高端無極限？竟還嗆陳時中：要跟冤魂道歉？ 中國狂逼打疫苗！跨區搶人！發獎金！還可僱人代打！亂象四起 summary
+</itunes:summary>
+<description>
+20210826 突發琪想  趙少康們 戰高端無極限？竟還嗆陳時中：要跟冤魂道歉？ 中國狂逼打疫苗！跨區搶人！發獎金！還可僱人代打！亂象四起
+</description>
+<enclosure url="https://archive.org/download/20210826_20210826_2057/20210826%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40599871' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210826_20210826_2057/20210826%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/08/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
