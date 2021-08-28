@@ -230,5 +230,23 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210827 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210827 新台灣加油 完整版 狠踩中國底線小粉紅超級不爽台日執政黨首次22會談  直指中國威脅台海安全 揭海巡走私貓 偷渡客連闖 我國邊防爆國安危機│廖筱君 summary
+</itunes:summary>
+<description>
+20210827 新台灣加油 完整版 狠踩中國底線小粉紅超級不爽台日執政黨首次22會談  直指中國威脅台海安全 揭海巡走私貓 偷渡客連闖 我國邊防爆國安危機│廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210827_20210828_0014/20210827%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='36569780' type='audio/mpeg'/>
+<itunes:duration>01:36:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210827_20210828_0014/20210827%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/08/27</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

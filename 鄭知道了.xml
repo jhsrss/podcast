@@ -481,6 +481,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210826 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210826 鄭知道了 完整版 阻擋BNT疫苗的是中國！政府堅持三大原則放行包裝印有復必泰標籤BNT 國民黨糾結標籤開轟是為拯救蔡英文民調有理？ │鄭弘儀 summary
+</itunes:summary>
+<description>
+20210826 鄭知道了 完整版 阻擋BNT疫苗的是中國！政府堅持三大原則放行包裝印有復必泰標籤BNT 國民黨糾結標籤開轟是為拯救蔡英文民調有理？ │鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20210826_20210827/20210826%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37658190' type='audio/mpeg'/>
+<itunes:duration>01:38:37</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210826_20210827/20210826%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

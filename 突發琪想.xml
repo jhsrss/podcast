@@ -260,6 +260,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>20210827 突發琪想</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20210827 突發琪想 疫情之下！情色業成買方市場 3999吃到飽？萬華生存悲歌幕後！藝人成「黑五類」！中國獵殺明星潮 趙薇再度出局！波及林心如？ summary
+</itunes:summary>
+<description>
+20210827 突發琪想 疫情之下！情色業成買方市場 3999吃到飽？萬華生存悲歌幕後！藝人成「黑五類」！中國獵殺明星潮 趙薇再度出局！波及林心如？
+</description>
+<enclosure url="https://archive.org/download/20210827_20210828_0415/20210827%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='39763823' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210827_20210828_0415/20210827%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/08/27</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>

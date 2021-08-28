@@ -365,5 +365,25 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210827 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210827_年代向錢看_Part_1 獨！美最新民調！69美國人認同台灣獨立？台日執政黨會談 直言日台是命運共同體？台股收漲142點！站上17200大關？！
+20210827_年代向錢看_Part_2 獨！習近平整肅！先殺富豪！再殺電玩！連明星也不放過？！7位億萬富翁做慈善？共捐1400億！南韓撐不下了？率先各國升息1碼？
+</itunes:summary>
+<description>
+20210827_年代向錢看_Part_1 獨！美最新民調！69美國人認同台灣獨立？台日執政黨會談 直言日台是命運共同體？台股收漲142點！站上17200大關？！
+20210827_年代向錢看_Part_2 獨！習近平整肅！先殺富豪！再殺電玩！連明星也不放過？！7位億萬富翁做慈善？共捐1400億！南韓撐不下了？率先各國升息1碼？
+ </description>
+<enclosure url="https://archive.org/download/20210827_20210827_2353/20210827_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='40845372' type='audio/mpeg'/>
+<itunes:duration>01:36:50</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210827_20210827_2353/20210827_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/08/27</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
