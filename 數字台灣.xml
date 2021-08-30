@@ -132,5 +132,22 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>20210829 數字台灣</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210829 數字台灣HD371 紡織業創造新價值 謝金河 陳國欽 周文東 summary
+</itunes:summary>
+<description>
+20210829 數字台灣HD371 紡織業創造新價值 謝金河 陳國欽 周文東 </description>
+<enclosure url="https://archive.org/download/20210829-hd-371/20210829%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD371.mp3" length='17863973' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210829-hd-371/20210829%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD371.mp3</guid>
+<pubDate>2021/08/29</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

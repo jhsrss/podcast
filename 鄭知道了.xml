@@ -499,6 +499,41 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210828 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210828 周末鄭知道了 完整版 來世別當中國人 趙薇被扣辱華7宗罪淪劣跡藝人 一夕間被消失與馬雲有關 ISIS-K趁亂恐攻阿富汗 中國首發聲竟指名打擊東伊運｜許貴雅 summary
+</itunes:summary>
+<description>
+20210828 周末鄭知道了 完整版 來世別當中國人 趙薇被扣辱華7宗罪淪劣跡藝人 一夕間被消失與馬雲有關 ISIS-K趁亂恐攻阿富汗 中國首發聲竟指名打擊東伊運｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210828_20210830/20210828%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39731795' type='audio/mpeg'/>
+<itunes:duration>01:42:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210828_20210830/20210828%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/28</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210829 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210829 周末鄭知道了 完整版 演給中國人看 中共派直9反潛直升機擾台測試兼宣示 美軍海巡艦穆洛號現蹤台海小藍人挫勒等 拜登任內首次美中軍方視訊會議聚焦｜許貴雅 summary
+</itunes:summary>
+<description>
+20210829 周末鄭知道了 完整版 演給中國人看 中共派直9反潛直升機擾台測試兼宣示 美軍海巡艦穆洛號現蹤台海小藍人挫勒等 拜登任內首次美中軍方視訊會議聚焦｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210829_20210830_2140/20210829%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38286945' type='audio/mpeg'/>
+<itunes:duration>01:39:37</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210829_20210830_2140/20210829%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/08/29</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>

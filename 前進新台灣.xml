@@ -323,6 +323,24 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210830 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210830 前進新台灣 完整版 蔡英文同框蕭美琴現身紐約大都會台灣日 國民黨痛批第二類特權搶打BNT 怎麼不提AZ特戰隊 胡錫進黑高端不成反遭小粉紅出征｜黃倩萍
+summary
+</itunes:summary>
+<description>
+20210830 前進新台灣 完整版 蔡英文同框蕭美琴現身紐約大都會台灣日 國民黨痛批第二類特權搶打BNT 怎麼不提AZ特戰隊 胡錫進黑高端不成反遭小粉紅出征｜黃倩萍
+</description>
+<enclosure url="https://archive.org/download/20210830_20210830_2147/20210830%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40425351' type='audio/mpeg'/>
+<itunes:duration>01:36:56</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210830_20210830_2147/20210830%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/08/30</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>

@@ -385,5 +385,25 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210830 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210830_年代向錢看Part_1 獨！美海軍、海巡雙艦穿台海！共軍東海演習反制？台日執政黨會談 直言日台是命運共同體？ BNT疫苗今年到貨900萬劑？！台股開高走高！大漲186點！
+20210830 年代向錢看 獨！中國藝人瑟瑟發抖！中國傳出7人開鍘名單！謝霆鋒、王力宏、李連杰都成目標？ 不准唱衰！中國網信辦整治自媒體！對抗中國威脅！美同意出售標6飛彈！
+</itunes:summary>
+<description>
+20210830_年代向錢看Part_1 獨！美海軍、海巡雙艦穿台海！共軍東海演習反制？台日執政黨會談 直言日台是命運共同體？ BNT疫苗今年到貨900萬劑？！台股開高走高！大漲186點！
+20210830 年代向錢看 獨！中國藝人瑟瑟發抖！中國傳出7人開鍘名單！謝霆鋒、王力宏、李連杰都成目標？ 不准唱衰！中國網信辦整治自媒體！對抗中國威脅！美同意出售標6飛彈！
+ </description>
+<enclosure url="https://archive.org/download/20210830_20210830_2122/20210830_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='40167096' type='audio/mpeg'/>
+<itunes:duration>01:36:33</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210830_20210830_2122/20210830_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/08/30</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
