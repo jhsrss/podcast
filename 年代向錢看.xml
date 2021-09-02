@@ -405,5 +405,25 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210902 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210902_年代向錢看_Part_1 獨！華爾街日報：美國對台承諾無截止期限？共軍空拍圖曝光偷偷進行南海反潛操演？！ 首批BNT疫苗來了！ 270萬劑疫苗9月全到貨？！ 台股震盪收黑！
+20210902_年代向錢看_Part_2 獨！不信邪不怕鬼！習近平喊話寸土不讓！別想過太平日子！想搞二次文革？！ 美和盟軍啟動大規模演習！就像在打世界大戰？秦剛開嗆 美對中戰略嚴重誤判？！
+</itunes:summary>
+<description>
+20210902_年代向錢看_Part_1 獨！華爾街日報：美國對台承諾無截止期限？共軍空拍圖曝光偷偷進行南海反潛操演？！ 首批BNT疫苗來了！ 270萬劑疫苗9月全到貨？！ 台股震盪收黑！
+20210902_年代向錢看_Part_2 獨！不信邪不怕鬼！習近平喊話寸土不讓！別想過太平日子！想搞二次文革？！ 美和盟軍啟動大規模演習！就像在打世界大戰？秦剛開嗆 美對中戰略嚴重誤判？！
+ </description>
+<enclosure url="https://archive.org/download/20210902_20210902_1519/20210902_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='39956756' type='audio/mpeg'/>
+<itunes:duration>01:36:38</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210902_20210902_1519/20210902_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/09/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
