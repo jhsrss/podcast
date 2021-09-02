@@ -342,5 +342,24 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210902 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210902 前進新台灣 完整版 有人連接力棒都沒拿到 陳時中接機BNT遭批收割 柯文哲酸掉棒說蹭郭台銘熱度 上海復星偷掛復必泰字條 KMT公然幫中共大外宣｜許貴雅
+summary
+</itunes:summary>
+<description>
+20210902 前進新台灣 完整版 有人連接力棒都沒拿到 陳時中接機BNT遭批收割 柯文哲酸掉棒說蹭郭台銘熱度 上海復星偷掛復必泰字條 KMT公然幫中共大外宣｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210902_20210902_1533/20210902%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40719010' type='audio/mpeg'/>
+<itunes:duration>01:37:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210902_20210902_1533/20210902%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/09/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
