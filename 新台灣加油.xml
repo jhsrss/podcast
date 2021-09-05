@@ -248,5 +248,23 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210903 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210903 新台灣加油 完整版 自主健康管理做得不落實？長榮2機師居檢期派飛確診 傳染給高中兒Ct值11超毒 黃瑽寧醫師稱恐是氣溶膠傳染？｜廖筱君 summary
+</itunes:summary>
+<description>
+20210903 新台灣加油 完整版 自主健康管理做得不落實？長榮2機師居檢期派飛確診 傳染給高中兒Ct值11超毒 黃瑽寧醫師稱恐是氣溶膠傳染？｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210903_20210905_0328/20210903%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='36584413' type='audio/mpeg'/>
+<itunes:duration>01:36:53</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210903_20210905_0328/20210903%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/09/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

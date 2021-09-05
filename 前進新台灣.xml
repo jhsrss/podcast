@@ -361,5 +361,24 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210903 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210903 前進新台灣 完整版 蔡英文總統稱中國鄰國！ 國民黨跳腳批跟台獨沒兩樣 長榮機師突破性感染傳染兒子高度懷疑為Delta 桃園市升級為2級加強警戒｜許貴雅
+summary
+</itunes:summary>
+<description>
+20210903 前進新台灣 完整版 蔡英文總統稱中國鄰國！ 國民黨跳腳批跟台獨沒兩樣 長榮機師突破性感染傳染兒子高度懷疑為Delta 桃園市升級為2級加強警戒｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210903_20210905_0334/20210903%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40515362' type='audio/mpeg'/>
+<itunes:duration>01:36:56</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210903_20210905_0334/20210903%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/09/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

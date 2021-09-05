@@ -425,5 +425,25 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210903 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210903_年代向錢看_Part_1 獨！日本四度捐贈台灣疫苗！台日友誼患難見真情？！長榮機師遭突破性感染！小孩就讀高中全校急停課？！台美軍事交流有譜？眾院通過新版國防授權法！
+20210903_年代向錢看_Part_2 獨！習近平喊話設立北京證券交易所？中國限娛令發酵！不只禁娘炮！禁播偶像養成節目？美陸戰司令喊話！啟動偵知式嚇阻？美SEC主席怒了？幾乎全是空殼公司？
+</itunes:summary>
+<description>
+20210903_年代向錢看_Part_1 獨！日本四度捐贈台灣疫苗！台日友誼患難見真情？！長榮機師遭突破性感染！小孩就讀高中全校急停課？！台美軍事交流有譜？眾院通過新版國防授權法！
+20210903_年代向錢看_Part_2 獨！習近平喊話設立北京證券交易所？中國限娛令發酵！不只禁娘炮！禁播偶像養成節目？美陸戰司令喊話！啟動偵知式嚇阻？美SEC主席怒了？幾乎全是空殼公司？
+ </description>
+<enclosure url="https://archive.org/download/20210903_20210905/20210903_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='39561508' type='audio/mpeg'/>
+<itunes:duration>01:36:43</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210903_20210905/20210903_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/09/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
