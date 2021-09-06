@@ -445,5 +445,25 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>20210906 年代向錢看 title</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210906_年代向錢看_Part1 獨！19架共機擾台！中國測試拜登底線？！龐皮歐批中國籲美國應永遠與台灣站一起？岸田文雄直指台是下個重大問題？新冠口服藥投入研發！大國疫苗2_0之戰？
+20210906_年代向錢看_Part2 獨！中國限籍令！公布黑名單？李連杰、王力宏、孫燕姿上榜？！設立北京證券交易所！93即刻註冊成立？北京監管風暴！中國股市半年蒸發40兆！
+</itunes:summary>
+<description>
+20210906_年代向錢看_Part1 獨！19架共機擾台！中國測試拜登底線？！龐皮歐批中國籲美國應永遠與台灣站一起？岸田文雄直指台是下個重大問題？新冠口服藥投入研發！大國疫苗2_0之戰？
+20210906_年代向錢看_Part2 獨！中國限籍令！公布黑名單？李連杰、王力宏、孫燕姿上榜？！設立北京證券交易所！93即刻註冊成立？北京監管風暴！中國股市半年蒸發40兆！
+ </description>
+<enclosure url="https://archive.org/download/20210906_20210906_2027/20210906_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='40373036' type='audio/mpeg'/>
+<itunes:duration>01:36:39</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210906_20210906_2027/20210906_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/09/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

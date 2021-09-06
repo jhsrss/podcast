@@ -380,5 +380,25 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>20210906 前進新台灣</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210906 前進新台灣 完整版 新北幼兒園1老師傳8學生 1家長晚上還當安親班  憂陽性率恐更多  長榮機師確定為delta  變種病毒 擴散危機再起｜黃倩萍
+summary
+</itunes:summary>
+<description>
+20210906 前進新台灣 完整版 新北幼兒園1老師傳8學生 1家長晚上還當安親班  憂陽性率恐更多  長榮機師確定為delta  變種病毒 擴散危機再起｜黃倩萍
+</description>
+<enclosure url="https://archive.org/download/20210906_20210906_2017/20210906%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='39413459' type='audio/mpeg'/>
+<itunes:duration>01:34:37</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210906_20210906_2017/20210906%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/09/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
