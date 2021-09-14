@@ -679,5 +679,41 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210912 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210912 周末鄭知道了 完整版 拋第三個歷史決議！習近平與拜登通話為布局？曝天津會議王毅向美國提出兩清單 三底線 中國才是有求於美國？！｜許貴雅 summary
+</itunes:summary>
+<description>
+20210912 周末鄭知道了 完整版 拋第三個歷史決議！習近平與拜登通話為布局？曝天津會議王毅向美國提出兩清單 三底線 中國才是有求於美國？！｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210912_20210914/20210912%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39448093' type='audio/mpeg'/>
+<itunes:duration>01:42:32</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210912_20210914/20210912%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/09/12</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>20210913 鄭知道了</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210913 鄭知道了 完整版 中國 台灣一邊一國！美軍上課用國恥地圖又讓小粉紅崩潰中駐美大使秦剛耍戰狼要美國閉嘴是失態還是習大大給的壓力？｜呂惠敏 summary
+</itunes:summary>
+<description>
+20210913 鄭知道了 完整版 中國 台灣一邊一國！美軍上課用國恥地圖又讓小粉紅崩潰中駐美大使秦剛耍戰狼要美國閉嘴是失態還是習大大給的壓力？｜呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20210913_20210914/20210913%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='36454218' type='audio/mpeg'/>
+<itunes:duration>01:34:43</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210913_20210914/20210913%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/09/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

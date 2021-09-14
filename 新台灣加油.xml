@@ -284,5 +284,23 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>20210913 新台灣加油 title</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210913 新台灣加油 完整版 作秀？張亞中秀500萬美金支票 洪秀柱稱本票樣張非支票！張亞中竟為KMT黨魁選舉公然說謊？｜廖筱君 summary
+</itunes:summary>
+<description>
+20210913 新台灣加油 完整版 作秀？張亞中秀500萬美金支票 洪秀柱稱本票樣張非支票！張亞中竟為KMT黨魁選舉公然說謊？｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210913_20210914_0527/20210913%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37729282' type='audio/mpeg'/>
+<itunes:duration>01:38:41</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210913_20210914_0527/20210913%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/09/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

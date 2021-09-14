@@ -166,5 +166,22 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>20210912 數字台灣</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210912 數字台灣HD373 黑金傳奇：一堂咖啡的必修課　謝金河　黃銘賢　高揚凱 summary
+</itunes:summary>
+<description>
+20210912 數字台灣HD373 黑金傳奇：一堂咖啡的必修課　謝金河　黃銘賢　高揚凱 </description>
+<enclosure url="https://archive.org/download/20210912-hd-373/20210912%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD373.mp3" length='19274775' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210912-hd-373/20210912%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD373.mp3</guid>
+<pubDate>2021/09/12</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
