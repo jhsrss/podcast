@@ -733,5 +733,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20210911 周末鄭知道了 完整版 才跟習近平通過電話 曝華府考慮正名駐美台灣代表處 拜登不甩北京顯現台灣地位 江啟臣酸改名有疫苗嗎 碰到台灣就不知所措？｜許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210911 周末鄭知道了 完整版 才跟習近平通過電話 曝華府考慮正名駐美台灣代表處 拜登不甩北京顯現台灣地位 江啟臣酸改名有疫苗嗎 碰到台灣就不知所措？｜許貴雅 summary
+</itunes:summary>
+<description>
+20210911 周末鄭知道了 完整版 才跟習近平通過電話 曝華府考慮正名駐美台灣代表處 拜登不甩北京顯現台灣地位 江啟臣酸改名有疫苗嗎 碰到台灣就不知所措？｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210911_20210916/20210911%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39542487' type='audio/mpeg'/>
+<itunes:duration>01:42:05</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210911_20210916/20210911%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/09/11</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
