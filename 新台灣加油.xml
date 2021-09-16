@@ -302,5 +302,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20210916 新台灣加油 完整版 紅統派徹底輾壓本土派 張亞中成功吸收韓粉恐引發KMT黨內棄保效應 一旦讓他當選連韓國瑜也沒機會翻盤｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210916 新台灣加油 完整版 紅統派徹底輾壓本土派 張亞中成功吸收韓粉恐引發KMT黨內棄保效應 一旦讓他當選連韓國瑜也沒機會翻盤｜廖筱君 summary
+</itunes:summary>
+<description>
+20210916 新台灣加油 完整版 紅統派徹底輾壓本土派 張亞中成功吸收韓粉恐引發KMT黨內棄保效應 一旦讓他當選連韓國瑜也沒機會翻盤｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210916_20210916_2212/20210916%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37129543' type='audio/mpeg'/>
+<itunes:duration>01:37:37</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210916_20210916_2212/20210916%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/09/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
