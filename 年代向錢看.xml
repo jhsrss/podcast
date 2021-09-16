@@ -505,5 +505,28 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20210915_年代向錢看_Part1 獨！台美友好！美議員支持駐美處改名台灣！美眾院推國防授權法！建議邀台灣參加環太軍演！ iPhone亮點少？電子股欲振乏力！台股跌80點！大盤失守季線？！
+20210915_年代向錢看_Part2 獨！川普嗆密利賣國！恒大破產危機！中國版次貸風暴來臨！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20210915_年代向錢看_Part1 獨！台美友好！美議員支持駐美處改名台灣！美眾院推國防授權法！建議邀台灣參加環太軍演！ iPhone亮點少？電子股欲振乏力！台股跌80點！大盤失守季線？！
+20210915_年代向錢看_Part2 獨！川普嗆密利賣國！恒大破產危機！中國版次貸風暴來臨！
+</itunes:summary>
+<description>
+20210915_年代向錢看_Part1 獨！台美友好！美議員支持駐美處改名台灣！美眾院推國防授權法！建議邀台灣參加環太軍演！ iPhone亮點少？電子股欲振乏力！台股跌80點！大盤失守季線？！
+20210915_年代向錢看_Part2 獨！川普嗆密利賣國！恒大破產危機！中國版次貸風暴來臨！
+ </description>
+<enclosure url="https://archive.org/download/20210915_20210916_0213/20210915_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3" length='38988293' type='audio/mpeg'/>
+<itunes:duration>01:34:08</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210915_20210916_0213/20210915_%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B.mp3</guid>
+<pubDate>2021/09/15</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
