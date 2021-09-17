@@ -322,5 +322,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20210917 新台灣加油 完整版 配角變主角恐改寫歷史 張亞中關公上身對外砍民進黨 對內打自己人 把黨主席當總統在選 傳棄保效應難奏效全因這2人有心結｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210917 新台灣加油 完整版 配角變主角恐改寫歷史 張亞中關公上身對外砍民進黨 對內打自己人 把黨主席當總統在選 傳棄保效應難奏效全因這2人有心結｜廖筱君 summary
+</itunes:summary>
+<description>
+20210917 新台灣加油 完整版 配角變主角恐改寫歷史 張亞中關公上身對外砍民進黨 對內打自己人 把黨主席當總統在選 傳棄保效應難奏效全因這2人有心結｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210917_20210917_2052/20210917%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37866518' type='audio/mpeg'/>
+<itunes:duration>01:39:38</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210917_20210917_2052/20210917%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/09/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
