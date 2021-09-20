@@ -183,5 +183,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20210919 數字台灣HD374 巨變的中國何處去？ 謝金河 范疇
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210919 數字台灣HD374 巨變的中國何處去？ 謝金河 范疇 summary
+</itunes:summary>
+<description>
+20210919 數字台灣HD374 巨變的中國何處去？ 謝金河 范疇
+</description>
+<enclosure url="https://archive.org/download/20210919-hd-374/20210919%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD374.mp3" length='17817701' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210919-hd-374/20210919%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD374.mp3</guid>
+<pubDate>2021/09/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

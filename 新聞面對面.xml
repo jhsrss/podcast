@@ -198,5 +198,42 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20210916 新聞面對面 《「攻擊視角」首曝！一張F-16追尾「轟-6」照 玄機？》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20210916 新聞面對面 《「攻擊視角」首曝！一張F-16追尾「轟-6」照 玄機？》 summary </itunes:summary>
+<description>
+20210916 新聞面對面 《「攻擊視角」首曝！一張F-16追尾「轟-6」照 玄機？》 </description>
+<enclosure url="https://archive.org/download/20210916_20210920_0440/20210916%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39535975' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210916_20210920_0440/20210916%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2021/09/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20210917 新聞面對面 《新！美前國安顧問喊話拜登！阻中犯台應列主要國安目標？》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20210917 新聞面對面 《新！美前國安顧問喊話拜登！阻中犯台應列主要國安目標？》 summary </itunes:summary>
+<description>
+20210917 新聞面對面 《新！美前國安顧問喊話拜登！阻中犯台應列主要國安目標？》 </description>
+<enclosure url="https://archive.org/download/20210917_20210920_0446/20210917%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39530093' type='audio/mpeg'/>
+<itunes:duration>01:37:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210917_20210920_0446/20210917%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2021/09/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
