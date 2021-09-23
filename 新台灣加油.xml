@@ -342,5 +342,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20210923 新台灣加油 完整版 朱立倫訪立法院比甲動還熱鬧 29名立委相挺高喊凍蒜徹底宣布江啟臣出局 張亞中若勝選 國民黨將回到集體領導制｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20210923 新台灣加油 完整版 朱立倫訪立法院比甲動還熱鬧 29名立委相挺高喊凍蒜徹底宣布江啟臣出局 張亞中若勝選 國民黨將回到集體領導制｜廖筱君 summary
+</itunes:summary>
+<description>
+20210923 新台灣加油 完整版 朱立倫訪立法院比甲動還熱鬧 29名立委相挺高喊凍蒜徹底宣布江啟臣出局 張亞中若勝選 國民黨將回到集體領導制｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20210923_20210923_2132/20210923%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='36983659' type='audio/mpeg'/>
+<itunes:duration>01:36:34</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210923_20210923_2132/20210923%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/09/23</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
