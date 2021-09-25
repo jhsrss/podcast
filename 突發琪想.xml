@@ -374,5 +374,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>
+20210924 突發琪想 誰是贏家「韓國瑜20」大戰正常「倫」 竟成藍黨魁史上最詭譎一役習近平密謀3百天反中招中申請CPTPP再入拜登「圍中」陷阱？
+</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20210924 突發琪想 誰是贏家「韓國瑜20」大戰正常「倫」 竟成藍黨魁史上最詭譎一役習近平密謀3百天反中招中申請CPTPP再入拜登「圍中」陷阱？ summary
+</itunes:summary>
+<description>
+20210924 突發琪想 誰是贏家「韓國瑜20」大戰正常「倫」 竟成藍黨魁史上最詭譎一役習近平密謀3百天反中招中申請CPTPP再入拜登「圍中」陷阱？
+</description>
+<enclosure url="https://archive.org/download/20210924_20210925_1644/20210924%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='39591284' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210924_20210925_1644/20210924%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2021/09/24</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
