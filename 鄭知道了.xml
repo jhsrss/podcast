@@ -893,5 +893,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20210925 周末鄭知道了 完整版 比中國更適合 台灣能否加入CPTTP全看祕魯這一票 朱立倫任國民黨新黨魁 習近平是否發賀電牽動國共關係｜許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20210925 周末鄭知道了 完整版 比中國更適合 台灣能否加入CPTTP全看祕魯這一票 朱立倫任國民黨新黨魁 習近平是否發賀電牽動國共關係｜許貴雅 summary
+</itunes:summary>
+<description>
+20210925 周末鄭知道了 完整版 比中國更適合 台灣能否加入CPTTP全看祕魯這一票 朱立倫任國民黨新黨魁 習近平是否發賀電牽動國共關係｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20210925_20210926/20210925%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39356128' type='audio/mpeg'/>
+<itunes:duration>01:42:55</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210925_20210926/20210925%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/09/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
