@@ -203,5 +203,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20210926 數字台灣HD375 一桿進洞 高爾夫之旅！謝金河 王政松 黃國書
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20210926 數字台灣HD375 一桿進洞 高爾夫之旅！謝金河 王政松 黃國書 summary
+</itunes:summary>
+<description>
+20210926 數字台灣HD375 一桿進洞 高爾夫之旅！謝金河 王政松 黃國書
+</description>
+<enclosure url="https://archive.org/download/20210925-hd-375/20210925%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD375.mp3" length='19474559' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20210925-hd-375/20210925%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD375.mp3</guid>
+<pubDate>2021/09/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
