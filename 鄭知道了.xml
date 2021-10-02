@@ -993,5 +993,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211001 鄭知道了 完整版 拒絕中國粗暴打壓 日本率先抗議AIDA國旗事件 11個國家選手撤旗力挺台灣 朱立倫發文不敢譴責中國又扯民進黨執政│呂惠敏
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211001 鄭知道了 完整版 拒絕中國粗暴打壓 日本率先抗議AIDA國旗事件 11個國家選手撤旗力挺台灣 朱立倫發文不敢譴責中國又扯民進黨執政│呂惠敏 summary
+</itunes:summary>
+<description>
+20211001 鄭知道了 完整版 拒絕中國粗暴打壓 日本率先抗議AIDA國旗事件 11個國家選手撤旗力挺台灣 朱立倫發文不敢譴責中國又扯民進黨執政│呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20211001_20211002_1711/20211001%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37170570' type='audio/mpeg'/>
+<itunes:duration>01:37:16</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211001_20211002_1711/20211001%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/10/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
