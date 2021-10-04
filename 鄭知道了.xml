@@ -1013,5 +1013,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211002 周末鄭知道了 完整版 全球反中也是民進黨的錯 朱立倫不反對習近平謀求統一 AIDA國旗事件只敢檢討被害人 一個台獨各自表述 說好的共同決定｜許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211002 周末鄭知道了 完整版 全球反中也是民進黨的錯 朱立倫不反對習近平謀求統一 AIDA國旗事件只敢檢討被害人 一個台獨各自表述 說好的共同決定｜許貴雅 summary
+</itunes:summary>
+<description>
+20211002 周末鄭知道了 完整版 全球反中也是民進黨的錯 朱立倫不反對習近平謀求統一 AIDA國旗事件只敢檢討被害人 一個台獨各自表述 說好的共同決定｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20211002_20211004/20211002%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39565293' type='audio/mpeg'/>
+<itunes:duration>01:42:53</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211002_20211004/20211002%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/10/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
