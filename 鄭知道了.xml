@@ -1033,5 +1033,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211003 周末鄭知道了 完整版 光復香港回不去了 中國十一國慶史上最黯淡 香港部署八千警力就怕出事惹怒習近平 盤點台灣藝人祝賀祖國 不表忠就沒飯吃｜許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211003 周末鄭知道了 完整版 光復香港回不去了 中國十一國慶史上最黯淡 香港部署八千警力就怕出事惹怒習近平 盤點台灣藝人祝賀祖國 不表忠就沒飯吃｜許貴雅 summary
+</itunes:summary>
+<description>
+20211003 周末鄭知道了 完整版 光復香港回不去了 中國十一國慶史上最黯淡 香港部署八千警力就怕出事惹怒習近平 盤點台灣藝人祝賀祖國 不表忠就沒飯吃｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20211003_20211005_1726/20211003%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39340558' type='audio/mpeg'/>
+<itunes:duration>01:42:53</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211003_20211005_1726/20211003%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/10/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
