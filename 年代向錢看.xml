@@ -734,5 +734,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20211005 年代向錢看 Part 2 獨！基恩將軍喊話！美應部署軍隊在台灣？習近平清洗政法系！江派孫力軍、傅政華落馬？美中金融市場將加速脫鉤？中國模擬攻台！打造003航母！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20211005 年代向錢看 Part 2 獨！基恩將軍喊話！美應部署軍隊在台灣？習近平清洗政法系！江派孫力軍、傅政華落馬？美中金融市場將加速脫鉤？中國模擬攻台！打造003航母！
+</itunes:summary>
+<description>
+20211005 年代向錢看 Part 2 獨！基恩將軍喊話！美應部署軍隊在台灣？習近平清洗政法系！江派孫力軍、傅政華落馬？美中金融市場將加速脫鉤？中國模擬攻台！打造003航母！
+ </description>
+<enclosure url="https://archive.org/download/20211005-part-2/20211005%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19932534' type='audio/mpeg'/>
+<itunes:duration>47:54</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211005-part-2/20211005%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/10/05</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20211005 年代向錢看 Part 1 獨！共機擾台再創新高！56架次單日最多！美英3航母現蹤印太！叫陣習近平？！拜登擬尋求岸田明確介入台海危機？！中國恐難擺脫惡性通膨危機？！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20211005 年代向錢看 Part 1 獨！共機擾台再創新高！56架次單日最多！美英3航母現蹤印太！叫陣習近平？！拜登擬尋求岸田明確介入台海危機？！中國恐難擺脫惡性通膨危機？！
+</itunes:summary>
+<description>
+20211005 年代向錢看 Part 1 獨！共機擾台再創新高！56架次單日最多！美英3航母現蹤印太！叫陣習近平？！拜登擬尋求岸田明確介入台海危機？！中國恐難擺脫惡性通膨危機？！
+ </description>
+<enclosure url="https://archive.org/download/20211005-part-1/20211005%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='18911028' type='audio/mpeg'/>
+<itunes:duration>45:03</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211005-part-1/20211005%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2021/10/05</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
