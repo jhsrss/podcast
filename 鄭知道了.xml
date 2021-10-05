@@ -1053,5 +1053,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211004 鄭知道了 完整版 郭董 吳淡如女兒不知孫中山 岳飛  趙少康批民進黨去中國化讓台灣小孩失根挑撥國族認知 編委貼歷史課本打臉趙少康慘成話唬藍 │鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211004 鄭知道了 完整版 郭董 吳淡如女兒不知孫中山 岳飛  趙少康批民進黨去中國化讓台灣小孩失根挑撥國族認知 編委貼歷史課本打臉趙少康慘成話唬藍 │鄭弘儀 summary
+</itunes:summary>
+<description>
+20211004 鄭知道了 完整版 郭董 吳淡如女兒不知孫中山 岳飛  趙少康批民進黨去中國化讓台灣小孩失根挑撥國族認知 編委貼歷史課本打臉趙少康慘成話唬藍 │鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20211004_20211005_1758/20211004%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38663085' type='audio/mpeg'/>
+<itunes:duration>01:40:34</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211004_20211005_1758/20211004%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/10/04</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
