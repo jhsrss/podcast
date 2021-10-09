@@ -462,5 +462,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20211008 新台灣加油 完整版 中國不演了啦！爆央視赤裸裸介入刪Q下指導棋？！國民黨朱立倫接旨陳柏惟罷免案成了統獨之爭｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20211008 新台灣加油 完整版 中國不演了啦！爆央視赤裸裸介入刪Q下指導棋？！國民黨朱立倫接旨陳柏惟罷免案成了統獨之爭｜廖筱君 summary
+</itunes:summary>
+<description>
+20211008 新台灣加油 完整版 中國不演了啦！爆央視赤裸裸介入刪Q下指導棋？！國民黨朱立倫接旨陳柏惟罷免案成了統獨之爭｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20211008_20211009/20211008%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37836774' type='audio/mpeg'/>
+<itunes:duration>01:38:52</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211008_20211009/20211008%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/10/08</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

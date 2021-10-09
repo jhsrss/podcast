@@ -750,5 +750,27 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20211008 前進新台灣 完整版 人格毀滅戰？陳柏惟遭爆立委存款從0暴風成長到441萬 中國央視讚戰鬥藍有指導疑雲 爆中國直接下令要朱立倫對刪Q火力全開 │許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211008 前進新台灣 完整版 人格毀滅戰？陳柏惟遭爆立委存款從0暴風成長到441萬 中國央視讚戰鬥藍有指導疑雲 爆中國直接下令要朱立倫對刪Q火力全開 │許貴雅
+summary
+</itunes:summary>
+<description>
+20211008 前進新台灣 完整版 人格毀滅戰？陳柏惟遭爆立委存款從0暴風成長到441萬 中國央視讚戰鬥藍有指導疑雲 爆中國直接下令要朱立倫對刪Q火力全開 │許貴雅
+</description>
+<enclosure url="https://archive.org/download/20211008_20211009_0420/20211008%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42356315' type='audio/mpeg'/>
+<itunes:duration>01:40:57</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211008_20211009_0420/20211008%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/10/08</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
