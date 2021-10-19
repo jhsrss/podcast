@@ -243,5 +243,45 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20211010 數字台灣HD377 獨家》靠購併做一哥 國巨的攀達顛峰之路 謝金河 陳泰銘 王淡如
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211010 數字台灣HD377 獨家》靠購併做一哥 國巨的攀達顛峰之路 謝金河 陳泰銘 王淡如 summary
+</itunes:summary>
+<description>
+20211010 數字台灣HD377 獨家》靠購併做一哥 國巨的攀達顛峰之路 謝金河 陳泰銘 王淡如
+</description>
+<enclosure url="https://archive.org/download/20211010-hd-377/20211010%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD377.mp3" length='17605987' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211010-hd-377/20211010%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD377.mp3</guid>
+<pubDate>2021/10/10</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20211017 數字台灣HD378 能耗雙控，「碳中和」成顯學！ 謝金河 簡又新 周桂田
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211017 數字台灣HD378 能耗雙控，「碳中和」成顯學！ 謝金河 簡又新 周桂田 summary
+</itunes:summary>
+<description>
+20211017 數字台灣HD378 能耗雙控，「碳中和」成顯學！ 謝金河 簡又新 周桂田
+</description>
+<enclosure url="https://archive.org/download/20211010-hd-377/20211017%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD378.mp3.mp3" length='17915584' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211010-hd-377/20211017%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD378.mp3</guid>
+<pubDate>2021/10/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
