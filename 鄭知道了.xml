@@ -1153,5 +1153,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211020 鄭知道了 完整版 難道要開大門拍手歡迎？黃復興黨部主委季麟連稱共機進入ADIZ不算擾台 國民黨主席朱立倫竟還不吭聲？無視國軍捍衛家園？│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211020 鄭知道了 完整版 難道要開大門拍手歡迎？黃復興黨部主委季麟連稱共機進入ADIZ不算擾台 國民黨主席朱立倫竟還不吭聲？無視國軍捍衛家園？│鄭弘儀 summary
+</itunes:summary>
+<description>
+20211020 鄭知道了 完整版 難道要開大門拍手歡迎？黃復興黨部主委季麟連稱共機進入ADIZ不算擾台 國民黨主席朱立倫竟還不吭聲？無視國軍捍衛家園？│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20211020_20211021/20211020%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38239990' type='audio/mpeg'/>
+<itunes:duration>01:40:14</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211020_20211021/20211020%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/10/20</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
