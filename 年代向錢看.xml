@@ -814,5 +814,25 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20211022 年代向錢看 Part  2 獨！對抗科技霸權！川普自建媒體！強勢回歸挺戰2024？！三馬亂華引殺機？習近平為保政權！出招清洗政敵？！啟動南方大整風？！極音速飛彈成戰場新武器？！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20211022 年代向錢看 Part  2 獨！對抗科技霸權！川普自建媒體！強勢回歸挺戰2024？！三馬亂華引殺機？習近平為保政權！出招清洗政敵？！啟動南方大整風？！極音速飛彈成戰場新武器？！
+</itunes:summary>
+<description>
+20211022 年代向錢看 Part  2 獨！對抗科技霸權！川普自建媒體！強勢回歸挺戰2024？！三馬亂華引殺機？習近平為保政權！出招清洗政敵？！啟動南方大整風？！極音速飛彈成戰場新武器？！
+ </description>
+<enclosure url="https://archive.org/download/20211022-part-1/20211022%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19182225' type='audio/mpeg'/>
+<itunes:duration>45:49</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211022-part-1/20211022%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2021/10/22</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
