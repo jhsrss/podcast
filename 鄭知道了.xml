@@ -1173,5 +1173,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211022 鄭知道了 完整版 又聽見玻璃心碎的聲音！拜登公開宣示若中共攻台美必保衛台 美準駐中大使伯恩斯挺台開嗆中戰狼 中官媒抓狂稱最囂張美國大使準備碰釘子│呂惠敏
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211022 鄭知道了 完整版 又聽見玻璃心碎的聲音！拜登公開宣示若中共攻台美必保衛台 美準駐中大使伯恩斯挺台開嗆中戰狼 中官媒抓狂稱最囂張美國大使準備碰釘子│呂惠敏 summary
+</itunes:summary>
+<description>
+20211022 鄭知道了 完整版 又聽見玻璃心碎的聲音！拜登公開宣示若中共攻台美必保衛台 美準駐中大使伯恩斯挺台開嗆中戰狼 中官媒抓狂稱最囂張美國大使準備碰釘子│呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20211022_20211023_1909/20211022%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38333786' type='audio/mpeg'/>
+<itunes:duration>01:39:35</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211022_20211023_1909/20211022%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/10/22</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
