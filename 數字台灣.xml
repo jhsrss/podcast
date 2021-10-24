@@ -276,12 +276,33 @@
 <description>
 20211017 數字台灣HD378 能耗雙控，「碳中和」成顯學！ 謝金河 簡又新 周桂田
 </description>
-<enclosure url="https://archive.org/download/20211010-hd-377/20211017%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD378.mp3.mp3" length='17915584' type='audio/mpeg'/>
+<enclosure url="https://archive.org/download/20211010-hd-377/20211017%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD378.mp3" length='17915584' type='audio/mpeg'/>
 <itunes:duration>47:01</itunes:duration>
 <guid isPermaLink="false">https://archive.org/download/20211010-hd-377/20211017%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD378.mp3</guid>
 <pubDate>2021/10/17</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20211024 數字台灣HD379 獨家》下一個兆元產業：電動汽車在台灣 謝金河 黃志芳 鄭顯聰 魏國章
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211024 數字台灣HD379 獨家》下一個兆元產業：電動汽車在台灣 謝金河 黃志芳 鄭顯聰 魏國章 summary
+</itunes:summary>
+<description>
+20211024 數字台灣HD379 獨家》下一個兆元產業：電動汽車在台灣 謝金河 黃志芳 鄭顯聰 魏國章
+</description>
+<enclosure url="https://archive.org/download/20211024-hd-379/20211024%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD379.mp3" length='17536213' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211024-hd-379/20211024%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD379.mp3</guid>
+<pubDate>2021/10/24</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
