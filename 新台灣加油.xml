@@ -562,6 +562,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20211029 新台灣加油 完整版 美軍在台恐成中國武統條件？蔡英文總統證實美軍在台協訓讓國共兩黨都嚇出冷汗？！前美國防部官員胡振東曝兩岸真開戰台灣贏的關鍵在│廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20211029 新台灣加油 完整版 美軍在台恐成中國武統條件？蔡英文總統證實美軍在台協訓讓國共兩黨都嚇出冷汗？！前美國防部官員胡振東曝兩岸真開戰台灣贏的關鍵在│廖筱君 summary
+</itunes:summary>
+<description>
+20211029 新台灣加油 完整版 美軍在台恐成中國武統條件？蔡英文總統證實美軍在台協訓讓國共兩黨都嚇出冷汗？！前美國防部官員胡振東曝兩岸真開戰台灣贏的關鍵在│廖筱君
+</description>
+<enclosure url="https://archive.org/download/20211029_20211030_0623/20211029%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='36598129' type='audio/mpeg'/>
+<itunes:duration>01:36:13</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211029_20211030_0623/20211029%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/10/29</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
