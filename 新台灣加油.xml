@@ -582,5 +582,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20211105 新台灣加油 完整版 顏清標萬年董座要當多久？王清林爆父親王金爐董座12年鎮瀾宮存款2千萬變12億 至今有多少資產？易錦隆曝前董事長遺言 嗆把媽祖還給信徒｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20211105 新台灣加油 完整版 顏清標萬年董座要當多久？王清林爆父親王金爐董座12年鎮瀾宮存款2千萬變12億 至今有多少資產？易錦隆曝前董事長遺言 嗆把媽祖還給信徒｜廖筱君 summary
+</itunes:summary>
+<description>
+20211105 新台灣加油 完整版 顏清標萬年董座要當多久？王清林爆父親王金爐董座12年鎮瀾宮存款2千萬變12億 至今有多少資產？易錦隆曝前董事長遺言 嗆把媽祖還給信徒｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20211105_20211107_1710/20211105%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='36324610' type='audio/mpeg'/>
+<itunes:duration>01:36:30</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211105_20211107_1710/20211105%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/11/05</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
