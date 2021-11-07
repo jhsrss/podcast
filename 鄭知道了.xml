@@ -1273,5 +1273,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211105 鄭知道了 完整版 宗教歸宗教 政治歸政治很難 卓冠廷爆前國台辦主任張志軍2014來台 鎮瀾宮動員接機當地陪 大甲媽祖被綁架淪政治統戰工具│呂惠敏
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211105 鄭知道了 完整版 宗教歸宗教 政治歸政治很難 卓冠廷爆前國台辦主任張志軍2014來台 鎮瀾宮動員接機當地陪 大甲媽祖被綁架淪政治統戰工具│呂惠敏 summary
+</itunes:summary>
+<description>
+20211105 鄭知道了 完整版 宗教歸宗教 政治歸政治很難 卓冠廷爆前國台辦主任張志軍2014來台 鎮瀾宮動員接機當地陪 大甲媽祖被綁架淪政治統戰工具│呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20211105_20211107/20211105%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38093060' type='audio/mpeg'/>
+<itunes:duration>01:39:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211105_20211107/20211105%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/11/05</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
