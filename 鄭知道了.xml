@@ -1333,5 +1333,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211113 周末鄭知道了  完整版 被政治耽誤的理財專家？顏寬恆申報土地高達66筆其中19筆是拍賣取得 同路段更達13筆 顏家補選陸戰組織嚴密 空戰缺乏奧援？｜許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211113 周末鄭知道了  完整版 被政治耽誤的理財專家？顏寬恆申報土地高達66筆其中19筆是拍賣取得 同路段更達13筆 顏家補選陸戰組織嚴密 空戰缺乏奧援？｜許貴雅 summary
+</itunes:summary>
+<description>
+20211113 周末鄭知道了  完整版 被政治耽誤的理財專家？顏寬恆申報土地高達66筆其中19筆是拍賣取得 同路段更達13筆 顏家補選陸戰組織嚴密 空戰缺乏奧援？｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20211113_20211114/20211113%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39431243' type='audio/mpeg'/>
+<itunes:duration>01:43:02</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211113_20211114/20211113%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/11/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
