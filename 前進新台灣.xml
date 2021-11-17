@@ -960,5 +960,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20211116 前進新台灣 完整版 就是不還債 顏寬恆擁七期台中帝寶周玉蔻質疑不變現幫父親還債 中二區選戰顏挺4同意反中火增媒遭嗆不會論述別勉強｜黃倩萍
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211116 前進新台灣 完整版 就是不還債 顏寬恆擁七期台中帝寶周玉蔻質疑不變現幫父親還債 中二區選戰顏挺4同意反中火增媒遭嗆不會論述別勉強｜黃倩萍
+summary
+</itunes:summary>
+<description>
+20211116 前進新台灣 完整版 就是不還債 顏寬恆擁七期台中帝寶周玉蔻質疑不變現幫父親還債 中二區選戰顏挺4同意反中火增媒遭嗆不會論述別勉強｜黃倩萍
+</description>
+<enclosure url="https://archive.org/download/20211116_20211117/20211116%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='43029341' type='audio/mpeg'/>
+<itunes:duration>01:43:04</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211116_20211117/20211116%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/11/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
