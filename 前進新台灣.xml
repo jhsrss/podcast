@@ -981,5 +981,47 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20211118 前進新台灣 完整版 不是選過2次了顏少爺首度親自登記參選喊解鎖新任務 中二選區空戰開始 顏寬恒宣戰提四同意 確定對政策了解嗎｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211118 前進新台灣 完整版 不是選過2次了顏少爺首度親自登記參選喊解鎖新任務 中二選區空戰開始 顏寬恒宣戰提四同意 確定對政策了解嗎｜許貴雅
+summary
+</itunes:summary>
+<description>
+20211118 前進新台灣 完整版 不是選過2次了顏少爺首度親自登記參選喊解鎖新任務 中二選區空戰開始 顏寬恒宣戰提四同意 確定對政策了解嗎｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20211118_20211118_2048/20211118%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='43128289' type='audio/mpeg'/>
+<itunes:duration>01:42:34</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211118_20211118_2048/20211118%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/11/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20211117 前進新台灣 完整版 鴨子划水？顏寬恒參戰中二補選無行程由分身出擊？于北辰曝顏寬恒潛水艇戰術 要點突破戰略！｜黃倩萍
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211117 前進新台灣 完整版 鴨子划水？顏寬恒參戰中二補選無行程由分身出擊？于北辰曝顏寬恒潛水艇戰術 要點突破戰略！｜黃倩萍雅
+summary
+</itunes:summary>
+<description>
+20211117 前進新台灣 完整版 鴨子划水？顏寬恒參戰中二補選無行程由分身出擊？于北辰曝顏寬恒潛水艇戰術 要點突破戰略！｜黃倩萍
+</description>
+<enclosure url="https://archive.org/download/20211117_20211118/20211117%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42707763' type='audio/mpeg'/>
+<itunes:duration>01:42:52</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211117_20211118/20211117%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/11/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
