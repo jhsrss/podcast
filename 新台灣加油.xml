@@ -642,5 +642,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20211122 新台灣加油 完整版 一步一腳印按照國人期待完成！高端國際認證ing 澳洲TGA為全球最具公信力醫藥法規單位 高端獲許可將申請EUA  ｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20211122 新台灣加油 完整版 一步一腳印按照國人期待完成！高端國際認證ing 澳洲TGA為全球最具公信力醫藥法規單位 高端獲許可將申請EUA  ｜廖筱君 summary
+</itunes:summary>
+<description>
+20211122 新台灣加油 完整版 一步一腳印按照國人期待完成！高端國際認證ing 澳洲TGA為全球最具公信力醫藥法規單位 高端獲許可將申請EUA  ｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20211122_20211122_1934/20211122%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37431200' type='audio/mpeg'/>
+<itunes:duration>01:39:03</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211122_20211122_1934/20211122%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/11/22</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
