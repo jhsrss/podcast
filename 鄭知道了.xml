@@ -1433,5 +1433,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20211125 鄭知道了 完整版 顏寬恒好神！投資眼光獨道超精準 買股票瞄準國防 興櫃 未上市全翻倍漲 年化報酬率高達28 連財經專家也佩服比股神巴菲特還厲害！│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20211125 鄭知道了 完整版 顏寬恒好神！投資眼光獨道超精準 買股票瞄準國防 興櫃 未上市全翻倍漲 年化報酬率高達28 連財經專家也佩服比股神巴菲特還厲害！│鄭弘儀 summary
+</itunes:summary>
+<description>
+20211125 鄭知道了 完整版 顏寬恒好神！投資眼光獨道超精準 買股票瞄準國防 興櫃 未上市全翻倍漲 年化報酬率高達28 連財經專家也佩服比股神巴菲特還厲害！│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20211125_20211126/20211125%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39670231' type='audio/mpeg'/>
+<itunes:duration>01:42:20</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211125_20211126/20211125%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2021/11/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
