@@ -64,5 +64,23 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>辣新聞152</itunes:author>
+<title>20211126 辣新聞152 鎮瀾宮到南屯宅！算顏家總帳！   顏寬恒甩鍋切割？綠營敢查？</title>
+<itunes:subtitle>辣新聞152 subtitle </itunes:subtitle>
+<itunes:summary>
+20211126 辣新聞152 鎮瀾宮到南屯宅！算顏家總帳！   顏寬恒甩鍋切割？綠營敢查？ summary
+</itunes:summary>
+<description>
+20211126 辣新聞152 鎮瀾宮到南屯宅！算顏家總帳！   顏寬恒甩鍋切割？綠營敢查？
+</description>
+<enclosure url="https://archive.org/download/20211126-152/20211126%20%E8%BE%A3%E6%96%B0%E8%81%9E152.mp3" length='37075626' type='audio/mpeg'/>
+<itunes:duration>01:38:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211126-152/20211126%20%E8%BE%A3%E6%96%B0%E8%81%9E152.mp3</guid>
+<pubDate>2021/11/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
