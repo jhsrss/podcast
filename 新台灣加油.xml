@@ -682,5 +682,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20211130 新台灣加油 完整版 聽你在叭噗！顏寬恒撇什麼都不知 扯買賣不破租賃反被看破手腳 遭踢爆遊藝場股東是自己人 律師大膽研判顏寬恒恐房東兼經營者│廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20211130 新台灣加油 完整版 聽你在叭噗！顏寬恒撇什麼都不知 扯買賣不破租賃反被看破手腳 遭踢爆遊藝場股東是自己人 律師大膽研判顏寬恒恐房東兼經營者│廖筱君 summary
+</itunes:summary>
+<description>
+20211130 新台灣加油 完整版 聽你在叭噗！顏寬恒撇什麼都不知 扯買賣不破租賃反被看破手腳 遭踢爆遊藝場股東是自己人 律師大膽研判顏寬恒恐房東兼經營者│廖筱君
+</description>
+<enclosure url="https://archive.org/download/20211130_20211201/20211130%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37434369' type='audio/mpeg'/>
+<itunes:duration>01:39:19</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211130_20211201/20211130%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2021/11/30</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
