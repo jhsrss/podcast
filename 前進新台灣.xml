@@ -1149,6 +1149,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20211203 前進新台灣 完整版 土地正義還是土地爭議 顏寬恒買公保地等換地 知法玩法講到違建就跳針 才喊完伸張正義又爆紅黑派子彈圈地 到底還有幾個億｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211203 前進新台灣 完整版 土地正義還是土地爭議 顏寬恒買公保地等換地 知法玩法講到違建就跳針 才喊完伸張正義又爆紅黑派子彈圈地 到底還有幾個億｜許貴雅
+summary
+</itunes:summary>
+<description>
+20211203 前進新台灣 完整版 土地正義還是土地爭議 顏寬恒買公保地等換地 知法玩法講到違建就跳針 才喊完伸張正義又爆紅黑派子彈圈地 到底還有幾個億｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20211203_20211204_1923/20211203%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='43202471' type='audio/mpeg'/>
+<itunes:duration>01:42:04</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211203_20211204_1923/20211203%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/12/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
