@@ -1170,5 +1170,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20211231 前進新台灣 完整版 只有自家建設開花結果 顏寬恒當了7年立委毫無建設 辯論會狂轟陳柏惟害中二空轉2年到底跟誰選 違建急事緩辦恐壓垮盧秀燕連任之路｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211231 前進新台灣 完整版 只有自家建設開花結果 顏寬恒當了7年立委毫無建設 辯論會狂轟陳柏惟害中二空轉2年到底跟誰選 違建急事緩辦恐壓垮盧秀燕連任之路｜許貴雅
+summary
+</itunes:summary>
+<description>
+20211231 前進新台灣 完整版 只有自家建設開花結果 顏寬恒當了7年立委毫無建設 辯論會狂轟陳柏惟害中二空轉2年到底跟誰選 違建急事緩辦恐壓垮盧秀燕連任之路｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20211231_20220101/20211231%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='43105466' type='audio/mpeg'/>
+<itunes:duration>01:42:04</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211231_20220101/20211231%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2021/12/31</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
