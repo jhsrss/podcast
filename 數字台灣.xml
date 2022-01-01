@@ -383,5 +383,65 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20211212 數字台灣HD386 公投倒數 厚植台灣競爭力！ 謝金河 沈國榮 季惠卿 許正雲
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211212 數字台灣HD386 公投倒數 厚植台灣競爭力！ 謝金河 沈國榮 季惠卿 許正雲 summary
+</itunes:summary>
+<description>
+20211212 數字台灣HD386 公投倒數 厚植台灣競爭力！ 謝金河 沈國榮 季惠卿 許正雲
+</description>
+<enclosure url="https://archive.org/download/20211212-hd-386/20211212%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD386.mp3" length='19431203' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211212-hd-386/20211212%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD386.mp3</guid>
+<pubDate>2021/12/12</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20211219 數字台灣HD387台灣疫後的全新經濟秩序 謝金河 龔明鑫
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211219 數字台灣HD387台灣疫後的全新經濟秩序 謝金河 龔明鑫 summary
+</itunes:summary>
+<description>
+20211219 數字台灣HD387台灣疫後的全新經濟秩序 謝金河 龔明鑫
+</description>
+<enclosure url="https://archive.org/download/20211219-hd-387/20211219%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD387.mp3" length='19009944' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211219-hd-387/20211219%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD387.mp3</guid>
+<pubDate>2021/12/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20211226 數字台灣HD388浴火鳳凰 黃崇仁論半導體前景 謝金河 黃崇仁
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20211226 數字台灣HD388浴火鳳凰 黃崇仁論半導體前景 謝金河 黃崇仁 summary
+</itunes:summary>
+<description>
+20211226 數字台灣HD388浴火鳳凰 黃崇仁論半導體前景 謝金河 黃崇仁
+</description>
+<enclosure url="https://archive.org/download/20211226-hd-388/20211226%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD388.mp3" length='19056068' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20211226-hd-388/20211226%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD388.mp3</guid>
+<pubDate>2021/12/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
