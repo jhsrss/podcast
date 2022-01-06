@@ -1533,5 +1533,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220105 鄭知道了 完整版 顏家一條龍拚捷運經濟敏感土地登記顏仁賢名下 由顏莉敏爭取中捷B8新設站 出口還剛好在顏家土地上 占停車場公保地411坪等開發賺大財│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220105 鄭知道了 完整版 顏家一條龍拚捷運經濟敏感土地登記顏仁賢名下 由顏莉敏爭取中捷B8新設站 出口還剛好在顏家土地上 占停車場公保地411坪等開發賺大財│鄭弘儀 summary
+</itunes:summary>
+<description>
+20220105 鄭知道了 完整版 顏家一條龍拚捷運經濟敏感土地登記顏仁賢名下 由顏莉敏爭取中捷B8新設站 出口還剛好在顏家土地上 占停車場公保地411坪等開發賺大財│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20220105_20220106/20220105%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38981729' type='audio/mpeg'/>
+<itunes:duration>01:42:12</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220105_20220106/20220105%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/01/05</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
