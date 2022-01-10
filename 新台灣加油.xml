@@ -762,5 +762,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220110 新台灣加油 完整版 趙少康要將國民黨撥亂反正 王義川笑是正反亂撥吧 朱立倫雙輸深藍喊下台 韓國瑜任黨魁呼聲高｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220110 新台灣加油 完整版 趙少康要將國民黨撥亂反正 王義川笑是正反亂撥吧 朱立倫雙輸深藍喊下台 韓國瑜任黨魁呼聲高｜廖筱君 summary
+</itunes:summary>
+<description>
+20220110 新台灣加油 完整版 趙少康要將國民黨撥亂反正 王義川笑是正反亂撥吧 朱立倫雙輸深藍喊下台 韓國瑜任黨魁呼聲高｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220110_20220110_2128/20220110%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37897802' type='audio/mpeg'/>
+<itunes:duration>01:37:54</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220110_20220110_2128/20220110%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/01/10</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
