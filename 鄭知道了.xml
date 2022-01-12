@@ -1553,5 +1553,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220111 鄭知道了 完整版 輸了才說被逼著選？傳顏寬恒想直攻2024拒補選 氣得標哥差點打人？林靜儀批藍營政治操作拿中二市民開玩笑 范世平批顏你是你老爸的魁儡？│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220111 鄭知道了 完整版 輸了才說被逼著選？傳顏寬恒想直攻2024拒補選 氣得標哥差點打人？林靜儀批藍營政治操作拿中二市民開玩笑 范世平批顏你是你老爸的魁儡？│鄭弘儀 summary
+</itunes:summary>
+<description>
+20220111 鄭知道了 完整版 輸了才說被逼著選？傳顏寬恒想直攻2024拒補選 氣得標哥差點打人？林靜儀批藍營政治操作拿中二市民開玩笑 范世平批顏你是你老爸的魁儡？│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20220111_20220112_0506/20220111%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38542583' type='audio/mpeg'/>
+<itunes:duration>01:41:31</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220111_20220112_0506/20220111%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/01/11</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
