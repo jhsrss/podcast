@@ -782,5 +782,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220111 新台灣加油 完整版 不要再說謝謝了 社宅爭議重創盧秀燕形象 2022連任之路恐剩夢一場 于北辰痛批為了一席立委丟掉整個台中市｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220111 新台灣加油 完整版 不要再說謝謝了 社宅爭議重創盧秀燕形象 2022連任之路恐剩夢一場 于北辰痛批為了一席立委丟掉整個台中市｜廖筱君 summary
+</itunes:summary>
+<description>
+20220111 新台灣加油 完整版 不要再說謝謝了 社宅爭議重創盧秀燕形象 2022連任之路恐剩夢一場 于北辰痛批為了一席立委丟掉整個台中市｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220111_20220112_0524/20220111%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37819008' type='audio/mpeg'/>
+<itunes:duration>01:38:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220111_20220112_0524/20220111%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/01/11</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
