@@ -454,6 +454,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>
+20220112 突發琪想 反制逼宮！朱邀「他們」擴大決策有用？韓引國父紀念歌表態？ 蕾宏戰20！王力宏帶3男硬闖嚇哭孩？李靚蕾怒揭「通話內容」！
+</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20220112 突發琪想 反制逼宮！朱邀「他們」擴大決策有用？韓引國父紀念歌表態？ 蕾宏戰20！王力宏帶3男硬闖嚇哭孩？李靚蕾怒揭「通話內容」！ summary
+</itunes:summary>
+<description>
+20220112 突發琪想 反制逼宮！朱邀「他們」擴大決策有用？韓引國父紀念歌表態？ 蕾宏戰20！王力宏帶3男硬闖嚇哭孩？李靚蕾怒揭「通話內容」！
+</description>
+<enclosure url="https://archive.org/download/20220112_20220112_1607/20220112%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40527168' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220112_20220112_1607/20220112%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2022/01/12</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
