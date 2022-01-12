@@ -434,5 +434,26 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>
+20220111 突發琪想 輸輸輸！朱被「大三元」後 救世主會是「那個人」？但朱還有「武器」？車子變冰塊！賞雪喪命！冰川消融成地震導火線？台恐出現大震？
+</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20220111 突發琪想 輸輸輸！朱被「大三元」後 救世主會是「那個人」？但朱還有「武器」？車子變冰塊！賞雪喪命！冰川消融成地震導火線？台恐出現大震？ summary
+</itunes:summary>
+<description>
+20220111 突發琪想 輸輸輸！朱被「大三元」後 救世主會是「那個人」？但朱還有「武器」？車子變冰塊！賞雪喪命！冰川消融成地震導火線？台恐出現大震？
+</description>
+<enclosure url="https://archive.org/download/20220111_20220112_0558/20220111%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40037858' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220111_20220112_0558/20220111%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2022/01/11</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
