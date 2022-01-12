@@ -306,5 +306,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20220111 新聞面對面 《藍1／9苦吞雙敗 朱立倫神隱17小時才致歉！政治後座力？ 》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20220111 新聞面對面 《藍1／9苦吞雙敗 朱立倫神隱17小時才致歉！政治後座力？ 》 summary </itunes:summary>
+<description>
+20220111 新聞面對面 《藍1／9苦吞雙敗 朱立倫神隱17小時才致歉！政治後座力？ 》 
+</description>
+<enclosure url="https://archive.org/download/20220111_20220112/20220111%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='40312739' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220111_20220112/20220111%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2022/01/11</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
