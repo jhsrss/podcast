@@ -914,5 +914,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20220113 年代向錢看 Part 1 獨！桃機超級風暴！居服員是超級傳播者？！中國疫情多點爆！冬奧恐崩盤？！2022選戰提前開打？！黨內互打不手軟？！全球晶圓廠支出再創高？
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20220113 年代向錢看 Part 1 獨！桃機超級風暴！居服員是超級傳播者？！中國疫情多點爆！冬奧恐崩盤？！2022選戰提前開打？！黨內互打不手軟？！全球晶圓廠支出再創高？
+</itunes:summary>
+<description>
+20220113 年代向錢看 Part 1 獨！桃機超級風暴！居服員是超級傳播者？！中國疫情多點爆！冬奧恐崩盤？！2022選戰提前開打？！黨內互打不手軟？！全球晶圓廠支出再創高？
+ </description>
+<enclosure url="https://archive.org/download/20220113-part-1/20220113%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='20186004' type='audio/mpeg'/>
+<itunes:duration>48:51</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220113-part-1/20220113%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2022/01/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20220113 年代向錢看 Part 2 獨！拜登民調再破底！能源價格飆漲！哈薩克暴動！中國經濟陷危機？中國大學生想要有工作好難？美航母戰鬥群＋兩棲戒備群！愛三增程型飛彈2025抵台！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20220113 年代向錢看 Part 2 獨！拜登民調再破底！能源價格飆漲！哈薩克暴動！中國經濟陷危機？中國大學生想要有工作好難？美航母戰鬥群＋兩棲戒備群！愛三增程型飛彈2025抵台！
+</itunes:summary>
+<description>
+20220113 年代向錢看 Part 2 獨！拜登民調再破底！能源價格飆漲！哈薩克暴動！中國經濟陷危機？中國大學生想要有工作好難？美航母戰鬥群＋兩棲戒備群！愛三增程型飛彈2025抵台！
+ </description>
+<enclosure url="https://archive.org/download/20220113-part-2/20220113%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19808357' type='audio/mpeg'/>
+<itunes:duration>48:46</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220113-part-2/20220113%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2022/01/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
