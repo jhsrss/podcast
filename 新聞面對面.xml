@@ -325,5 +325,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20220113 新聞面對面 《趁你病要你命？藍再不團結就等著被滅團？還能歲月靜好？ 》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20220113 新聞面對面 《趁你病要你命？藍再不團結就等著被滅團？還能歲月靜好？ 》 summary </itunes:summary>
+<description>
+20220113 新聞面對面 《趁你病要你命？藍再不團結就等著被滅團？還能歲月靜好？ 》 
+</description>
+<enclosure url="https://archive.org/download/20220113_20220114_0547/20220113%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='40442811' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220113_20220114_0547/20220113%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2022/01/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
