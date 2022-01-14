@@ -802,5 +802,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220113 新台灣加油 完整版 這下不能再利用宮廟斂財了~行政院拍板 防宗教團體不動產淪私產修法兩年內更名登記｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220113 新台灣加油 完整版 這下不能再利用宮廟斂財了~行政院拍板 防宗教團體不動產淪私產修法兩年內更名登記｜廖筱君 summary
+</itunes:summary>
+<description>
+20220113 新台灣加油 完整版 這下不能再利用宮廟斂財了~行政院拍板 防宗教團體不動產淪私產修法兩年內更名登記｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220113_20220114_0527/20220113%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37750383' type='audio/mpeg'/>
+<itunes:duration>01:38:54</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220113_20220114_0527/20220113%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/01/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
