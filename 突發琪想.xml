@@ -474,5 +474,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>
+20220113 突發琪想 發「懺悔文」！大溪謁陵反省！「跛腳主席」能挽救國民黨？ 周杰倫進軍NFT！大立光變身！台積獨霸3、4奈米！台科技潮襲全球！？
+</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20220113 突發琪想 發「懺悔文」！大溪謁陵反省！「跛腳主席」能挽救國民黨？ 周杰倫進軍NFT！大立光變身！台積獨霸3、4奈米！台科技潮襲全球！？ summary
+</itunes:summary>
+<description>
+20220113 突發琪想 發「懺悔文」！大溪謁陵反省！「跛腳主席」能挽救國民黨？ 周杰倫進軍NFT！大立光變身！台積獨霸3、4奈米！台科技潮襲全球！？
+</description>
+<enclosure url="https://archive.org/download/20220113_20220114_0540/20220113%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='40305622' type='audio/mpeg'/>
+<itunes:duration>01:37:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220113_20220114_0540/20220113%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2022/01/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
