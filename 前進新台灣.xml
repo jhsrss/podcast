@@ -1296,5 +1296,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220119 前進新台灣 完整版 台中宜蘭雲林都淪陷 土地爭議不斷延燒 羅東土地開發弊案機六用地改住宅地大賺 林姿妙幕僚稱政治迫害恐是藍營統一口徑｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220119 前進新台灣 完整版 台中宜蘭雲林都淪陷 土地爭議不斷延燒 羅東土地開發弊案機六用地改住宅地大賺 林姿妙幕僚稱政治迫害恐是藍營統一口徑｜許貴雅
+summary
+</itunes:summary>
+<description>
+20220119 前進新台灣 完整版 台中宜蘭雲林都淪陷 土地爭議不斷延燒 羅東土地開發弊案機六用地改住宅地大賺 林姿妙幕僚稱政治迫害恐是藍營統一口徑｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220119_20220119_1544/20220119%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42965446' type='audio/mpeg'/>
+<itunes:duration>01:42:13</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220119_20220119_1544/20220119%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/01/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
