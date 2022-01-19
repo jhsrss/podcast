@@ -1593,5 +1593,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220118 鄭知道了 完整版 人設太成功扮豬吃老虎 王定宇曝機6保護區變更農地獲利10億 檢廉鴨子划水布局3年 林姿妙犯大忌讓民主宜蘭蒙塵 內部人看不下去爆料│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220118 鄭知道了 完整版 人設太成功扮豬吃老虎 王定宇曝機6保護區變更農地獲利10億 檢廉鴨子划水布局3年 林姿妙犯大忌讓民主宜蘭蒙塵 內部人看不下去爆料│鄭弘儀 summary
+</itunes:summary>
+<description>
+20220118 鄭知道了 完整版 人設太成功扮豬吃老虎 王定宇曝機6保護區變更農地獲利10億 檢廉鴨子划水布局3年 林姿妙犯大忌讓民主宜蘭蒙塵 內部人看不下去爆料│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20220118_20220119/20220118%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39136715' type='audio/mpeg'/>
+<itunes:duration>01:42:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220118_20220119/20220118%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/01/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
