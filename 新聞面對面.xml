@@ -344,5 +344,43 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20220118 新聞面對面 《重磅！不輸習近平？趙少康：我最適合代表國民黨選總統？》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20220118 新聞面對面 《重磅！不輸習近平？趙少康：我最適合代表國民黨選總統？》 summary </itunes:summary>
+<description>
+20220118 新聞面對面 《重磅！不輸習近平？趙少康：我最適合代表國民黨選總統？》 
+</description>
+<enclosure url="https://archive.org/download/20220118_20220119_1551/20220118%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39967229' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220118_20220119_1551/20220118%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2022/01/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20220119 新聞面對面 《沒有退路！朱立倫該宣示不選2024？專心當「造王者」？》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20220119 新聞面對面 《沒有退路！朱立倫該宣示不選2024？專心當「造王者」？》 summary </itunes:summary>
+<description>
+20220119 新聞面對面 《沒有退路！朱立倫該宣示不選2024？專心當「造王者」？》 
+</description>
+<enclosure url="https://archive.org/download/20220119_20220119_1556/20220119%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39917820' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220119_20220119_1556/20220119%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2022/01/19</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
