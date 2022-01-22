@@ -1317,5 +1317,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220121 前進新台灣 完整版 只要我想拆有什麼不可以 議員轟宜蘭縣府強拆民房不甩內政部 吃定羅東鎮民 機6地名目變變變 一下住宅區一下機關用地｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220121 前進新台灣 完整版 只要我想拆有什麼不可以 議員轟宜蘭縣府強拆民房不甩內政部 吃定羅東鎮民 機6地名目變變變 一下住宅區一下機關用地｜許貴雅
+summary
+</itunes:summary>
+<description>
+20220121 前進新台灣 完整版 只要我想拆有什麼不可以 議員轟宜蘭縣府強拆民房不甩內政部 吃定羅東鎮民 機6地名目變變變 一下住宅區一下機關用地｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220121_20220122_0855/20220121%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='43833031' type='audio/mpeg'/>
+<itunes:duration>01:42:59</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220121_20220122_0855/20220121%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/01/21</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
