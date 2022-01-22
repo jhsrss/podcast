@@ -822,5 +822,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220121 新台灣加油 完整版 真的拆完？都發局稱817公保地違建今全拆完 遭王義川懷疑又用目測？今認定顏家沙鹿莊園是違建限14天內拆 王批中市府愈來愈白X｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220121 新台灣加油 完整版 真的拆完？都發局稱817公保地違建今全拆完 遭王義川懷疑又用目測？今認定顏家沙鹿莊園是違建限14天內拆 王批中市府愈來愈白X｜廖筱君 summary
+</itunes:summary>
+<description>
+20220121 新台灣加油 完整版 真的拆完？都發局稱817公保地違建今全拆完 遭王義川懷疑又用目測？今認定顏家沙鹿莊園是違建限14天內拆 王批中市府愈來愈白X｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220121_20220122/20220121%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37557952' type='audio/mpeg'/>
+<itunes:duration>01:38:43</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220121_20220122/20220121%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/01/21</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
