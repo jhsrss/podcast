@@ -842,5 +842,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220128 新台灣加油 完整版 蔣萬安血統牌恐核爆  蔣家第四代蔣元贊秀族譜驚爆蔣家從未承認過章孝嚴 批蔣萬安蹭蔣經國熱度 勸他當目標放在｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220128 新台灣加油 完整版 蔣萬安血統牌恐核爆  蔣家第四代蔣元贊秀族譜驚爆蔣家從未承認過章孝嚴 批蔣萬安蹭蔣經國熱度 勸他當目標放在｜廖筱君 summary
+</itunes:summary>
+<description>
+20220128 新台灣加油 完整版 蔣萬安血統牌恐核爆  蔣家第四代蔣元贊秀族譜驚爆蔣家從未承認過章孝嚴 批蔣萬安蹭蔣經國熱度 勸他當目標放在｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220128_20220129_0706/20220128%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37490928' type='audio/mpeg'/>
+<itunes:duration>01:39:06</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220128_20220129_0706/20220128%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/01/28</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
