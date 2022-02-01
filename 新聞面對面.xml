@@ -420,5 +420,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20220201 新聞面對面 《「揮別牛年陰霾！國民黨再起之路 2022佈局？兩岸路線？ 》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20220201 新聞面對面 《「揮別牛年陰霾！國民黨再起之路 2022佈局？兩岸路線？ 》 summary </itunes:summary>
+<description>
+20220201 新聞面對面 《「揮別牛年陰霾！國民黨再起之路 2022佈局？兩岸路線？ 》 
+</description>
+<enclosure url="https://archive.org/download/20220201_20220201_2036/20220201%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39860003' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220201_20220201_2036/20220201%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2022/02/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
