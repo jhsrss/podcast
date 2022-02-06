@@ -1633,5 +1633,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220204 鄭知道了 完整版 中國經濟亮冥燈 習近平為了保權狂割韭菜不手軟 下令共同富裕讓富人爆紅轉黑只是一夕間 │呂惠敏
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220204 鄭知道了 完整版 中國經濟亮冥燈 習近平為了保權狂割韭菜不手軟 下令共同富裕讓富人爆紅轉黑只是一夕間 │呂惠敏 summary
+</itunes:summary>
+<description>
+20220204 鄭知道了 完整版 中國經濟亮冥燈 習近平為了保權狂割韭菜不手軟 下令共同富裕讓富人爆紅轉黑只是一夕間 │呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20220204_20220206/20220204%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38437172' type='audio/mpeg'/>
+<itunes:duration>01:40:02</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220204_20220206/20220204%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/02/04</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
