@@ -1653,5 +1653,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220207 鄭知道了 完整版 吃國家的飯卻砸國家的鍋 黃郁婷 蕭敬騰幾句話 幾個動作大傷台灣人的心 國族意識模糊成統戰破口 台灣還有多少黃郁婷們│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220207 鄭知道了 完整版 吃國家的飯卻砸國家的鍋 黃郁婷 蕭敬騰幾句話 幾個動作大傷台灣人的心 國族意識模糊成統戰破口 台灣還有多少黃郁婷們│鄭弘儀 summary
+</itunes:summary>
+<description>
+20220207 鄭知道了 完整版 吃國家的飯卻砸國家的鍋 黃郁婷 蕭敬騰幾句話 幾個動作大傷台灣人的心 國族意識模糊成統戰破口 台灣還有多少黃郁婷們│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20220207_20220208/20220207%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='36965167' type='audio/mpeg'/>
+<itunes:duration>01:36:14</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220207_20220208/20220207%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/02/07</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
