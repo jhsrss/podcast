@@ -1673,5 +1673,26 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220215 鄭知道了 完整版 國民黨棄蔣保珊？連勝文轟台灣防疫爛要綠派陳時中選北市趁機算總帳？去年疫情震央在萬華 連勝文忘了柯文哲角色？│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220215 鄭知道了 完整版 國民黨棄蔣保珊？連勝文轟台灣防疫爛要綠派陳時中選北市趁機算總帳？去年疫情震央在萬華 連勝文忘了柯文哲角色？│鄭弘儀 summary
+</itunes:summary>
+<description>
+20220215 鄭知道了 完整版 國民黨棄蔣保珊？連勝文轟台灣防疫爛要綠派陳時中選北市趁機算總帳？去年疫情震央在萬華 連勝文忘了柯文哲角色？│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20220215_20220217/20220215%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37583101' type='audio/mpeg'/>
+<itunes:duration>01:38:56</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220215_20220217/20220215%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/02/15</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
