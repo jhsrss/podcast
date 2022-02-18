@@ -922,5 +922,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220217 新台灣加油 完整版 中共二十大前對台認知戰 藝界體壇染紅統派借殼參選台南共產天后宮死灰復燃 統派2022大選全面出兵 意圖炮製2018亂台大選策略｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220217 新台灣加油 完整版 中共二十大前對台認知戰 藝界體壇染紅統派借殼參選台南共產天后宮死灰復燃 統派2022大選全面出兵 意圖炮製2018亂台大選策略｜廖筱君 summary
+</itunes:summary>
+<description>
+20220217 新台灣加油 完整版 中共二十大前對台認知戰 藝界體壇染紅統派借殼參選台南共產天后宮死灰復燃 統派2022大選全面出兵 意圖炮製2018亂台大選策略｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220217_20220218_0655/20220217%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='41266065' type='audio/mpeg'/>
+<itunes:duration>01:38:28</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220217_20220218_0655/20220217%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/02/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
