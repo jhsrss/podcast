@@ -902,5 +902,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220216 新台灣加油 完整版 統派趁年底大選滲透台灣 李正皓點名黃琳陳聖文借覺醒青年名義重新借殼上市 國民黨被點名藏暗獨 蔡詩萍中共就是要逼你明統促統｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220216 新台灣加油 完整版 統派趁年底大選滲透台灣 李正皓點名黃琳陳聖文借覺醒青年名義重新借殼上市 國民黨被點名藏暗獨 蔡詩萍中共就是要逼你明統促統｜廖筱君 summary
+</itunes:summary>
+<description>
+20220216 新台灣加油 完整版 統派趁年底大選滲透台灣 李正皓點名黃琳陳聖文借覺醒青年名義重新借殼上市 國民黨被點名藏暗獨 蔡詩萍中共就是要逼你明統促統｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220216_20220218_0644/20220216%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37252935' type='audio/mpeg'/>
+<itunes:duration>01:38:18</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220216_20220218_0644/20220216%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/02/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
