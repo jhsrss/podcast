@@ -1380,5 +1380,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220216 前進新台灣 完整版 藍白廝殺誰被棄？黃珊珊動起來搶藍營選票 嗆KMT如胖虎推藍白合想全拿？蔣萬安民調不如昔日已到頂恐步上連勝文後塵？｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220216 前進新台灣 完整版 藍白廝殺誰被棄？黃珊珊動起來搶藍營選票 嗆KMT如胖虎推藍白合想全拿？蔣萬安民調不如昔日已到頂恐步上連勝文後塵？｜許貴雅
+summary
+</itunes:summary>
+<description>
+20220216 前進新台灣 完整版 藍白廝殺誰被棄？黃珊珊動起來搶藍營選票 嗆KMT如胖虎推藍白合想全拿？蔣萬安民調不如昔日已到頂恐步上連勝文後塵？｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220216_20220218_0649/20220216%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42781913' type='audio/mpeg'/>
+<itunes:duration>01:41:51</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220216_20220218_0649/20220216%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/02/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
