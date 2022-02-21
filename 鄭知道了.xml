@@ -1733,6 +1733,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220220 周末鄭知道了  完整版 朱侯協調破局？侯家軍碰上朱家軍先下手為強 侯家軍31幕僚辭職參選新北市議員 侯友宜備戰2024精心布局？｜許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220220 周末鄭知道了  完整版 朱侯協調破局？侯家軍碰上朱家軍先下手為強 侯家軍31幕僚辭職參選新北市議員 侯友宜備戰2024精心布局？｜許貴雅 summary
+</itunes:summary>
+<description>
+20220220 周末鄭知道了  完整版 朱侯協調破局？侯家軍碰上朱家軍先下手為強 侯家軍31幕僚辭職參選新北市議員 侯友宜備戰2024精心布局？｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220220_20220221/20220220%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='39471211' type='audio/mpeg'/>
+<itunes:duration>01:42:00</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220220_20220221/20220220%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/02/20</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
 
 </channel>
 </rss>
