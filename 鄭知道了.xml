@@ -1753,5 +1753,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220225 鄭知道了 完整版 國際怎麼制裁普 習近平都在關切 俄羅斯大軍強硬入侵烏克蘭 不惜開戰只為了重拾榮耀 歐美國家作壁上觀讓烏克蘭總統嘆孤軍奮戰│呂惠敏
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220225 鄭知道了 完整版 國際怎麼制裁普 習近平都在關切 俄羅斯大軍強硬入侵烏克蘭 不惜開戰只為了重拾榮耀 歐美國家作壁上觀讓烏克蘭總統嘆孤軍奮戰│呂惠敏 summary
+</itunes:summary>
+<description>
+20220225 鄭知道了 完整版 國際怎麼制裁普 習近平都在關切 俄羅斯大軍強硬入侵烏克蘭 不惜開戰只為了重拾榮耀 歐美國家作壁上觀讓烏克蘭總統嘆孤軍奮戰│呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20220225_20220226/20220225%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='37977011' type='audio/mpeg'/>
+<itunes:duration>01:39:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220225_20220226/20220225%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/02/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
