@@ -942,5 +942,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220302 新台灣加油 完整版 流氓國家沒資格談人權 普丁用錯俄羅斯輪盤恐輸掉整個國家 習近平持續神隱不跟進制裁 烏克蘭情勢考驗中俄深厚友誼｜廖筱君
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220302 新台灣加油 完整版 流氓國家沒資格談人權 普丁用錯俄羅斯輪盤恐輸掉整個國家 習近平持續神隱不跟進制裁 烏克蘭情勢考驗中俄深厚友誼｜廖筱君 summary
+</itunes:summary>
+<description>
+20220302 新台灣加油 完整版 流氓國家沒資格談人權 普丁用錯俄羅斯輪盤恐輸掉整個國家 習近平持續神隱不跟進制裁 烏克蘭情勢考驗中俄深厚友誼｜廖筱君
+</description>
+<enclosure url="https://archive.org/download/20220302_20220303_1725/20220302%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='36451742' type='audio/mpeg'/>
+<itunes:duration>01:36:50</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220302_20220303_1725/20220302%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/03/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
