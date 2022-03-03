@@ -1773,5 +1773,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220302 鄭知道了 完整版 烏俄交戰最壞情況還沒到？俄軍出師不利恐使出更殘暴手段 普丁會不擇手段硬幹到底 無差別屠殺基輔？紐時示警俄將祭火海戰術│鄭弘儀
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220302 鄭知道了 完整版 烏俄交戰最壞情況還沒到？俄軍出師不利恐使出更殘暴手段 普丁會不擇手段硬幹到底 無差別屠殺基輔？紐時示警俄將祭火海戰術│鄭弘儀 summary
+</itunes:summary>
+<description>
+20220302 鄭知道了 完整版 烏俄交戰最壞情況還沒到？俄軍出師不利恐使出更殘暴手段 普丁會不擇手段硬幹到底 無差別屠殺基輔？紐時示警俄將祭火海戰術│鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20220302_20220303/20220302%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='36550473' type='audio/mpeg'/>
+<itunes:duration>01:34:31</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220302_20220303/20220302%20%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/03/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
