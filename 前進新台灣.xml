@@ -1443,5 +1443,47 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220301 前進新台灣 完整版 真的有心想談判嗎 談判剛結束基輔傳爆炸聲 俄羅斯玩兩手策略 李正皓批評普丁3條件根本就是鬼意見 鍾年晃更直言這場戰役俄已完敗｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220301 前進新台灣 完整版 真的有心想談判嗎 談判剛結束基輔傳爆炸聲 俄羅斯玩兩手策略 李正皓批評普丁3條件根本就是鬼意見 鍾年晃更直言這場戰役俄已完敗｜許貴雅
+summary
+</itunes:summary>
+<description>
+20220301 前進新台灣 完整版 真的有心想談判嗎 談判剛結束基輔傳爆炸聲 俄羅斯玩兩手策略 李正皓批評普丁3條件根本就是鬼意見 鍾年晃更直言這場戰役俄已完敗｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220301_20220303/20220301%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42448294' type='audio/mpeg'/>
+<itunes:duration>01:41:13</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220301_20220303/20220301%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/03/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220302 前進新台灣 完整版 我們只想要孩子活著 烏總統澤倫斯基歐洲議會演說引人熱淚 姚惠珍讚澤倫斯基最擅長化危機為轉機 透過幾次演講將劣勢轉為優勢｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220302 前進新台灣 完整版 我們只想要孩子活著 烏總統澤倫斯基歐洲議會演說引人熱淚 姚惠珍讚澤倫斯基最擅長化危機為轉機 透過幾次演講將劣勢轉為優勢｜許貴雅
+summary
+</itunes:summary>
+<description>
+20220302 前進新台灣 完整版 我們只想要孩子活著 烏總統澤倫斯基歐洲議會演說引人熱淚 姚惠珍讚澤倫斯基最擅長化危機為轉機 透過幾次演講將劣勢轉為優勢｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220302_20220303_1747/20220302%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42802684' type='audio/mpeg'/>
+<itunes:duration>01:41:03</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220302_20220303_1747/20220302%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/03/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
