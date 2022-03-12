@@ -1485,5 +1485,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220311 前進新台灣 完整版 血壓快爆表了 普丁不滿聯邦安全局害他誤判情勢 震怒開除8將軍  普丁下一步怎麼走 英美擔憂他為了求勝 恐動用核戰化武｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220311 前進新台灣 完整版 血壓快爆表了 普丁不滿聯邦安全局害他誤判情勢 震怒開除8將軍  普丁下一步怎麼走 英美擔憂他為了求勝 恐動用核戰化武｜許貴雅
+summary
+</itunes:summary>
+<description>
+20220311 前進新台灣 完整版 血壓快爆表了 普丁不滿聯邦安全局害他誤判情勢 震怒開除8將軍  普丁下一步怎麼走 英美擔憂他為了求勝 恐動用核戰化武｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220311_20220312_1757/20220311%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42263277' type='audio/mpeg'/>
+<itunes:duration>01:40:20</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220311_20220312_1757/20220311%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/03/11</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
