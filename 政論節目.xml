@@ -102,5 +102,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>94要客訴</itunes:author>
+<title>
+20220223 【寶島全世界】四十年來最嚴重的通膨？烏俄局勢牽動金融市場！ 鄭弘儀
+</title>
+<itunes:subtitle>辣新聞152 subtitle </itunes:subtitle>
+<itunes:summary>
+20220223 【寶島全世界】四十年來最嚴重的通膨？烏俄局勢牽動金融市場！ 鄭弘儀 summary
+</itunes:summary>
+<description>
+20220223 【寶島全世界】四十年來最嚴重的通膨？烏俄局勢牽動金融市場！ 鄭弘儀
+</description>
+<enclosure url="https://archive.org/download/20220223_202203/20220223%20%E5%AF%B6%E5%B3%B6%E5%85%A8%E4%B8%96%E7%95%8C.mp3" length='21957381' type='audio/mpeg'/>
+<itunes:duration>51:27</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220223_202203/20220223%20%E5%AF%B6%E5%B3%B6%E5%85%A8%E4%B8%96%E7%95%8C.mp3</guid>
+<pubDate>2022/02/23</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
