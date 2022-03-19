@@ -1506,5 +1506,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220318 前進新台灣 完整版 趁機大內宣？拜習通話前 中國航母山東號竟通過台海 想轉移美談判焦點？俄外長訪中途折返 專家分析恐因拜習熱線急被普丁召回？｜許貴雅
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220318 前進新台灣 完整版 趁機大內宣？拜習通話前 中國航母山東號竟通過台海 想轉移美談判焦點？俄外長訪中途折返 專家分析恐因拜習熱線急被普丁召回？｜許貴雅
+summary
+</itunes:summary>
+<description>
+20220318 前進新台灣 完整版 趁機大內宣？拜習通話前 中國航母山東號竟通過台海 想轉移美談判焦點？俄外長訪中途折返 專家分析恐因拜習熱線急被普丁召回？｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220318_20220319_0648/20220318%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='42888115' type='audio/mpeg'/>
+<itunes:duration>01:40:14</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220318_20220319_0648/20220318%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/03/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
