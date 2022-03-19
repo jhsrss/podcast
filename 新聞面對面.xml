@@ -458,5 +458,24 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20220318 新聞面對面 《破罐破摔？俄烏開戰23天！沙皇普丁退無可退要「社會清洗」？》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20220318 新聞面對面 《破罐破摔？俄烏開戰23天！沙皇普丁退無可退要「社會清洗」？》 summary </itunes:summary>
+<description>
+20220318 新聞面對面 《破罐破摔？俄烏開戰23天！沙皇普丁退無可退要「社會清洗」？》 
+</description>
+<enclosure url="https://archive.org/download/20220318_20220319_0708/20220318%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39251904' type='audio/mpeg'/>
+<itunes:duration>01:37:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220318_20220319_0708/20220318%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2022/03/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
