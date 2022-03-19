@@ -463,5 +463,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20220220 數字台灣HD395 未來，我們在元宇宙相見！ 謝金河 黃志芳 梁文隆
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220220 數字台灣HD395 未來，我們在元宇宙相見！ 謝金河 黃志芳 梁文隆 summary
+</itunes:summary>
+<description>
+20220220 數字台灣HD395 未來，我們在元宇宙相見！ 謝金河 黃志芳 梁文隆
+</description>
+<enclosure url="https://archive.org/download/20220220_202203/20220220%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3.mp3" length='19235369' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220220_202203/20220220%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/02/20</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
