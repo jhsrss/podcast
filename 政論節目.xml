@@ -122,5 +122,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>94要客訴</itunes:author>
+<title>
+20220325 1800年代晚報 《樹林科技廠爆10例確診！ 南北隱形傳播鏈增加？》1800年代晚報 張雅琴說播批評』】
+</title>
+<itunes:subtitle>辣新聞152 subtitle </itunes:subtitle>
+<itunes:summary>
+20220325 1800年代晚報 《樹林科技廠爆10例確診！ 南北隱形傳播鏈增加？》1800年代晚報 張雅琴說播批評』】 summary
+</itunes:summary>
+<description>
+20220325 1800年代晚報 《樹林科技廠爆10例確診！ 南北隱形傳播鏈增加？》1800年代晚報 張雅琴說播批評』】
+</description>
+<enclosure url="https://archive.org/download/20220325-1800/20220325%201800%E5%B9%B4%E4%BB%A3%E6%99%9A%E5%A0%B1.mp3" length='16965009' type='audio/mpeg'/>
+<itunes:duration>43:08</itunes:duration>
+<guid isPermaLink="false">hhttps://archive.org/download/20220325-1800/20220325%201800%E5%B9%B4%E4%BB%A3%E6%99%9A%E5%A0%B1.mp3</guid>
+<pubDate>2022/03/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
