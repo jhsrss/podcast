@@ -1873,5 +1873,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220402 周末鄭知道了 完整版 下一個輪到台灣 澤倫斯基暗示中國將武力犯台 蔡正元大讚普丁攻打烏克蘭穩賺不賠 深藍不認俄羅斯侵略惡行 二流部隊只是消庫存｜許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220402 周末鄭知道了 完整版 下一個輪到台灣 澤倫斯基暗示中國將武力犯台 蔡正元大讚普丁攻打烏克蘭穩賺不賠 深藍不認俄羅斯侵略惡行 二流部隊只是消庫存｜許貴雅 summary
+</itunes:summary>
+<description>
+20220402 周末鄭知道了 完整版 下一個輪到台灣 澤倫斯基暗示中國將武力犯台 蔡正元大讚普丁攻打烏克蘭穩賺不賠 深藍不認俄羅斯侵略惡行 二流部隊只是消庫存｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220402_20220403/20220402%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86%20%E5%AE%8C%E6%95%B4%E7%89%88.mp3" length='37442824' type='audio/mpeg'/>
+<itunes:duration>01:37:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220402_20220403/20220402%20%E5%91%A8%E6%9C%AB%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86%20%E5%AE%8C%E6%95%B4%E7%89%88.mp3</guid>
+<pubDate>2022/04/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
