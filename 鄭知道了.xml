@@ -1893,5 +1893,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>鄭知道了</itunes:author>
+<title>
+20220403 週末版鄭知道了 完整版 朱立倫靠一紙彌封的信決定選將 拉在地議員幫忙背書 先做問券調查支持在地or空降  黃敬平酸不如選策會我們來當就好│許貴雅
+</title>
+<itunes:subtitle>鄭知道了 subtitle </itunes:subtitle>
+<itunes:summary>
+20220403 週末版鄭知道了 完整版 朱立倫靠一紙彌封的信決定選將 拉在地議員幫忙背書 先做問券調查支持在地or空降  黃敬平酸不如選策會我們來當就好│許貴雅 summary
+</itunes:summary>
+<description>
+20220403 週末版鄭知道了 完整版 朱立倫靠一紙彌封的信決定選將 拉在地議員幫忙背書 先做問券調查支持在地or空降  黃敬平酸不如選策會我們來當就好│許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220403_20220405/20220403%20%E9%80%B1%E6%9C%AB%E7%89%88%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3" length='38047917' type='audio/mpeg'/>
+<itunes:duration>01:39:04</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220403_20220405/20220403%20%E9%80%B1%E6%9C%AB%E7%89%88%E9%84%AD%E7%9F%A5%E9%81%93%E4%BA%86.mp3</guid>
+<pubDate>2022/04/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
