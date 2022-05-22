@@ -1042,5 +1042,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220520 新台灣加油 完整版 桃園不想贏了 朱立倫黑箱空降張善政遭酸等著下台謝罪 于北辰大膽預言結局連累其他縣市｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220520 新台灣加油 完整版 桃園不想贏了 朱立倫黑箱空降張善政遭酸等著下台謝罪 于北辰大膽預言結局連累其他縣市｜許貴雅  summary
+</itunes:summary>
+<description>
+20220520 新台灣加油 完整版 桃園不想贏了 朱立倫黑箱空降張善政遭酸等著下台謝罪 于北辰大膽預言結局連累其他縣市｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20220520_20220522_2114/20220520%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='38188211' type='audio/mpeg'/>
+<itunes:duration>01:37:23</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220520_20220522_2114/20220520%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/05/20</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
