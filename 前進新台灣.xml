@@ -1632,5 +1632,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220829 前進新台灣 完整版 買網軍沒付尾款還瞎扯1450 鄭寶清委屈喊剛參選就被抹黑 四叉貓爆鄭寶清御用網軍衝流量 再加碼揭露案外案｜鍾年晃
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220829 前進新台灣 完整版 買網軍沒付尾款還瞎扯1450 鄭寶清委屈喊剛參選就被抹黑 四叉貓爆鄭寶清御用網軍衝流量 再加碼揭露案外案｜鍾年晃
+summary
+</itunes:summary>
+<description>
+20220829 前進新台灣 完整版 買網軍沒付尾款還瞎扯1450 鄭寶清委屈喊剛參選就被抹黑 四叉貓爆鄭寶清御用網軍衝流量 再加碼揭露案外案｜鍾年晃
+</description>
+<enclosure url="https://archive.org/download/20220829_20220829_1847/20220829%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47923048' type='audio/mpeg'/>
+<itunes:duration>02:04:30</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220829_20220829_1847/20220829%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/08/29</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
