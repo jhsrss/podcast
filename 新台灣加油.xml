@@ -1082,5 +1082,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220901 新台灣加油 完整版 獨家踢爆！張善政嗆1塊錢入袋就退選 拉老東家當擋箭牌 追那些年宏碁薪水和股利 卓冠廷證明完畢後你會不會真的退選？│許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220901 新台灣加油 完整版 獨家踢爆！張善政嗆1塊錢入袋就退選 拉老東家當擋箭牌 追那些年宏碁薪水和股利 卓冠廷證明完畢後你會不會真的退選？│許貴雅  summary
+</itunes:summary>
+<description>
+20220901 新台灣加油 完整版 獨家踢爆！張善政嗆1塊錢入袋就退選 拉老東家當擋箭牌 追那些年宏碁薪水和股利 卓冠廷證明完畢後你會不會真的退選？│許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20220901_20220901_2240/20220901%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='45363377' type='audio/mpeg'/>
+<itunes:duration>01:56:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220901_20220901_2240/20220901%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/09/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
