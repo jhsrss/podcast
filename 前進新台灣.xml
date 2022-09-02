@@ -1674,5 +1674,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220902 前進新台灣 完整版 有問過祂的想法嗎 幕僚讚張善政為農業科技界蔣經國 求天求地求神明 護航無極限 于北辰批坦蕩蕩講清楚 別扯蔣經國｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220902 前進新台灣 完整版 有問過祂的想法嗎 幕僚讚張善政為農業科技界蔣經國 求天求地求神明 護航無極限 于北辰批坦蕩蕩講清楚 別扯蔣經國｜王偊菁
+summary
+</itunes:summary>
+<description>
+20220902 前進新台灣 完整版 有問過祂的想法嗎 幕僚讚張善政為農業科技界蔣經國 求天求地求神明 護航無極限 于北辰批坦蕩蕩講清楚 別扯蔣經國｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20220902_20220902_1615/20220902%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='39726424' type='audio/mpeg'/>
+<itunes:duration>01:40:30</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220902_20220902_1615/20220902%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/09/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
