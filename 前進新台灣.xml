@@ -1695,5 +1695,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220903 3Q新台灣 卓冠廷砲轟吳斯懷根本對不起軍人！不只酸 曹興誠捐10億助民防可以當國防部長省預算 連國軍擊落中共無人機都能酸 余莓莓：你到底為國防作了什麼
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220903 3Q新台灣 卓冠廷砲轟吳斯懷根本對不起軍人！不只酸 曹興誠捐10億助民防可以當國防部長省預算 連國軍擊落中共無人機都能酸 余莓莓：你到底為國防作了什麼
+summary
+</itunes:summary>
+<description>
+20220903 3Q新台灣 卓冠廷砲轟吳斯懷根本對不起軍人！不只酸 曹興誠捐10億助民防可以當國防部長省預算 連國軍擊落中共無人機都能酸 余莓莓：你到底為國防作了什麼
+</description>
+<enclosure url="https://archive.org/download/20220903-3-q/20220903%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47253389' type='audio/mpeg'/>
+<itunes:duration>02:02:35</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220903-3-q/20220903%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/09/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
