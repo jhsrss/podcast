@@ -1122,5 +1122,45 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220906 新台灣加油 完整版 蔣萬安會被妳氣死 徐巧芯曝光陳時中競總通訊錄帶頭違法 狠酸政二代艦隊迴力鏢直接打到自己人 他嗆蔣家三代躺著選才好命｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220906 新台灣加油 完整版 蔣萬安會被妳氣死 徐巧芯曝光陳時中競總通訊錄帶頭違法 狠酸政二代艦隊迴力鏢直接打到自己人 他嗆蔣家三代躺著選才好命｜許貴雅  summary
+</itunes:summary>
+<description>
+20220906 新台灣加油 完整版 蔣萬安會被妳氣死 徐巧芯曝光陳時中競總通訊錄帶頭違法 狠酸政二代艦隊迴力鏢直接打到自己人 他嗆蔣家三代躺著選才好命｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20220906_20220907/20220906%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='45058500' type='audio/mpeg'/>
+<itunes:duration>01:56:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220906_20220907/20220906%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/09/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220907 新台灣加油 完整版 一句支持度14讓他理智線瞬間斷掉 朱立倫爆氣打斷德國之聲採訪窘態畢露 談兩岸問題全程鬼打牆就是不准問 ｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220907 新台灣加油 完整版 一句支持度14讓他理智線瞬間斷掉 朱立倫爆氣打斷德國之聲採訪窘態畢露 談兩岸問題全程鬼打牆就是不准問 ｜許貴雅  summary
+</itunes:summary>
+<description>
+20220907 新台灣加油 完整版 一句支持度14讓他理智線瞬間斷掉 朱立倫爆氣打斷德國之聲採訪窘態畢露 談兩岸問題全程鬼打牆就是不准問 ｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20220907_20220907_1611/20220907%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='44979125' type='audio/mpeg'/>
+<itunes:duration>01:55:51</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220907_20220907_1611/20220907%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/09/07</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
