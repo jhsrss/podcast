@@ -1737,5 +1737,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220907 前進新台灣 完整版 蔣萬安掃街遇選民昏倒 蔣萬安第一時間竟是發楞看 下秒就轉頭繼續拜票 楞看 拜票 站旁邊看→蹲下握手過程全都曝光
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220907 前進新台灣 完整版 蔣萬安掃街遇選民昏倒 蔣萬安第一時間竟是發楞看 下秒就轉頭繼續拜票 楞看 拜票 站旁邊看→蹲下握手過程全都曝光
+summary
+</itunes:summary>
+<description>
+20220907 前進新台灣 完整版 蔣萬安掃街遇選民昏倒 蔣萬安第一時間竟是發楞看 下秒就轉頭繼續拜票 楞看 拜票 站旁邊看→蹲下握手過程全都曝光
+</description>
+<enclosure url="https://archive.org/download/20220907_20220907_1619/20220907%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='48299658' type='audio/mpeg'/>
+<itunes:duration>02:03:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220907_20220907_1619/20220907%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/09/07</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
