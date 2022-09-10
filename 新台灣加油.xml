@@ -1162,5 +1162,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220909 新台灣加油 完整版 中國得罪外國皇室不是頭一遭 英國女王認證中國訪團粗魯 查爾斯更批領導人像恐怖蠟像 董立文爆更曾得罪日本 中國訪團外交陷災難｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220909 新台灣加油 完整版 中國得罪外國皇室不是頭一遭 英國女王認證中國訪團粗魯 查爾斯更批領導人像恐怖蠟像 董立文爆更曾得罪日本 中國訪團外交陷災難｜許貴雅  summary
+</itunes:summary>
+<description>
+20220909 新台灣加油 完整版 中國得罪外國皇室不是頭一遭 英國女王認證中國訪團粗魯 查爾斯更批領導人像恐怖蠟像 董立文爆更曾得罪日本 中國訪團外交陷災難｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20220909_20220910_1943/20220909%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37940278' type='audio/mpeg'/>
+<itunes:duration>01:36:50</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220909_20220910_1943/20220909%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/09/09</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
