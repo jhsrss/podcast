@@ -1202,5 +1202,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220913 新台灣加油 完整版 台北有柯文哲 北京有胡錫進 語不驚人死不休 俄羅斯戰爭重挫中國欲切割 胡錫進開第一槍我們只能中立 狠打臉普丁｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220913 新台灣加油 完整版 台北有柯文哲 北京有胡錫進 語不驚人死不休 俄羅斯戰爭重挫中國欲切割 胡錫進開第一槍我們只能中立 狠打臉普丁｜許貴雅  summary
+</itunes:summary>
+<description>
+20220913 新台灣加油 完整版 台北有柯文哲 北京有胡錫進 語不驚人死不休 俄羅斯戰爭重挫中國欲切割 胡錫進開第一槍我們只能中立 狠打臉普丁｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20220913_20220913_1706/20220913%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='45557502' type='audio/mpeg'/>
+<itunes:duration>01:57:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220913_20220913_1706/20220913%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/09/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
