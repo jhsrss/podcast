@@ -1242,5 +1242,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220916 新台灣加油 完整版 跟普丁談一中要幹嘛 習近平會晤普丁避談烏克蘭 暗示北京態度早轉變 缺席盟友峰會健康堪慮｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220916 新台灣加油 完整版 跟普丁談一中要幹嘛 習近平會晤普丁避談烏克蘭 暗示北京態度早轉變 缺席盟友峰會健康堪慮｜許貴雅  summary
+</itunes:summary>
+<description>
+20220916 新台灣加油 完整版 跟普丁談一中要幹嘛 習近平會晤普丁避談烏克蘭 暗示北京態度早轉變 缺席盟友峰會健康堪慮｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20220916_20220916_1832/20220916%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='45074348' type='audio/mpeg'/>
+<itunes:duration>01:55:50</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220916_20220916_1832/20220916%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/09/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
