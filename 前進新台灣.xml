@@ -1779,5 +1779,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220916 前進新台灣 完整版 現在是誰才在裝睡啊？農委會認定三年報告皆涉抄！張善政抄難止血？宏碁研議並回覆 于北辰籲善：別再用拖字訣 快接住農委會的球！｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220916 前進新台灣 完整版 現在是誰才在裝睡啊？農委會認定三年報告皆涉抄！張善政抄難止血？宏碁研議並回覆 于北辰籲善：別再用拖字訣 快接住農委會的球！｜王偊菁
+summary
+</itunes:summary>
+<description>
+20220916 前進新台灣 完整版 現在是誰才在裝睡啊？農委會認定三年報告皆涉抄！張善政抄難止血？宏碁研議並回覆 于北辰籲善：別再用拖字訣 快接住農委會的球！｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20220916_20220917/20220916%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47335631' type='audio/mpeg'/>
+<itunes:duration>02:02:05</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220916_20220917/20220916%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/09/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
