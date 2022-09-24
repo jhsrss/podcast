@@ -137,8 +137,28 @@
 </description>
 <enclosure url="https://archive.org/download/20220325-1800/20220325%201800%E5%B9%B4%E4%BB%A3%E6%99%9A%E5%A0%B1.mp3" length='16965009' type='audio/mpeg'/>
 <itunes:duration>43:08</itunes:duration>
-<guid isPermaLink="false">hhttps://archive.org/download/20220325-1800/20220325%201800%E5%B9%B4%E4%BB%A3%E6%99%9A%E5%A0%B1.mp3</guid>
+<guid isPermaLink="false">https://archive.org/download/20220325-1800/20220325%201800%E5%B9%B4%E4%BB%A3%E6%99%9A%E5%A0%B1.mp3</guid>
 <pubDate>2022/03/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>3Q新台灣</itunes:author>
+<title>
+20220924 3Q新台灣 完整版 只要批評民眾黨就是網軍治國 柯文哲下令回防攻擊虹衛兵出動到處戰 王閔生曝高虹安說出心裡話優越感早內化 整個民眾黨卻不覺得有問題｜陳柏惟
+</title>
+<itunes:subtitle>辣新聞152 subtitle </itunes:subtitle>
+<itunes:summary>
+20220924 3Q新台灣 完整版 只要批評民眾黨就是網軍治國 柯文哲下令回防攻擊虹衛兵出動到處戰 王閔生曝高虹安說出心裡話優越感早內化 整個民眾黨卻不覺得有問題｜陳柏惟 summary
+</itunes:summary>
+<description>
+20220924 3Q新台灣 完整版 只要批評民眾黨就是網軍治國 柯文哲下令回防攻擊虹衛兵出動到處戰 王閔生曝高虹安說出心裡話優越感早內化 整個民眾黨卻不覺得有問題｜陳柏惟
+</description>
+<enclosure url="https://archive.org/download/20220924-3-q/20220924%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47338752' type='audio/mpeg'/>
+<itunes:duration>02:02:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220924-3-q/20220924%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/09/24</pubDate>
 <itunes:explicit>no</itunes:explicit>
 </item>
 

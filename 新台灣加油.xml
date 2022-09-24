@@ -1302,5 +1302,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20220923 新台灣加油 完整版 論炎值的話有贏啦 虹衛兵大舉出征得罪人 啦啦隊女神林襄也被扯進風波 高虹安持手機反拍媒體 危機處理簡直是大型災難現場｜許貴雅
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20220923 新台灣加油 完整版 論炎值的話有贏啦 虹衛兵大舉出征得罪人 啦啦隊女神林襄也被扯進風波 高虹安持手機反拍媒體 危機處理簡直是大型災難現場｜許貴雅 summary
+</itunes:summary>
+<description>
+20220923 新台灣加油 完整版 論炎值的話有贏啦 虹衛兵大舉出征得罪人 啦啦隊女神林襄也被扯進風波 高虹安持手機反拍媒體 危機處理簡直是大型災難現場｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20220923_20220924_1758/20220923%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37415403' type='audio/mpeg'/>
+<itunes:duration>01:36:04</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220923_20220924_1758/20220923%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/09/23</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
