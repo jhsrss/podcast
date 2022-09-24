@@ -162,5 +162,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>3Q新台灣</itunes:author>
+<title>
+20220924 驚爆新聞線 完整版 房子你的是黨說了算 揭密中國式買房權狀 敵不過拔釘行動連台商都吃虧 當局強制徵收土地 人民官司打贏政府卻被吃案執行無效│呂惠敏
+</title>
+<itunes:subtitle>辣新聞152 subtitle </itunes:subtitle>
+<itunes:summary>
+20220924 驚爆新聞線 完整版 房子你的是黨說了算 揭密中國式買房權狀 敵不過拔釘行動連台商都吃虧 當局強制徵收土地 人民官司打贏政府卻被吃案執行無效│呂惠敏 summary
+</itunes:summary>
+<description>
+20220924 驚爆新聞線 完整版 房子你的是黨說了算 揭密中國式買房權狀 敵不過拔釘行動連台商都吃虧 當局強制徵收土地 人民官司打贏政府卻被吃案執行無效│呂惠敏
+</description>
+<enclosure url="https://archive.org/download/20220924_20220924_1838/20220924%20%E9%A9%9A%E7%88%86%E6%96%B0%E8%81%9E%E7%B7%9A.mp3" length='38504137' type='audio/mpeg'/>
+<itunes:duration>01:37:24</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220924_20220924_1838/20220924%20%E9%A9%9A%E7%88%86%E6%96%B0%E8%81%9E%E7%B7%9A.mp3</guid>
+<pubDate>2022/09/24</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>

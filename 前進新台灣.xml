@@ -1800,5 +1800,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20220923 前進新台灣 完整版 請問柯市長對虹衛兵的看法是 黨主席帶頭歪樓護航高虹安 公然爆粗口挨轟又扯國家機器 高虹安持手機反拍記者 不演了｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20220923 前進新台灣 完整版 請問柯市長對虹衛兵的看法是 黨主席帶頭歪樓護航高虹安 公然爆粗口挨轟又扯國家機器 高虹安持手機反拍記者 不演了｜王偊菁
+summary
+</itunes:summary>
+<description>
+20220923 前進新台灣 完整版 請問柯市長對虹衛兵的看法是 黨主席帶頭歪樓護航高虹安 公然爆粗口挨轟又扯國家機器 高虹安持手機反拍記者 不演了｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20220923_20220924_1833/20220923%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47366616' type='audio/mpeg'/>
+<itunes:duration>02:01:48</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20220923_20220924_1833/20220923%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/09/23</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
