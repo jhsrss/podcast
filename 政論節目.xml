@@ -182,5 +182,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>3Q新台灣</itunes:author>
+<title>
+20221001 3Q新台灣 完整版 高虹安變膨風安？寫書自曝郭董誇是醫學博士 聊個頭頸癌參與醫療論文大數據研究 就能秒變抗癌專家？鍾年晃把所有醫學博士尊嚴放地上踩│陳柏惟
+</title>
+<itunes:subtitle>3Q新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20221001 3Q新台灣 完整版 高虹安變膨風安？寫書自曝郭董誇是醫學博士 聊個頭頸癌參與醫療論文大數據研究 就能秒變抗癌專家？鍾年晃把所有醫學博士尊嚴放地上踩│陳柏惟 summary
+</itunes:summary>
+<description>
+20221001 3Q新台灣 完整版 高虹安變膨風安？寫書自曝郭董誇是醫學博士 聊個頭頸癌參與醫療論文大數據研究 就能秒變抗癌專家？鍾年晃把所有醫學博士尊嚴放地上踩│陳柏惟
+</description>
+<enclosure url="https://archive.org/download/20221001-3-q/20221001%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47817479' type='audio/mpeg'/>
+<itunes:duration>02:03:30</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221001-3-q/20221001%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/10/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
