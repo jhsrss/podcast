@@ -1884,5 +1884,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20221018 前進新台灣 完整版 北市堤外淹百車困10人柯文哲竟稱有通知 有時民眾不信邪 陳時中皮鞋勘災被蔣萬安大酸沒當過民代沒經驗｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20221018 前進新台灣 完整版 北市堤外淹百車困10人柯文哲竟稱有通知 有時民眾不信邪 陳時中皮鞋勘災被蔣萬安大酸沒當過民代沒經驗｜王偊菁
+summary
+</itunes:summary>
+<description>
+20221018 前進新台灣 完整版 北市堤外淹百車困10人柯文哲竟稱有通知 有時民眾不信邪 陳時中皮鞋勘災被蔣萬安大酸沒當過民代沒經驗｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20221018_20221018_2228/20221018%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47038535' type='audio/mpeg'/>
+<itunes:duration>02:02:00</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221018_20221018_2228/20221018%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/10/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
