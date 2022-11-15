@@ -1582,5 +1582,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20221115 新台灣加油 完整版簽名鐵證如山還不認？助理們氣不過高虹安甩鍋 吹哨者聯盟怒將秘帳全公開 25密檔 545筆公基金帳目攤在陽光下 高虹安想賴也賴不掉？│許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20221115 新台灣加油 完整版簽名鐵證如山還不認？助理們氣不過高虹安甩鍋 吹哨者聯盟怒將秘帳全公開 25密檔 545筆公基金帳目攤在陽光下 高虹安想賴也賴不掉？│許貴雅  summary
+</itunes:summary>
+<description>
+20221115 新台灣加油 完整版簽名鐵證如山還不認？助理們氣不過高虹安甩鍋 吹哨者聯盟怒將秘帳全公開 25密檔 545筆公基金帳目攤在陽光下 高虹安想賴也賴不掉？│許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20221115_20221115_2145/20221115%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='45393915' type='audio/mpeg'/>
+<itunes:duration>01:56:55</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221115_20221115_2145/20221115%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/11/15</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
