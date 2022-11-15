@@ -2031,5 +2031,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20221115 前進新台灣 完整版 復虹者聯盟火力全開 吹哨者揭密帳簽名稱高都知情 高虹安臉書寫下挺正義拒抹黑卻絕口不提密帳爭議 血流成河大翻車場面將至｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20221115 前進新台灣 完整版 復虹者聯盟火力全開 吹哨者揭密帳簽名稱高都知情 高虹安臉書寫下挺正義拒抹黑卻絕口不提密帳爭議 血流成河大翻車場面將至｜王偊菁
+summary
+</itunes:summary>
+<description>
+20221115 前進新台灣 完整版 復虹者聯盟火力全開 吹哨者揭密帳簽名稱高都知情 高虹安臉書寫下挺正義拒抹黑卻絕口不提密帳爭議 血流成河大翻車場面將至｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20221115_20221115_2146/20221115%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40141321' type='audio/mpeg'/>
+<itunes:duration>01:42:16</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221115_20221115_2146/20221115%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/11/15</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
