@@ -2052,5 +2052,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20221116 前進新台灣 完整版 助理費風暴燒向民眾黨 高虹安涉用人頭助理國庫通黨庫 助理薪水報5萬實領0元 張益瞻獨家曝驚人內幕 更爆比起高郭董更看重劉宥彤｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20221116 前進新台灣 完整版 助理費風暴燒向民眾黨 高虹安涉用人頭助理國庫通黨庫 助理薪水報5萬實領0元 張益瞻獨家曝驚人內幕 更爆比起高郭董更看重劉宥彤｜王偊菁
+summary
+</itunes:summary>
+<description>
+20221116 前進新台灣 完整版 助理費風暴燒向民眾黨 高虹安涉用人頭助理國庫通黨庫 助理薪水報5萬實領0元 張益瞻獨家曝驚人內幕 更爆比起高郭董更看重劉宥彤｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20221116_20221116_1626/20221116%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='39675269' type='audio/mpeg'/>
+<itunes:duration>01:42:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221116_20221116_1626/20221116%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/11/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
