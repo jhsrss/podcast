@@ -477,5 +477,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20221118 新聞面對面 《戰學歷2_0？高虹安「死亡之握」又炸鍋？爭議連環爆？  》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20221118 新聞面對面 《戰學歷2_0？高虹安「死亡之握」又炸鍋？爭議連環爆？  》 summary </itunes:summary>
+<description>
+20221118 新聞面對面 《戰學歷2_0？高虹安「死亡之握」又炸鍋？爭議連環爆？  》 
+</description>
+<enclosure url="https://archive.org/download/20221118_20221118_2248/20221118%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='38493825' type='audio/mpeg'/>
+<itunes:duration>01:37:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221118_20221118_2248/20221118%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2022/11/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
