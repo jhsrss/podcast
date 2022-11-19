@@ -1622,5 +1622,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20221118 新台灣加油 完整版 白色真的比較容易髒？提告以訟止謗起底A助理逼封口？四叉貓戳破民眾黨神鬼操作！鯊魚理論？高虹安稱2度被跟車急報警 能轉移帳目疑雲焦點？｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20221118 新台灣加油 完整版 白色真的比較容易髒？提告以訟止謗起底A助理逼封口？四叉貓戳破民眾黨神鬼操作！鯊魚理論？高虹安稱2度被跟車急報警 能轉移帳目疑雲焦點？｜許貴雅  summary
+</itunes:summary>
+<description>
+20221118 新台灣加油 完整版 白色真的比較容易髒？提告以訟止謗起底A助理逼封口？四叉貓戳破民眾黨神鬼操作！鯊魚理論？高虹安稱2度被跟車急報警 能轉移帳目疑雲焦點？｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20221118_20221118_2119/20221118%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='38220123' type='audio/mpeg'/>
+<itunes:duration>01:38:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221118_20221118_2119/20221118%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2022/11/18</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
