@@ -2094,5 +2094,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20221201 前進新台灣 完整版 高虹安取代蔡壁如成民眾黨一姐 民眾黨掀退黨 退群潮 黨主席選舉只有1個人登記 柯文哲下台前大發飆搏聲量 爆2024早就提前出局｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20221201 前進新台灣 完整版 高虹安取代蔡壁如成民眾黨一姐 民眾黨掀退黨 退群潮 黨主席選舉只有1個人登記 柯文哲下台前大發飆搏聲量 爆2024早就提前出局｜王偊菁
+summary
+</itunes:summary>
+<description>
+20221201 前進新台灣 完整版 高虹安取代蔡壁如成民眾黨一姐 民眾黨掀退黨 退群潮 黨主席選舉只有1個人登記 柯文哲下台前大發飆搏聲量 爆2024早就提前出局｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20221201_20221201_2235/20221201%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='47707710' type='audio/mpeg'/>
+<itunes:duration>02:03:35</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221201_20221201_2235/20221201%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/12/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
