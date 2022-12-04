@@ -2136,5 +2136,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20221204 3Q新台灣 完整版 小心！別掉入王鴻薇的陷阱！王義川向吳怡農喊話她就是要趁這30幾天抹黑你 黨內同志徐巧芯就是血淋淋的例子！吳怡農拚國防安全勝算會更大｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20221204 3Q新台灣 完整版 小心！別掉入王鴻薇的陷阱！王義川向吳怡農喊話她就是要趁這30幾天抹黑你 黨內同志徐巧芯就是血淋淋的例子！吳怡農拚國防安全勝算會更大｜王偊菁
+summary
+</itunes:summary>
+<description>
+20221204 3Q新台灣 完整版 小心！別掉入王鴻薇的陷阱！王義川向吳怡農喊話她就是要趁這30幾天抹黑你 黨內同志徐巧芯就是血淋淋的例子！吳怡農拚國防安全勝算會更大｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20221204-3-q/20221204%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='38676672' type='audio/mpeg'/>
+<itunes:duration>01:38:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221204-3-q/20221204%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/12/04</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
