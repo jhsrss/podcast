@@ -2178,5 +2178,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20221217 3Q新台灣 完整版 柯文哲重新定義新政治 國民黨全力聲援高虹安 林耕仁選前遭棄保 選後變拿好處的側翼 詐領助理費重創2024 柯P拜了總統夢｜陳柏惟
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20221217 3Q新台灣 完整版 柯文哲重新定義新政治 國民黨全力聲援高虹安 林耕仁選前遭棄保 選後變拿好處的側翼 詐領助理費重創2024 柯P拜了總統夢｜陳柏惟
+summary
+</itunes:summary>
+<description>
+20221217 3Q新台灣 完整版 柯文哲重新定義新政治 國民黨全力聲援高虹安 林耕仁選前遭棄保 選後變拿好處的側翼 詐領助理費重創2024 柯P拜了總統夢｜陳柏惟
+</description>
+<enclosure url="https://archive.org/download/20221217-3-q/20221217%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='39760084' type='audio/mpeg'/>
+<itunes:duration>01:41:38</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20221217-3-q/20221217%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/12/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
