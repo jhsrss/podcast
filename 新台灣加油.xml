@@ -1742,5 +1742,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230125 新台灣加油 完整版 罵民進黨就叫良心 賴清德上任黨魁 嚇阻高嘉瑜們擷取政治紅利成首要難題 炎上堅偉瑜怎解 鍾年晃開示這樣說｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230125 新台灣加油 完整版 罵民進黨就叫良心 賴清德上任黨魁 嚇阻高嘉瑜們擷取政治紅利成首要難題 炎上堅偉瑜怎解 鍾年晃開示這樣說｜許貴雅  summary
+</itunes:summary>
+<description>
+20230125 新台灣加油 完整版 罵民進黨就叫良心 賴清德上任黨魁 嚇阻高嘉瑜們擷取政治紅利成首要難題 炎上堅偉瑜怎解 鍾年晃開示這樣說｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230125_20230126/20230125%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='38079461' type='audio/mpeg'/>
+<itunes:duration>01:38:53</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230125_20230126/20230125%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/01/25</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
