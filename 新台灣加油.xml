@@ -1762,5 +1762,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230126 新台灣加油 哪個才是真正的柯P 陳宥丞驚曝民眾黨內部文化 每人都能與柯文哲用力討論 不會記仇 陳東豪掀柯P真面目他其實有仇必報｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230126 新台灣加油 哪個才是真正的柯P 陳宥丞驚曝民眾黨內部文化 每人都能與柯文哲用力討論 不會記仇 陳東豪掀柯P真面目他其實有仇必報｜許貴雅  summary
+</itunes:summary>
+<description>
+20230126 新台灣加油 哪個才是真正的柯P 陳宥丞驚曝民眾黨內部文化 每人都能與柯文哲用力討論 不會記仇 陳東豪掀柯P真面目他其實有仇必報｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230126_20230126_1726/20230126%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='24957118' type='audio/mpeg'/>
+<itunes:duration>01:05:51</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230126_20230126_1726/20230126%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/01/26</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
