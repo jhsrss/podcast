@@ -1782,5 +1782,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230127 新台灣加油 完整版 CSIS兵推24套劇本台美慘勝 中國潰敗 美智庫示警日本態度是關鍵 兵役延長一年罕見獲朝野支持 于北辰籲這件事要改革｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230127 新台灣加油 完整版 CSIS兵推24套劇本台美慘勝 中國潰敗 美智庫示警日本態度是關鍵 兵役延長一年罕見獲朝野支持 于北辰籲這件事要改革｜許貴雅  summary
+</itunes:summary>
+<description>
+20230127 新台灣加油 完整版 CSIS兵推24套劇本台美慘勝 中國潰敗 美智庫示警日本態度是關鍵 兵役延長一年罕見獲朝野支持 于北辰籲這件事要改革｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230127_20230128/20230127%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='37882282' type='audio/mpeg'/>
+<itunes:duration>01:38:27</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230127_20230128/20230127%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/01/27</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
