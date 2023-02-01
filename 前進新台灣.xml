@@ -2199,5 +2199,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20230201 前進新台灣 完整版 雙標黨又出現 趙少康轟陳建仁借調閣揆國家不幸 徐巧芯揭勝選底牌 開砲嗆費鴻泰有信心贏 就不算藍營黨門不幸 于北辰酸政治鬥爭｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230201 前進新台灣 完整版 雙標黨又出現 趙少康轟陳建仁借調閣揆國家不幸 徐巧芯揭勝選底牌 開砲嗆費鴻泰有信心贏 就不算藍營黨門不幸 于北辰酸政治鬥爭｜王偊菁
+summary
+</itunes:summary>
+<description>
+20230201 前進新台灣 完整版 雙標黨又出現 趙少康轟陳建仁借調閣揆國家不幸 徐巧芯揭勝選底牌 開砲嗆費鴻泰有信心贏 就不算藍營黨門不幸 于北辰酸政治鬥爭｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20230201_20230201_2056/20230201%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40404135' type='audio/mpeg'/>
+<itunes:duration>01:42:47</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230201_20230201_2056/20230201%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2022/02/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
