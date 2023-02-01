@@ -1802,5 +1802,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230201 新台灣加油 完整版 不僅讓中國森氣氣還要再補一刀！捷克準總統與蔡英文通話 北京直跳腳！帕維爾嗆台灣永遠不會是中國的 王定宇預測：台捷之間還會有其他好消息｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230201 新台灣加油 完整版 不僅讓中國森氣氣還要再補一刀！捷克準總統與蔡英文通話 北京直跳腳！帕維爾嗆台灣永遠不會是中國的 王定宇預測：台捷之間還會有其他好消息｜許貴雅  summary
+</itunes:summary>
+<description>
+20230201 新台灣加油 完整版 不僅讓中國森氣氣還要再補一刀！捷克準總統與蔡英文通話 北京直跳腳！帕維爾嗆台灣永遠不會是中國的 王定宇預測：台捷之間還會有其他好消息｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230201_20230201_2050/20230201%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='38747337' type='audio/mpeg'/>
+<itunes:duration>01:39:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230201_20230201_2050/20230201%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/02/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
