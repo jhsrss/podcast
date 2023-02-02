@@ -1822,5 +1822,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230202 新台灣加油 完整版 遇人就咬成國民黨風氣 KMT上演老中青大亂鬥 徐巧芯更嗆神擋殺神 佛擋殺佛 蘇巧慧嘆 她已經超越戰狼 根本就是瘋狼｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230202 新台灣加油 完整版 遇人就咬成國民黨風氣 KMT上演老中青大亂鬥 徐巧芯更嗆神擋殺神 佛擋殺佛 蘇巧慧嘆 她已經超越戰狼 根本就是瘋狼｜許貴雅  summary
+</itunes:summary>
+<description>
+20230202 新台灣加油 完整版 遇人就咬成國民黨風氣 KMT上演老中青大亂鬥 徐巧芯更嗆神擋殺神 佛擋殺佛 蘇巧慧嘆 她已經超越戰狼 根本就是瘋狼｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230202_20230202_1909/20230202%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='39084286' type='audio/mpeg'/>
+<itunes:duration>01:38:55</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230202_20230202_1909/20230202%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/02/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
