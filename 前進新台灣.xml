@@ -2220,5 +2220,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20230202 前進新台灣 完整版 烏賊們拉著陳建仁當墊背？國民黨老將小將比誰砲管大支！徐巧芯王鴻薇靠抹黑博上位？何博文：罵貪財米蟲 一次得罪天主教信徒與學術界！｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230202 前進新台灣 完整版 烏賊們拉著陳建仁當墊背？國民黨老將小將比誰砲管大支！徐巧芯王鴻薇靠抹黑博上位？何博文：罵貪財米蟲 一次得罪天主教信徒與學術界！｜王偊菁
+summary
+</itunes:summary>
+<description>
+20230202 前進新台灣 完整版 烏賊們拉著陳建仁當墊背？國民黨老將小將比誰砲管大支！徐巧芯王鴻薇靠抹黑博上位？何博文：罵貪財米蟲 一次得罪天主教信徒與學術界！｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20230202_20230202_1901/20230202%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40489899' type='audio/mpeg'/>
+<itunes:duration>01:42:36</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230202_20230202_1901/20230202%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2023/02/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
