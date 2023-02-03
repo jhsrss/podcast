@@ -1842,5 +1842,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230203 新台灣加油 完整版 于北辰喊話曹興誠真的可以告 徐巧芯狂潑髒水嗆曹董30億捐了沒 于北辰反酸愛國家需要證明嗎 揭KMT惱羞成怒認知戰手法｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230203 新台灣加油 完整版 于北辰喊話曹興誠真的可以告 徐巧芯狂潑髒水嗆曹董30億捐了沒 于北辰反酸愛國家需要證明嗎 揭KMT惱羞成怒認知戰手法｜許貴雅  summary
+</itunes:summary>
+<description>
+20230203 新台灣加油 完整版 于北辰喊話曹興誠真的可以告 徐巧芯狂潑髒水嗆曹董30億捐了沒 于北辰反酸愛國家需要證明嗎 揭KMT惱羞成怒認知戰手法｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230203_20230203_2054/20230203%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='39301559' type='audio/mpeg'/>
+<itunes:duration>01:39:25</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230203_20230203_2054/20230203%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/02/03</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
