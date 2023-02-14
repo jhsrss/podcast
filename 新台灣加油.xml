@@ -1882,5 +1882,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230213 新台灣加油 完整版 假弔唁真統促？中共涉統高官不請自來 不惜造假身分來台啟人疑竇 國台辦批粗暴擋弔唁團 踢爆中方自導自演喊停 藍白竟聲援膛炸？│許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230213 新台灣加油 完整版 假弔唁真統促？中共涉統高官不請自來 不惜造假身分來台啟人疑竇 國台辦批粗暴擋弔唁團 踢爆中方自導自演喊停 藍白竟聲援膛炸？│許貴雅  summary
+</itunes:summary>
+<description>
+20230213 新台灣加油 完整版 假弔唁真統促？中共涉統高官不請自來 不惜造假身分來台啟人疑竇 國台辦批粗暴擋弔唁團 踢爆中方自導自演喊停 藍白竟聲援膛炸？│許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230213_20230214/20230213%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='39263919' type='audio/mpeg'/>
+<itunes:duration>01:39:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230213_20230214/20230213%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/02/13</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
