@@ -2346,5 +2346,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20230216 前進新台灣 完整版 柯文哲光環消失 柯自詡2024誰當選我決定 國民黨不甩連郭董都看沒有 張益贍以黃牛票妙喻柯大選門票 贍藍只願用芭樂票換｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230216 前進新台灣 完整版 柯文哲光環消失 柯自詡2024誰當選我決定 國民黨不甩連郭董都看沒有 張益贍以黃牛票妙喻柯大選門票 贍藍只願用芭樂票換｜王偊菁
+summary
+</itunes:summary>
+<description>
+20230216 前進新台灣 完整版 柯文哲光環消失 柯自詡2024誰當選我決定 國民黨不甩連郭董都看沒有 張益贍以黃牛票妙喻柯大選門票 贍藍只願用芭樂票換｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20230216_20230216_2047/20230216%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40403483' type='audio/mpeg'/>
+<itunes:duration>01:42:47</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230216_20230216_2047/20230216%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2023/02/16</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
