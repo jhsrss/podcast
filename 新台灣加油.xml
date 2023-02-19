@@ -1922,5 +1922,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230217 新台灣加油 完整版 中國船勾斷馬祖海底電纜 近五年故障逾20次引爆國安危機 國民黨狂轟政府卻不敢譴責中國 于北辰分析整起事件是刻意的偶然│許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230217 新台灣加油 完整版 中國船勾斷馬祖海底電纜 近五年故障逾20次引爆國安危機 國民黨狂轟政府卻不敢譴責中國 于北辰分析整起事件是刻意的偶然│許貴雅  summary
+</itunes:summary>
+<description>
+20230217 新台灣加油 完整版 中國船勾斷馬祖海底電纜 近五年故障逾20次引爆國安危機 國民黨狂轟政府卻不敢譴責中國 于北辰分析整起事件是刻意的偶然│許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230217_20230219/20230217%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='36479509' type='audio/mpeg'/>
+<itunes:duration>01:32:44</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230217_20230219/20230217%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/02/17</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
