@@ -2002,5 +2002,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230306 新台灣加油 完整版 準立委蔡培慧獨家談勝選 攻破國民黨鐵票倉 她曝關鍵是這個 南投選戰斷了KMT2024順風車 矢板明夫點出3要素曝藍綠未來走向｜許貴雅 
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230306 新台灣加油 完整版 準立委蔡培慧獨家談勝選 攻破國民黨鐵票倉 她曝關鍵是這個 南投選戰斷了KMT2024順風車 矢板明夫點出3要素曝藍綠未來走向｜許貴雅  summary
+</itunes:summary>
+<description>
+20230306 新台灣加油 完整版 準立委蔡培慧獨家談勝選 攻破國民黨鐵票倉 她曝關鍵是這個 南投選戰斷了KMT2024順風車 矢板明夫點出3要素曝藍綠未來走向｜許貴雅 
+</description>
+<enclosure url="https://archive.org/download/20230306_20230307_0742/20230306%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='38965753' type='audio/mpeg'/>
+<itunes:duration>01:39:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230306_20230307_0742/20230306%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/03/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
