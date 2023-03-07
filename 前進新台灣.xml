@@ -2472,5 +2472,47 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20230305 3Q新台灣 完整版 民進黨從谷底浴火重生！被選民用選票教訓 國民黨基層點3大問題嘆二選區有魔咒 藍空戰策略錯誤？康仁俊：地方補選拉成藍綠對決是最糟的事｜陳柏惟
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230305 3Q新台灣 完整版 民進黨從谷底浴火重生！被選民用選票教訓 國民黨基層點3大問題嘆二選區有魔咒 藍空戰策略錯誤？康仁俊：地方補選拉成藍綠對決是最糟的事｜陳柏惟
+summary
+</itunes:summary>
+<description>
+20230305 3Q新台灣 完整版 民進黨從谷底浴火重生！被選民用選票教訓 國民黨基層點3大問題嘆二選區有魔咒 藍空戰策略錯誤？康仁俊：地方補選拉成藍綠對決是最糟的事｜陳柏惟
+</description>
+<enclosure url="https://archive.org/download/20230305-3-q/20230305%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='38210200' type='audio/mpeg'/>
+<itunes:duration>01:37:45</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230305-3-q/20230305%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2023/03/05</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20230306 前進新台灣 完整版 朱立倫再如何挽救都已無力回天！選前出招仍敵不過最強母雞的任性？選後掀韓粉後座力喊朱侯下換韓上 卓冠廷：朱侯戰會隨林明溱兩邊卸責檯面化｜王偊菁
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230306 前進新台灣 完整版 朱立倫再如何挽救都已無力回天！選前出招仍敵不過最強母雞的任性？選後掀韓粉後座力喊朱侯下換韓上 卓冠廷：朱侯戰會隨林明溱兩邊卸責檯面化｜王偊菁
+summary
+</itunes:summary>
+<description>
+20230306 前進新台灣 完整版 朱立倫再如何挽救都已無力回天！選前出招仍敵不過最強母雞的任性？選後掀韓粉後座力喊朱侯下換韓上 卓冠廷：朱侯戰會隨林明溱兩邊卸責檯面化｜王偊菁
+</description>
+<enclosure url="https://archive.org/download/20230306_20230307/20230306%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='40203788' type='audio/mpeg'/>
+<itunes:duration>01:42:17</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230306_20230307/20230306%20%E5%89%8D%E9%80%B2%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2023/03/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
