@@ -2162,5 +2162,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230324 新台灣加油 完整版 想選裝不選急死戰鬥藍 侯友宜民調墊底害趙少康睡不好 最強母雞被柯文哲超車職位不重要 朱立倫拖垮局面恐重蹈吳敦義覆轍｜許貴雅
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230324 新台灣加油 完整版 想選裝不選急死戰鬥藍 侯友宜民調墊底害趙少康睡不好 最強母雞被柯文哲超車職位不重要 朱立倫拖垮局面恐重蹈吳敦義覆轍｜許貴雅  summary
+</itunes:summary>
+<description>
+20230324 新台灣加油 完整版 想選裝不選急死戰鬥藍 侯友宜民調墊底害趙少康睡不好 最強母雞被柯文哲超車職位不重要 朱立倫拖垮局面恐重蹈吳敦義覆轍｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20230324_20230325/20230324%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='38478531' type='audio/mpeg'/>
+<itunes:duration>01:37:43</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230324_20230325/20230324%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/03/24</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
