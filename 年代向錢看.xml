@@ -994,5 +994,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230327 年代向錢看 Part 1 《獨！ 雙英對決！ 馬英九今赴中國！ 最新民調！ 57討厭國民黨、79討厭共產黨！ 侯民調下滑救不回！ 馬英九借殼上市侯友宜？！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230327 年代向錢看 Part 1 《獨！ 雙英對決！ 馬英九今赴中國！ 最新民調！ 57討厭國民黨、79討厭共產黨！ 侯民調下滑救不回！ 馬英九借殼上市侯友宜？！
+</itunes:summary>
+<description>
+20230327 年代向錢看 Part 1 《獨！ 雙英對決！ 馬英九今赴中國！ 最新民調！ 57討厭國民黨、79討厭共產黨！ 侯民調下滑救不回！ 馬英九借殼上市侯友宜？！
+ </description>
+<enclosure url="https://archive.org/download/20230327-part-1/20230327%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='20966347' type='audio/mpeg'/>
+<itunes:duration>00:50:54</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230327-part-1/20230327%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2023/03/27</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230327 年代向錢看 Part 2 《獨！普丁升高核威脅！將在白俄羅斯部署核武？！美中關係陷冰點？拜習通話遙遙無期！中方已讀不回？！瑞信風暴後 德意志銀行暴雷？！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230327 年代向錢看 Part 2 《獨！普丁升高核威脅！將在白俄羅斯部署核武？！美中關係陷冰點？拜習通話遙遙無期！中方已讀不回？！瑞信風暴後 德意志銀行暴雷？！》
+</itunes:summary>
+<description>
+20230327 年代向錢看 Part 2 《獨！普丁升高核威脅！將在白俄羅斯部署核武？！美中關係陷冰點？拜習通話遙遙無期！中方已讀不回？！瑞信風暴後 德意志銀行暴雷？！》
+ </description>
+<enclosure url="https://archive.org/download/20230327-part-2/20230327%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='17878976' type='audio/mpeg'/>
+<itunes:duration>00:43:18</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230327-part-2/20230327%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2023/03/27</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
