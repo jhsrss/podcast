@@ -2182,5 +2182,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230327 新台灣加油 完整版 一下飛機就被中矮化 接機層級變成副部級馬先生被看扁了 台宏斷交吳釗燮遭藍營點名 王時齊批國民黨永遠站中國角度根本把台灣當外人｜許貴雅
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230327 新台灣加油 完整版 一下飛機就被中矮化 接機層級變成副部級馬先生被看扁了 台宏斷交吳釗燮遭藍營點名 王時齊批國民黨永遠站中國角度根本把台灣當外人｜許貴雅  summary
+</itunes:summary>
+<description>
+20230327 新台灣加油 完整版 一下飛機就被中矮化 接機層級變成副部級馬先生被看扁了 台宏斷交吳釗燮遭藍營點名 王時齊批國民黨永遠站中國角度根本把台灣當外人｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20230327_20230327_2243/20230327%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='38372946' type='audio/mpeg'/>
+<itunes:duration>01:38:47</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230327_20230327_2243/20230327%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/03/27</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
