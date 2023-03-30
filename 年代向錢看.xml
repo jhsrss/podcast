@@ -1034,5 +1034,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230330 年代向錢看 Part 1 《獨！ 台灣外交路線大戰！ 蔡英文：台灣是世界的台灣！ 龐皮歐、麥卡錫將與蔡英文會面？！ 郭台銘訪美！ 突顯侯友宜缺點？！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230330 年代向錢看 Part 1 《獨！ 台灣外交路線大戰！ 蔡英文：台灣是世界的台灣！ 龐皮歐、麥卡錫將與蔡英文會面？！ 郭台銘訪美！ 突顯侯友宜缺點？！》
+</itunes:summary>
+<description>
+20230330 年代向錢看 Part 1 《獨！ 台灣外交路線大戰！ 蔡英文：台灣是世界的台灣！ 龐皮歐、麥卡錫將與蔡英文會面？！ 郭台銘訪美！ 突顯侯友宜缺點？！》
+ </description>
+<enclosure url="https://archive.org/download/20230330-part-1/20230330%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='18986644' type='audio/mpeg'/>
+<itunes:duration>00:46:43</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230330-part-1/20230330%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2023/03/30</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230330 年代向錢看 Part 2 《獨！ 蔡英文過境美國！ 拜登開嗆：獨裁政權正衰弱？！ 考驗美中台關係？！ 反制俄違反軍控條約！ 美中俄核武大戰隨時開打？！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230330 年代向錢看 Part 2 《獨！ 蔡英文過境美國！ 拜登開嗆：獨裁政權正衰弱？！ 考驗美中台關係？！ 反制俄違反軍控條約！ 美中俄核武大戰隨時開打？！》
+</itunes:summary>
+<description>
+20230330 年代向錢看 Part 2 《獨！ 蔡英文過境美國！ 拜登開嗆：獨裁政權正衰弱？！ 考驗美中台關係？！ 反制俄違反軍控條約！ 美中俄核武大戰隨時開打？！》
+ </description>
+<enclosure url="https://archive.org/download/20230330-part-2/20230330%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19196342' type='audio/mpeg'/>
+<itunes:duration>00:48:15</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230330-part-2/20230330%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2023/03/30</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
