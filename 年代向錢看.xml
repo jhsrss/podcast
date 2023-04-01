@@ -1074,5 +1074,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230331 年代向錢看 Part 1 《獨！ 蔡英文紐約演講：感謝拜登政府九度軍售台灣！ 馬英九搶當統戰代言人？！ 2024選舉大戰！ 民進黨已起跑！ 國民黨還在內鬥？！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230331 年代向錢看 Part 1 《獨！ 蔡英文紐約演講：感謝拜登政府九度軍售台灣！ 馬英九搶當統戰代言人？！ 2024選舉大戰！ 民進黨已起跑！ 國民黨還在內鬥？！》
+</itunes:summary>
+<description>
+20230331 年代向錢看 Part 1 《獨！ 蔡英文紐約演講：感謝拜登政府九度軍售台灣！ 馬英九搶當統戰代言人？！ 2024選舉大戰！ 民進黨已起跑！ 國民黨還在內鬥？！》
+ </description>
+<enclosure url="https://archive.org/download/20230331-part-1/20230331%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='19402873' type='audio/mpeg'/>
+<itunes:duration>00:47:46</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230331-part-1/20230331%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2023/03/31</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230331 年代向錢看 Part 2 《獨！ 預防中俄！ 美提前備戰太空戰！ 外接雜誌全世界需要高度關注習近平備戰動向！ 中國不再是世界工廠！ 台商外商大外移？！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230331 年代向錢看 Part 2 《獨！ 預防中俄！ 美提前備戰太空戰！ 外接雜誌全世界需要高度關注習近平備戰動向！ 中國不再是世界工廠！ 台商外商大外移？！》
+</itunes:summary>
+<description>
+20230331 年代向錢看 Part 2 《獨！ 預防中俄！ 美提前備戰太空戰！ 外接雜誌全世界需要高度關注習近平備戰動向！ 中國不再是世界工廠！ 台商外商大外移？！》
+ </description>
+<enclosure url="https://archive.org/download/20230331-part-2/20230331%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='19045163' type='audio/mpeg'/>
+<itunes:duration>00:46:11</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230331-part-2/20230331%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2023/03/31</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
