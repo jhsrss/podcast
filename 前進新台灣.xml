@@ -2661,5 +2661,26 @@ summary
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>前進新台灣</itunes:author>
+<title>
+20230401 3Q新台灣 完整版 從台媒看出台灣人民的未來？王義川酸馬英九訪中行程問國台辦比馬辦清楚！台媒赴中跟馬一起憋屈連總統都不能講？王：看跟小英訪美的記者多有志氣｜陳柏惟
+</title>
+<itunes:subtitle>前進新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230401 3Q新台灣 完整版 從台媒看出台灣人民的未來？王義川酸馬英九訪中行程問國台辦比馬辦清楚！台媒赴中跟馬一起憋屈連總統都不能講？王：看跟小英訪美的記者多有志氣｜陳柏惟
+summary
+</itunes:summary>
+<description>
+20230401 3Q新台灣 完整版 從台媒看出台灣人民的未來？王義川酸馬英九訪中行程問國台辦比馬辦清楚！台媒赴中跟馬一起憋屈連總統都不能講？王：看跟小英訪美的記者多有志氣｜陳柏惟
+</description>
+<enclosure url="https://archive.org/download/20230401-3-q/20230401%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3" length='37866834' type='audio/mpeg'/>
+<itunes:duration>01:38:10</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230401-3-q/20230401%203Q%E6%96%B0%E5%8F%B0%E7%81%A3.mp3</guid>
+<pubDate>2023/04/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
