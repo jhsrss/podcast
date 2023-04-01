@@ -2222,5 +2222,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新台灣加油</itunes:author>
+<title>
+20230331 新台灣加油 完整版 為了第二次馬習會 中國為了面子不給穿防護衣 馬先生自作主張為武漢包機致歉討好誰 訪中行程臨時更動 從客隨主便變非常隨便｜許貴雅
+</title>
+<itunes:subtitle>新台灣加油 subtitle </itunes:subtitle>
+<itunes:summary>
+20230331 新台灣加油 完整版 為了第二次馬習會 中國為了面子不給穿防護衣 馬先生自作主張為武漢包機致歉討好誰 訪中行程臨時更動 從客隨主便變非常隨便｜許貴雅  summary
+</itunes:summary>
+<description>
+20230331 新台灣加油 完整版 為了第二次馬習會 中國為了面子不給穿防護衣 馬先生自作主張為武漢包機致歉討好誰 訪中行程臨時更動 從客隨主便變非常隨便｜許貴雅
+</description>
+<enclosure url="https://archive.org/download/20230331_20230401/20230331%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3" length='39104935' type='audio/mpeg'/>
+<itunes:duration>01:38:55</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230331_20230401/20230331%20%E6%96%B0%E5%8F%B0%E7%81%A3%E5%8A%A0%E6%B2%B9.mp3</guid>
+<pubDate>2023/03/31</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
