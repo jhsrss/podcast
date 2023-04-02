@@ -1114,5 +1114,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230401 年代向錢看 週末精選 Part 1 《美中大戰！蔡英文過境美國馬赴中搶當統戰先發？中企圖干擾台灣大選？考驗美中台關係？！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230401 年代向錢看 週末精選 Part 1 《美中大戰！蔡英文過境美國馬赴中搶當統戰先發？中企圖干擾台灣大選？考驗美中台關係？！》
+</itunes:summary>
+<description>
+20230401 年代向錢看 週末精選 Part 1 《美中大戰！蔡英文過境美國馬赴中搶當統戰先發？中企圖干擾台灣大選？考驗美中台關係？！》
+ </description>
+<enclosure url="https://archive.org/download/20230401-part-1/20230401%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20%E9%80%B1%E6%9C%AB%E7%B2%BE%E9%81%B8%20Part%201.mp3" length='20237102' type='audio/mpeg'/>
+<itunes:duration>00:50:44</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230401-part-1/20230401%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20%E9%80%B1%E6%9C%AB%E7%B2%BE%E9%81%B8%20Part%201.mp3</guid>
+<pubDate>2023/04/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230401 年代向錢看 週末精選 Part 2 《對抗中國！美軍核三位一體！中國、俄羅斯、北韓！邪惡軸心成擁核全球威脅！習近平小弟鬧事！普丁試射反艦飛彈！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230401 年代向錢看 週末精選 Part 2 《對抗中國！美軍核三位一體！中國、俄羅斯、北韓！邪惡軸心成擁核全球威脅！習近平小弟鬧事！普丁試射反艦飛彈！》
+</itunes:summary>
+<description>
+20230401 年代向錢看 週末精選 Part 2 《對抗中國！美軍核三位一體！中國、俄羅斯、北韓！邪惡軸心成擁核全球威脅！習近平小弟鬧事！普丁試射反艦飛彈！》
+ </description>
+<enclosure url="https://archive.org/download/20230401-part-2/20230401%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20%E9%80%B1%E6%9C%AB%E7%B2%BE%E9%81%B8%20Part%202.mp3" length='21390163' type='audio/mpeg'/>
+<itunes:duration>00:53:08</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230401-part-2/20230401%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20%E9%80%B1%E6%9C%AB%E7%B2%BE%E9%81%B8%20Part%202.mp3</guid>
+<pubDate>2023/04/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
