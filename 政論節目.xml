@@ -242,5 +242,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>94要客訴</itunes:author>
+<title>
+20230401 3Q來客訴 台灣身在統戰最前線！馬英九為何堅持訪中？3Q藍綠白大對話！
+</title>
+<itunes:subtitle>3Q新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230401 3Q來客訴 台灣身在統戰最前線！馬英九為何堅持訪中？3Q藍綠白大對話！ summary
+</itunes:summary>
+<description>
+20230401 3Q來客訴 台灣身在統戰最前線！馬英九為何堅持訪中？3Q藍綠白大對話！
+</description>
+<enclosure url="https://archive.org/download/20230401_20230402/20230401%20%E9%9B%85%E7%90%B4%E7%9C%8B%E4%B8%96%E7%95%8C.mp3" length='16063857' type='audio/mpeg'/>
+<itunes:duration>00:43:40</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230401_20230402/20230401%20%E9%9B%85%E7%90%B4%E7%9C%8B%E4%B8%96%E7%95%8C.mp3</guid>
+<pubDate>2023/04/01</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
