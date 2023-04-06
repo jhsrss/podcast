@@ -503,5 +503,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>數字台灣</itunes:author>
+<title>
+20230402 數字台灣HD452 歐美銀行風暴 全球金融動盪再起 謝金河 殷乃平 吳嘉隆
+</title>
+<itunes:subtitle>數字台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230402 數字台灣HD452 歐美銀行風暴 全球金融動盪再起 謝金河 殷乃平 吳嘉隆 summary
+</itunes:summary>
+<description>
+20230402 數字台灣HD452 歐美銀行風暴 全球金融動盪再起 謝金河 殷乃平 吳嘉隆
+</description>
+<enclosure url="https://archive.org/download/20230405_20230406/20230402%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD452.mp3" length='19259121' type='audio/mpeg'/>
+<itunes:duration>47:01</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230405_20230406/20230402%20%E6%95%B8%E5%AD%97%E5%8F%B0%E7%81%A3HD452.mp3</guid>
+<pubDate>2023/04/02</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
