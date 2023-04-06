@@ -262,5 +262,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>94要客訴</itunes:author>
+<title>
+20230406 94要客訴 蔡英文會見麥卡錫全球200家媒體報導！獨家！中國只剩「400變80」美金走路工抗議！央視曝｢台海聯合巡航｣影片也假的！郭台銘選總統卡死侯有宜？藏半導體西進驚天大佈局？
+</title>
+<itunes:subtitle>3Q新台灣 subtitle </itunes:subtitle>
+<itunes:summary>
+20230406 94要客訴 蔡英文會見麥卡錫全球200家媒體報導！獨家！中國只剩「400變80」美金走路工抗議！央視曝｢台海聯合巡航｣影片也假的！郭台銘選總統卡死侯有宜？藏半導體西進驚天大佈局？ summary
+</itunes:summary>
+<description>
+20230406 94要客訴 蔡英文會見麥卡錫全球200家媒體報導！獨家！中國只剩「400變80」美金走路工抗議！央視曝｢台海聯合巡航｣影片也假的！郭台銘選總統卡死侯有宜？藏半導體西進驚天大佈局？
+</description>
+<enclosure url="https://archive.org/download/20230405_20230406/20230406%2094%E8%A6%81%E5%AE%A2%E8%A8%B4.mp3" length='23213891' type='audio/mpeg'/>
+<itunes:duration>01:00:05</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230405_20230406/20230406%2094%E8%A6%81%E5%AE%A2%E8%A8%B4.mp3</guid>
+<pubDate>2023/04/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
