@@ -496,6 +496,25 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>新聞面對面</itunes:author>
+<title>
+20230406 新聞面對面 《 台灣總統首在美見政壇第3號人物！ 台美關係新紀元？ 》
+</title>
+<itunes:subtitle>新聞面對面 subtitle </itunes:subtitle>
+<itunes:summary>
+20230406 新聞面對面 《 台灣總統首在美見政壇第3號人物！ 台美關係新紀元？ 》 summary </itunes:summary>
+<description>
+20230406 新聞面對面 《 台灣總統首在美見政壇第3號人物！ 台美關係新紀元？ 》
+</description>
+<enclosure url="https://archive.org/download/20230405_20230406/20230406%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3" length='39143002' type='audio/mpeg'/>
+<itunes:duration>01:37:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230405_20230406/20230406%20%E6%96%B0%E8%81%9E%E9%9D%A2%E5%B0%8D%E9%9D%A2.mp3</guid>
+<pubDate>2023/04/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 
 </channel>
 </rss>
