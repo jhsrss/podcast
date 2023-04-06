@@ -1154,5 +1154,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230406 年代向錢看 Part 1 《獨！「蔡麥會」重磅登場！ 麥卡錫：台美友誼從未如此牢固！ 跨黨派齊聲挺台！「尼米茲號」台東岸近距離監控「山東號」！ 郭表態爭取！ 侯不再是「最強母雞」？ 》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230406 年代向錢看 Part 1 《獨！「蔡麥會」重磅登場！ 麥卡錫：台美友誼從未如此牢固！ 跨黨派齊聲挺台！「尼米茲號」台東岸近距離監控「山東號」！ 郭表態爭取！ 侯不再是「最強母雞」？ 》
+</itunes:summary>
+<description>
+20230406 年代向錢看 Part 1 《獨！「蔡麥會」重磅登場！ 麥卡錫：台美友誼從未如此牢固！ 跨黨派齊聲挺台！「尼米茲號」台東岸近距離監控「山東號」！ 郭表態爭取！ 侯不再是「最強母雞」？ 》
+ </description>
+<enclosure url="https://archive.org/download/20230406-part-1/20230406%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='18920713' type='audio/mpeg'/>
+<itunes:duration>00:46:39</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230406-part-1/20230406%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2023/04/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230406 年代向錢看 Part 2 《獨！ 麥蔡會登場！ 麥卡錫：中國沒有資格管我！ 習近平外交戰！ 馬克宏訪中成宣傳道具？！ 美軍備戰太平洋！ 蘋果加速搬離中國！ 美國封殺拼多多？！》
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230406 年代向錢看 Part 2 《獨！ 麥蔡會登場！ 麥卡錫：中國沒有資格管我！ 習近平外交戰！ 馬克宏訪中成宣傳道具？！ 美軍備戰太平洋！ 蘋果加速搬離中國！ 美國封殺拼多多？！》
+</itunes:summary>
+<description>
+20230406 年代向錢看 Part 2 《獨！ 麥蔡會登場！ 麥卡錫：中國沒有資格管我！ 習近平外交戰！ 馬克宏訪中成宣傳道具？！ 美軍備戰太平洋！ 蘋果加速搬離中國！ 美國封殺拼多多？！》
+ </description>
+<enclosure url="https://archive.org/download/20230406-part-1/20230406%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='15230024' type='audio/mpeg'/>
+<itunes:duration>00:38:06</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230406-part-1/20230406%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2023/04/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
