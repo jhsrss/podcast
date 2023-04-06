@@ -494,5 +494,46 @@
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>
+20230405 突發琪想 馬赴中 成「孤陋寡聞」的馬先生？小英見麥卡錫 小粉紅大崩潰？ 藍徵召失控？郭董大動作「鞠躬道歉」爭提名？「郭韓配」再添變數？
+</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20230405 突發琪想 馬赴中 成「孤陋寡聞」的馬先生？小英見麥卡錫 小粉紅大崩潰？ 藍徵召失控？郭董大動作「鞠躬道歉」爭提名？「郭韓配」再添變數？ summary
+</itunes:summary>
+<description>
+20230405 突發琪想 馬赴中 成「孤陋寡聞」的馬先生？小英見麥卡錫 小粉紅大崩潰？ 藍徵召失控？郭董大動作「鞠躬道歉」爭提名？「郭韓配」再添變數？
+</description>
+<enclosure url="https://archive.org/download/20230405_20230406/20230405%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='39522512' type='audio/mpeg'/>
+<itunes:duration>01:37:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230405_20230406/20230405%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2023/04/05</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>突發琪想</itunes:author>
+<title>
+20230406 突發琪想 「蔡麥會」！15億玻璃心碎？小粉紅搞手段 引國際更關注台灣？！ 藍徵召失控？郭「鞠躬道歉」爭提名？「郭韓配」添變數？
+</title>
+<itunes:subtitle>突發琪想 subtitle </itunes:subtitle>
+<itunes:summary>
+20230406 突發琪想 「蔡麥會」！15億玻璃心碎？小粉紅搞手段 引國際更關注台灣？！ 藍徵召失控？郭「鞠躬道歉」爭提名？「郭韓配」添變數？ summary
+</itunes:summary>
+<description>
+20230406 突發琪想 「蔡麥會」！15億玻璃心碎？小粉紅搞手段 引國際更關注台灣？！ 藍徵召失控？郭「鞠躬道歉」爭提名？「郭韓配」添變數？
+</description>
+<enclosure url="https://archive.org/download/20230405_20230406/20230406%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3" length='39837980' type='audio/mpeg'/>
+<itunes:duration>01:37:09</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230405_20230406/20230406%20%E7%AA%81%E7%99%BC%E7%90%AA%E6%83%B3.mp3</guid>
+<pubDate>2023/04/06</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+
 </channel>
 </rss>
