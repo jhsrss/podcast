@@ -1234,5 +1234,45 @@ summary </itunes:summary>
 <itunes:explicit>no</itunes:explicit>
 </item>
 
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230414 年代向錢看 Part 1 獨！ Bloomberg：台灣大選是美中大戰！ 牽動全球未來局勢？！ 日本看台灣大選！ 統派力挺侯友宜？！ 郭台銘、侯友宜拚民調！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230414 年代向錢看 Part 1 獨！ Bloomberg：台灣大選是美中大戰！ 牽動全球未來局勢？！ 日本看台灣大選！ 統派力挺侯友宜？！ 郭台銘、侯友宜拚民調！
+</itunes:summary>
+<description>
+20230414 年代向錢看 Part 1 獨！ Bloomberg：台灣大選是美中大戰！ 牽動全球未來局勢？！ 日本看台灣大選！ 統派力挺侯友宜？！ 郭台銘、侯友宜拚民調！
+ </description>
+<enclosure url="https://archive.org/download/20230413_20230414/20230414%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3" length='18935496' type='audio/mpeg'/>
+<itunes:duration>00:46:32</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230413_20230414/20230414%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%201.mp3</guid>
+<pubDate>2023/04/14</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
+<item>
+<link>https://jhsrss.github.io/</link>
+<itunes:author>年代向錢看</itunes:author>
+<title>
+20230414 年代向錢看 Part 2 獨拉斯穆森民調：70中國會入侵台灣！美中科技大戰！加拉格爾美資不能投資中國AI？！美國再殺12家中企！中國經濟吃土！貴州恐破產？！
+</title>
+<itunes:subtitle>年代向錢看 subtitle </itunes:subtitle>
+<itunes:summary>
+20230414 年代向錢看 Part 2 獨拉斯穆森民調：70中國會入侵台灣！美中科技大戰！加拉格爾美資不能投資中國AI？！美國再殺12家中企！中國經濟吃土！貴州恐破產？！
+</itunes:summary>
+<description>
+20230414 年代向錢看 Part 2 獨拉斯穆森民調：70中國會入侵台灣！美中科技大戰！加拉格爾美資不能投資中國AI？！美國再殺12家中企！中國經濟吃土！貴州恐破產？！
+ </description>
+<enclosure url="https://archive.org/download/20230413_20230414/20230414%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3" length='17554387' type='audio/mpeg'/>
+<itunes:duration>00:43:06</itunes:duration>
+<guid isPermaLink="false">https://archive.org/download/20230413_20230414/20230414%20%E5%B9%B4%E4%BB%A3%E5%90%91%E9%8C%A2%E7%9C%8B%20Part%202.mp3</guid>
+<pubDate>2023/04/14</pubDate>
+<itunes:explicit>no</itunes:explicit>
+</item>
+
 </channel>
 </rss>
